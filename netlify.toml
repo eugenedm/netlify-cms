@@ -1,5 +1,11 @@
 [build]
-  base = "/"
+  #base    = "subdirectory"
+  #publish = "subdirectory/dist/"
+  #command = "your build command"
+  #base = "/"
+  
+  
+  base = "/website/"
   #
   ignore = "git diff --quiet HEAD^ HEAD -- . ':!website/'"
 
@@ -8,3 +14,6 @@
   [build.environment]
     YARN_FLAGS = "--frozen-lockfile"
     YARN_VERSION = "1.22.4"
+
+
+ 
