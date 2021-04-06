@@ -61,7 +61,7 @@ const Info = styled.div`
 `;
 
 function Footer({ buttons }) {
-  return ;
+  // return ;
 
 //was above in the paranthesis
     // <Root>

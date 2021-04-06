@@ -10,7 +10,7 @@ const ChatLink = styled.a`
 `;
 
 function ChatButton() {
-  return ;
+  // return ;
 
 // was in the paranthesis above
 
