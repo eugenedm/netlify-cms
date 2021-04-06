@@ -3,7 +3,7 @@ title: "Koronavirus: výkup a prodej aut stále pokračuje."
 author: Lukas
 description: Deploy preview links from your GitHub repository are now surfaced
   in Netlify CMS for previewing builds of unpublished content.
-twitter_image: /img/seznam-ad3.jpg
+twitter_image: /img/gatsby.svg
 date: 2021-04-05T22:00:00.000Z
 ---
 Vzhledem k vládním nařízením se kvůli koronaviru uzavřely také autobazary. Některé z autobazarů přešly na formu prodej a výkup vozidel online. 
