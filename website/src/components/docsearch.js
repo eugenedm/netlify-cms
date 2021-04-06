@@ -48,7 +48,7 @@ function DocSearch() {
 
   return (
     <SearchForm>
-      <SearchField type="search" placeholder="Search the docs" id="algolia-search" />
+      <SearchField type="search" placeholder="Hledat" id="algolia-search" />
     </SearchForm>
   );
 }

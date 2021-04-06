@@ -192,7 +192,7 @@ function Header({ hasHeroBelow }) {
             <HeaderContainer>
               <Logo>
                 <Link to="/">
-                  <img src={logo} alt="Netlify CMS logo" />
+                  <img src={logo} alt="Dobry Vykup Logo" />
                 </Link>
               </Logo>
               <MenuActions>
@@ -208,18 +208,9 @@ function Header({ hasHeroBelow }) {
               </SearchBox>
               <Menu open={isNavOpen}>
                 <MenuList>
-                  <MenuItem
-                    css={css`
-                      margin-top: 8px;
-                    `}
-                  >
-                    <GitHubButton
-                      href="https://dobryvykup.cz"
-                      data-icon="octicon-home"
-                      aria-label="Dobry Vykup"
-                    >
-                      Domov
-                    </GitHubButton>
+ 
+                  <MenuItem>
+                    <NavLink to="https://dobryvykup.cz">Domov</NavLink>
                   </MenuItem>
 
                   <MenuItem>
@@ -238,14 +229,14 @@ function Header({ hasHeroBelow }) {
 export default Header;
 
 
+   // <GitHubButton
+   //                    href="https://dobryvykup.cz"
+   //                    data-icon="octicon-home"
+   //                    aria-label="Dobry Vykup"
+   //                  >
+   //                    Domov
+   //                  </GitHubButton>
 
-
-                  // <MenuItem>
-                  //   <NavLink to="/docs/intro/">Docs</NavLink>
-                  // </MenuItem>
-                  // <MenuItem>
-                  //   <NavLink to="/docs/contributor-guide/">Contributing</NavLink>
-                  // </MenuItem>
                   // <MenuItem>
                   //   <NavLink to="/community/">Community</NavLink>
                   // </MenuItem>
