@@ -10,16 +10,11 @@ const ChatLink = styled.a`
 `;
 
 function ChatButton() {
-  // return ;
-
-// was in the paranthesis above
-
-    // <ChatLink href="/chat" target="_blank" rel="noopener noreferrer">
-    //   <img src="/img/slack.svg" />
-    // </ChatLink>
-
-
-
+  return (
+    <ChatLink href="/chat" target="_blank" rel="noopener noreferrer">
+      <img src="/img/slack.svg" />
+    </ChatLink>
+  );
 }
 
 export default ChatButton;

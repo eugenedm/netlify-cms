@@ -195,21 +195,17 @@ function Header({ hasHeroBelow }) {
                   <img src={logo} alt="Dobry Vykup Logo" />
                 </Link>
               </Logo>
-              
-              // <MenuActions>
-              //   <SearchBtn onClick={handleSearchBtnClick}>
-              //     {isSearchOpen ? <span>&times;</span> : <img src={searchIcon} alt="search" />}
-              //   </SearchBtn>
-              //   <MenuBtn onClick={handleMenuBtnClick}>
-              //     {isNavOpen ? <span>&times;</span> : <span>&#9776;</span>}
-              //   </MenuBtn>
-              // </MenuActions>
-              // <SearchBox open={isSearchOpen}>
-              //   <DocSearch />
-              // </SearchBox>
-
-
-
+              <MenuActions>
+                <SearchBtn onClick={handleSearchBtnClick}>
+                  {isSearchOpen ? <span>&times;</span> : <img src={searchIcon} alt="search" />}
+                </SearchBtn>
+                <MenuBtn onClick={handleMenuBtnClick}>
+                  {isNavOpen ? <span>&times;</span> : <span>&#9776;</span>}
+                </MenuBtn>
+              </MenuActions>
+              <SearchBox open={isSearchOpen}>
+                <DocSearch />
+              </SearchBox>
               <Menu open={isNavOpen}>
                 <MenuList>
  
