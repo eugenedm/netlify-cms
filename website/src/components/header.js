@@ -191,7 +191,7 @@ function Header({ hasHeroBelow }) {
             <Notifications notifications={notifications} />
             <HeaderContainer>
               <Logo>
-                <Link to="/">
+                <Link to="https://dobryvykup.cz">
                   <img src={logo} alt="Dobry Vykup Logo" />
                 </Link>
               </Logo>

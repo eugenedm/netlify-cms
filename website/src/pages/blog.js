@@ -20,7 +20,7 @@ function Blog({ data }) {
       </Helmet>
       <Page>
         <Container size="sm">
-          <h1>Netlify CMS Blog</h1>
+          <h1>Náš Blog </h1>
           {data.allMarkdownRemark.edges.map(({ node }) => (
             <article
               key={node.id}
