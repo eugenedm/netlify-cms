@@ -10,7 +10,6 @@ import DocSearch from './docsearch';
 
 // import logo from '../img/netlify-cms-logo.svg';
 import logo from '../img/dobry.png';
-
 import searchIcon from '../img/search.svg';
 
 import theme from '../theme';
@@ -215,23 +214,14 @@ function Header({ hasHeroBelow }) {
                     `}
                   >
                     <GitHubButton
-                      href="https://github.com/netlify/netlify-cms"
-                      data-icon="octicon-star"
-                      data-show-count="true"
-                      aria-label="Star netlify/netlify-cms on GitHub"
+                      href="https://dobryvykup.cz"
+                      data-icon="octicon-home"
+                      aria-label="Dobry Vykup"
                     >
-                      Star
+                      Domov
                     </GitHubButton>
                   </MenuItem>
-                  <MenuItem>
-                    <NavLink to="/docs/intro/">Docs</NavLink>
-                  </MenuItem>
-                  <MenuItem>
-                    <NavLink to="/docs/contributor-guide/">Contributing</NavLink>
-                  </MenuItem>
-                  <MenuItem>
-                    <NavLink to="/community/">Community</NavLink>
-                  </MenuItem>
+
                   <MenuItem>
                     <NavLink to="/blog/">Blog</NavLink>
                   </MenuItem>
@@ -246,3 +236,16 @@ function Header({ hasHeroBelow }) {
 }
 
 export default Header;
+
+
+
+
+                  // <MenuItem>
+                  //   <NavLink to="/docs/intro/">Docs</NavLink>
+                  // </MenuItem>
+                  // <MenuItem>
+                  //   <NavLink to="/docs/contributor-guide/">Contributing</NavLink>
+                  // </MenuItem>
+                  // <MenuItem>
+                  //   <NavLink to="/community/">Community</NavLink>
+                  // </MenuItem>
