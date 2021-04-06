@@ -1,14 +1,22 @@
 ---
-title: Deploy Preview Links
-author: Shawn Erquhartz
+title: "Koronavirus: výkup a prodej aut stále pokračuje."
+author: Lukas
 description: Deploy preview links from your GitHub repository are now surfaced
   in Netlify CMS for previewing builds of unpublished content.
 twitter_image: /img/preview-link-unpublished.png
 date: 2019-02-08T19:30:00.000Z
 ---
-Netlify CMS 2.4.0 brings deploy preview links!
+Vzhledem k vládním nařízením se kvůli koronaviru uzavřely také autobazary. Některé z autobazarů přešly na formu prodej a výkup vozidel online. 
 
-![Deploy preview link for unpublished content](/img/preview-link-unpublished.png)
+Online prodej vozidel, je z hlediska prodeje ojetých vozidel stále ještě v plenkách. Smysl služby je takový, že si vozidlo vyberete z pohodlí domova. Autobazar vám vozidlo doveze až domů, tam vám vozidlo odprezentuje a zároveň i prodá. Některé oslovené autobazary dokonce vozidla prodávají na čerpacích stanicích, nebo tzv. před branou autobazaru. V těchto případech se ovšem nejedná o online prodej vozidel, ale o obcházení vládních opatření. Čas ukáže, zda-li si tato služba online prodeje vozidel, najde na českém trhu své zasloužené místo. 
+
+Online výkup vozidel:
+
+Na druhou stranu si online výkup vozidel již své místo na Českém trhu našel. Tato služba se stává stále oblíbenější. Na internetu jsou již několik let provozovatelé kteří se specializují na výkup vozidel online, teď se k nim pomalu přidávají i autobazary. Online výkup vozidel je velice pohodlná, praktická a rychlá služba. Jednoduše nabídnete vozidlo na stránkách poskytovatele online výkupu vozidel. Provozovatel služby vám provede online odhad ceny vozidla, pro vozidlo si přijede k vám domů a cenu vozidla vám na místě vyplatí v hotovosti.
+
+Tato služba se vám časově přizpůsobý a je pro prodávajícího nepochybně výhodnější než výkup vozu v autobazaru. 
+
+
 
 ## Seeing is believing
 
@@ -42,6 +50,7 @@ When the preview is ready, the "Check for Preview" button is replaced with a lin
 ![Deploy preview link for unpublished content](/img/preview-link-unpublished.png)
 
 ## Deep links
+
 Deploy preview links generally direct to the root of a site, but Netlify CMS can also link straight
 to the piece of content being edited. By [providing a string template](/docs/deploy-preview-links)
 for each collection, you can get links that go right where editors expect them to. More complex
@@ -49,6 +58,7 @@ URL's can be constructed [using date
 information](/docs/deploy-preview-links/#dates-in-preview-paths) from your content files.
 
 ## Unpublished vs. published
+
 If you're not using the editorial workflow, you may not feel you need this very much. Whenever you
 save content, it's immediatlely published, so you can navigate to your live site to see the changes.
 That said, it's at least convenient to have a link direct to your content from the CMS, so deploy
@@ -57,9 +67,11 @@ retrieving a URL from a commit status, this functionality requires setting a `si
 config, and that URL is used in place of the deploy preview URL.
 
 ## GitLab and Bitbucket
+
 Support is coming soon for these two awesome backends! Stay tuned.
 
 ## Try it out!
+
 Deploy preview links are live in Netlify CMS 2.4.0. Please give them a try and let us know if you
 have any problems by [opening an issue](https://github.com/netlify/netlify-cms/issues/new) or
 reaching out in our [community chat](https://netlifycms.org/chat)!
