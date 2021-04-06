@@ -8,7 +8,9 @@ import Container from './container';
 import Notifications from './notifications';
 import DocSearch from './docsearch';
 
-import logo from '../img/netlify-cms-logo.svg';
+// import logo from '../img/netlify-cms-logo.svg';
+import logo from '../img/dobry.png';
+
 import searchIcon from '../img/search.svg';
 
 import theme from '../theme';
