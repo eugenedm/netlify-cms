@@ -1,2 +1,3 @@
 npm run build
 
+npm run build  gatsby build && rm -rf dist && mv public dist
