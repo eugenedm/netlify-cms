@@ -5,7 +5,6 @@
   "scripts": {
     "start": "gatsby develop",
     "build": "gatsby build --prefix-paths && rm -rf dist && mv public dist",
-    // "move": "cd public && mkdir blog | cp * blog",
     "lint": "markdownlint 'content/docs/**/*.md'",
     "copy:contribs": "cp ../.all-contributorsrc data/contributors.json",
     "prepare": "npm run copy:contribs",
