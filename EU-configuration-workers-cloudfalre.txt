@@ -1,0 +1,34 @@
+// keep track of all our blog endpoints here
+const myBlog = {
+   hostname: "cranky12345.netlify.app/blog", // cranky12345.netlify.app/blog TODO change this to your blog domain
+   targetSubdirectory: "/blog", ///blog
+   assetsPathnames: ["/public/","/content/", "/assets/"]
+}
+async function handleRequest(request) {
+   // returns an empty string or a path if one exists
+   const formatPath = (url) => {
+      const pruned = url.pathname.split("/").filter(part => part)
+      return pruned && pruned.length > 1 ? `${pruned.join("/")}` : ""
+   }
+   const parsedUrl = new URL(request.url)
+   const requestMatches = match => new   RegExp(match).test(parsedUrl.pathname)
+
+    // if its blog html, get it
+    if (requestMatches(myBlog.targetSubdirectory)) {
+        console.log("this is a request for a blog document", parsedUrl.pathname)
+        const targetPath = formatPath(parsedUrl)
+        return fetch(`https://${myBlog.hostname}/${targetPath}`)
+    }
+    // if its blog assets, get them
+    if (myBlog.assetsPathnames.some(requestMatches)) {
+        console.log("this is a request for blog assets", parsedUrl.pathname)
+        const assetUrl = request.url.replace(parsedUrl.hostname, myBlog.hostname);
+        return fetch(assetUrl)
+    }
+    console.log("this is a request to my root domain", parsedUrl.host, parsedUrl.pathname);
+    // if its not a request blog related stuff, do nothing
+    return fetch(request)
+}
+addEventListener("fetch", event => {
+     event.respondWith(handleRequest(event.request))
+})
