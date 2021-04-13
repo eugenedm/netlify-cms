@@ -5,6 +5,9 @@ const yaml = require('js-yaml');
 const staticConfig = yaml.load(fs.readFileSync('./site.yml', 'utf8'));
 
 module.exports = {
+
+  pathPrefix: `/blog`,
+
   siteMetadata: {
     title: 'Netlify CMS | Open-Source Content Management System',
     description: 'Open source content management for your Git workflow',
