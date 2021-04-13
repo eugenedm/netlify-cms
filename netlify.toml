@@ -4,7 +4,7 @@
   #command = "your build command"
   #base = "/"
   
-  base = "/website/blog/"
+  base = "/website"
   publish = "website/blog/"
   #
   ignore = "git diff --quiet HEAD^ HEAD -- . ':!website/'"
@@ -17,3 +17,7 @@
 
 
  
+[[redirects]]
+  from = "/blog/*"
+  to = "https://cranky12345.netlify.app/:splat"
+  status = 200
