@@ -4,7 +4,8 @@
   "description": "Netlify CMS documentation website built with Gatsby",
   "scripts": {
     "start": "gatsby develop",
-    "build": "gatsby build && rm -rf dist && mv public dist",
+    "build": "gatsby build  && rm -rf dist && cd public && mkdir blog | cp * blog && mv public dist",
+    "move": "",
     "lint": "markdownlint 'content/docs/**/*.md'",
     "copy:contribs": "cp ../.all-contributorsrc data/contributors.json",
     "prepare": "npm run copy:contribs",
