@@ -1,7 +1,7 @@
 // keep track of all our blog endpoints here
 const myBlog = {
    hostname: "cranky12345.netlify.app/blog", // cranky12345.netlify.app/blog TODO change this to your blog domain
-   targetSubdirectory: "/blog", ///blog
+   targetSubdirectory: "/blog", // /blog
    assetsPathnames: ["/public/","/content/", "/assets/"]
 }
 async function handleRequest(request) {
