@@ -4,7 +4,7 @@
   #command = "your build command"
   #base = "/"
   
-  base = "/website"
+  base = "/website/blog/"
   publish = "website/blog/"
   #
   ignore = "git diff --quiet HEAD^ HEAD -- . ':!website/'"
