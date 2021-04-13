@@ -6,7 +6,7 @@ const staticConfig = yaml.load(fs.readFileSync('./site.yml', 'utf8'));
 
 module.exports = {
 
-  pathPrefix: `/blog`,
+  pathPrefix: ``,
 
   siteMetadata: {
     title: 'Netlify CMS | Open-Source Content Management System',
