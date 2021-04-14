@@ -31,7 +31,7 @@ function BlogPost({ data }) {
         {desc && <meta name="description" content={desc} />}
         {canonical_url && <link rel="canonical" href={canonical_url} />}
       </Helmet>
-      <TwitterMeta title={title} description={desc} image={twitterImageUrl} />
+    
       <BlogPostTemplate title={title} author={author} date={date} html={html} />
     </Layout>
   );
@@ -53,7 +53,6 @@ export const pageQuery = graphql`
         # meta_description
         date(formatString: "MMMM D, YYYY")
         author
-        twitter_image
         canonical_url
       }
       html
