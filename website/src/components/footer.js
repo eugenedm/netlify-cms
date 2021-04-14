@@ -22,28 +22,9 @@ const FooterGrid = styled.div`
   }
 `;
 
-const FooterButtons = styled.div`
-  margin-bottom: ${theme.space[3]};
-  ${mq[2]} {
-    margin-bottom: 0;
-  }
-`;
 
-const SocialButton = styled.a`
-  display: inline-block;
-  padding: ${theme.space[1]} ${theme.space[3]};
-  background-color: ${theme.colors.lightishGray};
-  color: white;
-  font-weight: 700;
-  font-size: ${theme.fontsize[2]};
-  border-radius: ${theme.radii[1]};
-  margin-right: ${theme.space[2]};
 
-  &:active,
-  &:hover {
-    background-color: ${theme.colors.darkGreen};
-  }
-`;
+
 
 const Info = styled.div`
   font-size: ${theme.fontsize[1]};

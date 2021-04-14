@@ -1,3 +1,8 @@
-npm run build
+run
+gatsby develop
+and then resave package.json and it will start working locally for some reason
+kind of anomaly but works
 
-npm run build  gatsby build && rm -rf dist && mv public dist
+no need to run yarn or npm
+
+Gene Adam

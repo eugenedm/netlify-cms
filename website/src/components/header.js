@@ -3,14 +3,14 @@ import { Link, graphql, StaticQuery } from 'gatsby';
 import styled from '@emotion/styled';
 import { css } from '@emotion/core';
 
-import GitHubButton from 'react-github-btn';
+
 import Container from './container';
 import Notifications from './notifications';
-import DocSearch from './docsearch';
+
 
 // import logo from '../img/netlify-cms-logo.svg';
 import logo from '../img/dobry.png';
-import searchIcon from '../img/search.svg';
+
 
 import theme from '../theme';
 import { mq } from '../utils';
@@ -75,7 +75,6 @@ const MenuBtn = styled.button`
   line-height: 1;
 `;
 
-const SearchBtn = styled(MenuBtn)``;
 
 const ToggleArea = styled.div`
   display: ${p => (p.open ? 'block' : 'none')};
@@ -90,13 +89,7 @@ const ToggleArea = styled.div`
   }
 `;
 
-const SearchBox = styled(ToggleArea)`
-  ${mq[1]} {
-    flex: 1;
-    max-width: 200px;
-    margin-right: ${theme.space[3]};
-  }
-`;
+
 
 const Menu = styled(ToggleArea)`
   ${mq[1]} {
@@ -149,7 +142,6 @@ const NOTIFS_QUERY = graphql`
 function Header({ hasHeroBelow }) {
   const [scrolled, setScrolled] = useState(false);
   const [isNavOpen, setNavOpen] = useState(false);
-  const [isSearchOpen, setSearchOpen] = useState(false);
 
   useEffect(() => {
     // TODO: use raf to throttle events
@@ -170,13 +162,9 @@ function Header({ hasHeroBelow }) {
 
   function handleMenuBtnClick() {
     setNavOpen(s => !s);
-    setSearchOpen(false);
   }
 
-  function handleSearchBtnClick() {
-    setSearchOpen(s => !s);
-    setNavOpen(false);
-  }
+
 
   return (
     <StaticQuery query={NOTIFS_QUERY}>

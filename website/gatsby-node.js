@@ -13,7 +13,8 @@ const { createFilePath } = require('gatsby-source-filesystem');
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions;
 
-  const docPage = path.resolve('./src/templates/doc-page.js');
+  // const docPage = path.resolve('./src/templates/doc-page.js');
+  const docPage = path.resolve('./src/templates/blog-post.js');
   const blogPost = path.resolve('./src/templates/blog-post.js');
 
   // get all markdown with a frontmatter path field and title
@@ -44,7 +45,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
     let template = docPage;
 
-    if (slug.includes('blog/')) {
+    if (slug.includes('/')) {
       template = blogPost;
     }
 
@@ -71,12 +72,12 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 
     let slug = value;
 
-    if (relativePath.includes('blog/')) {
+    if (relativePath.includes('/')) {
       const date = new Date(node.frontmatter.date);
       const year = date.getFullYear();
       const month = date.getMonth() + 1;
       const filename = path.basename(relativePath, '.md');
-      slug = `/blog/${year}/${pad(month)}/${filename}`;
+      slug = `/${year}/${pad(month)}/${filename}`;
 
       createNodeField({
         node,
