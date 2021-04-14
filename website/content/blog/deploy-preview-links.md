@@ -27,7 +27,7 @@ actual production build. Their words, not ours.
 
 ## Solution: GitHub Statuses
 
-![GitHub statuses](/img/pracenaden.png)
+![GitHub statuses](/blog/img/pracenaden.png)
 
 For sites using the GitHub (or Git Gateway with GitHub) backend, we now have deploy preview links in
 the CMS using the [GitHub Statuses
