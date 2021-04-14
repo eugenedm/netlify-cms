@@ -2,13 +2,13 @@ backend:
   name: github
   repo: eugenedm/netlify-cms
   squash_merges: true
-  open_authoring: true
+  # open_authoring: true
+  # publish_mode: editorial_workflow
 
 local_backend: true
 
 site_url: https://cranky12345.netlify.app
 
-# publish_mode: editorial_workflow
 
 media_folder: website/static/img
 public_folder: /blog/img
@@ -87,6 +87,8 @@ collections:
     label: Blog
     label_singular: Post
     folder: website/content/blog
+    show_preview_links: false
+
     preview_path: 'blog/{{year}}/{{month}}/{{title}}'
     create: true
     fields:
