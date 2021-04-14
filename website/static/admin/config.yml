@@ -2,8 +2,9 @@ backend:
   name: github
   repo: eugenedm/netlify-cms
   squash_merges: true
-  # open_authoring: true
-  # publish_mode: editorial_workflow
+
+  open_authoring: true
+  publish_mode: editorial_workflow
 
 local_backend: true
 
