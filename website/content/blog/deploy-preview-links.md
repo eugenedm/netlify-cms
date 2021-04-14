@@ -16,28 +16,14 @@ Na druhou stranu si online výkup vozidel již své místo na Českém trhu naš
 
 Tato služba se vám časově přizpůsobý a je pro prodávajícího nepochybně výhodnější než výkup vozu v autobazaru. 
 
-## Seeing is believing
-
-The editorial workflow allows editors to create draft content in Netlify CMS, and Netlify can
-provide deploy previews of draft content, but there hasn't been a way to access links to these
-preview builds from within Netlify CMS. The preview pane in the editor is a good tool for seeing how
-content will look on the site, but in the words of Marvin Gaye, "ain't nothing like the real thing!"
-As Mr. Gaye bemoaned the absence of his beloved, so content creators long for the warm embrace of an
-actual production build. Their words, not ours.
-
-## Solution: GitHub Statuses
-
 ![GitHub statuses](/blog/img/pracenaden.png)
 
-For sites using the GitHub (or Git Gateway with GitHub) backend, we now have deploy preview links in
-the CMS using the [GitHub Statuses
-API](https://developer.github.com/v3/repos/statuses/#get-the-combined-status-for-a-specific-ref).
+[
+API](https://developer.github.com/v3/repos/statuses/#get-the-combined-status-for-a-specific-ref). Yooooo
 Many static sites already have continuous deployment and deploy previews configured on their repo,
 and they often use statuses to provide a link to a deployment directly from a commit or pull
 request. To retrieve a commit status that provides a deploy preview URL, we check for a status whose
 "context" contains one of a list of keywords commonly associated with deploy previews.
-
-
 
 ![](/blog/img/car-ad3.jpg)
 
