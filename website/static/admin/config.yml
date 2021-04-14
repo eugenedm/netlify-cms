@@ -8,7 +8,7 @@ local_backend: true
 
 site_url: https://cranky12345.netlify.app
 
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 media_folder: website/static/img
 public_folder: /blog/img
