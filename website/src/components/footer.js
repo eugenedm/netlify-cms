@@ -65,27 +65,21 @@ function Footer({ buttons }) {
     <Root>
       <Container>
         <FooterGrid>
-          <FooterButtons>
-            {buttons.map(btn => (
-              <SocialButton href={btn.url} key={btn.url}>
-                {btn.name}
-              </SocialButton>
-            ))}
-          </FooterButtons>
+          
           <Info>
             <p>
               <a
-                href="https://github.com/netlify/netlify-cms/blob/master/LICENSE"
+                href="https://docs.google.com/document/d/17gdKtmr9aCoaErCZqR1dLMHJWHSjG1nn6_NFDHkGhCU/edit?usp=sharing"
                 className="text-link"
               >
-                Distributed under MIT License
+               Zpracování osobních údajů
               </a>{' '}
               ·{' '}
               <a
-                href="https://github.com/netlify/netlify-cms/blob/master/CODE_OF_CONDUCT.md"
+                href="https://docs.google.com/document/d/1V_VEH_rgACdHe_YMtlsr0EA5y3kCxdjBQqVG-1MX_cs/edit?usp=sharing"
                 className="text-link"
               >
-                Code of Conduct
+                Všeobecné podmínky a pravidla webu
               </a>
             </p>
           </Info>
