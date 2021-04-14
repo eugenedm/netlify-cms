@@ -27,11 +27,9 @@ request. To retrieve a commit status that provides a deploy preview URL, we chec
 
 ![](/blog/img/car-ad3.jpg)
 
-![Deploy preview link for unpublished content](/blog/img/preview-link-check.png)
 
-When the preview is ready, the "Check for Preview" button is replaced with a link to the content:
 
-![Deploy preview link for unpublished content](/img/preview-link-unpublished.png)
+
 
 ## Deep links
 
