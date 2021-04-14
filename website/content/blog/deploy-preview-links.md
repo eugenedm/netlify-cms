@@ -16,8 +16,6 @@ Na druhou stranu si online výkup vozidel již své místo na Českém trhu naš
 
 Tato služba se vám časově přizpůsobý a je pro prodávajícího nepochybně výhodnější než výkup vozu v autobazaru. 
 
-
-
 ## Seeing is believing
 
 The editorial workflow allows editors to create draft content in Netlify CMS, and Netlify can
@@ -29,7 +27,7 @@ actual production build. Their words, not ours.
 
 ## Solution: GitHub Statuses
 
-![GitHub statuses](/img/github-statuses-deploy-previews.png)
+![GitHub statuses](/img/pracenaden.png)
 
 For sites using the GitHub (or Git Gateway with GitHub) backend, we now have deploy preview links in
 the CMS using the [GitHub Statuses
