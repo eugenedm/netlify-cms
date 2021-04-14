@@ -18,9 +18,8 @@ Tato služba se vám časově přizpůsobý a je pro prodávajícího nepochybn�
 
 ![GitHub statuses](/blog/img/pracenaden.png)
 
-For sites using the GitHub (or Git Gateway with GitHub) backend, we now have deploy preview links in
-the CMS using the [GitHub Statuses
-API](https://developer.github.com/v3/repos/statuses/#get-the-combined-status-for-a-specific-ref).
+[
+API](https://developer.github.com/v3/repos/statuses/#get-the-combined-status-for-a-specific-ref). Yooooo
 Many static sites already have continuous deployment and deploy previews configured on their repo,
 and they often use statuses to provide a link to a deployment directly from a commit or pull
 request. To retrieve a commit status that provides a deploy preview URL, we check for a status whose
