@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet';
 import { graphql } from 'gatsby';
 import { trimStart, trimEnd } from 'lodash';
 
-import TwitterMeta from '../components/twitter-meta';
+
 import Layout from '../components/layout';
 import BlogPostTemplate from '../components/blog-post-template';
 
