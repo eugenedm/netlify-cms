@@ -37,11 +37,11 @@ and they often use statuses to provide a link to a deployment directly from a co
 request. To retrieve a commit status that provides a deploy preview URL, we check for a status whose
 "context" contains one of a list of keywords commonly associated with deploy previews.
 
-If a status is not found, nothing happens in the UI. If a status is found, but the deploy preview
-isn't ready, we provide a "Check for Preview" link, allowing the content editor to manually check
-back until the preview is ready:
 
-![Deploy preview link for unpublished content](/img/preview-link-check.png)
+
+![](/blog/img/car-ad3.jpg)
+
+![Deploy preview link for unpublished content](/blog/img/preview-link-check.png)
 
 When the preview is ready, the "Check for Preview" button is replaced with a link to the content:
 
