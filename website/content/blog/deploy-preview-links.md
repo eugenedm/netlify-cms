@@ -16,8 +16,6 @@ Na druhou stranu si online výkup vozidel již své místo na Českém trhu naš
 
 Tato služba se vám časově přizpůsobý a je pro prodávajícího nepochybně výhodnější než výkup vozu v autobazaru. 
 
-## Solution: GitHub Statuses
-
 ![GitHub statuses](/blog/img/pracenaden.png)
 
 For sites using the GitHub (or Git Gateway with GitHub) backend, we now have deploy preview links in
