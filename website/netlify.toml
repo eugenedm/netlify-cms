@@ -7,7 +7,7 @@
     YARN_FLAGS = "--frozen-lockfile"
     YARN_VERSION = "1.22.4"
 
-# [[redirects]]
-#  from = "/blog/*"
-#  to = "/:splat"
+[[redirects]]
+  from = "/blog/*"
+  to = "/:splat"
 
