@@ -18,15 +18,12 @@ class HTML extends React.Component {
           {this.props.headComponents}
           <link
             rel="stylesheet"
-            href="https://unpkg.com/docsearch.js@2.5.2/dist/cdn/docsearch.min.css"
           />
         </head>
         <body {...this.props.bodyAttributes}>
           {this.props.preBodyComponents}
           <div key={'body'} id="___gatsby" dangerouslySetInnerHTML={{ __html: this.props.body }} />
           {this.props.postBodyComponents}
-          <ChatButton />
-          <script src="//unpkg.com/docsearch.js@2.4.1/dist/cdn/docsearch.min.js" />
         </body>
       </html>
     );

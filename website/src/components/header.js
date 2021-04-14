@@ -199,7 +199,7 @@ function Header({ hasHeroBelow }) {
                   </MenuItem>
 
                   <MenuItem>
-                    <NavLink to="/blog/">Blog</NavLink>
+                    <NavLink to="https://dobryvykup.cz/blog/">Blog</NavLink>
                   </MenuItem>
                 </MenuList>
               </Menu>
