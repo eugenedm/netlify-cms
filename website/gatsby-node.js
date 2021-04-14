@@ -76,7 +76,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       const year = date.getFullYear();
       const month = date.getMonth() + 1;
       const filename = path.basename(relativePath, '.md');
-      slug = `/blog/${year}/${pad(month)}/${filename}`;
+      slug = `/${year}/${pad(month)}/${filename}`;
 
       createNodeField({
         node,
