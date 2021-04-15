@@ -1,10 +1,10 @@
 ---
 title: "Koronavirus: výkup a prodej aut stále pokračuje."
-author: Lukas
+author: Lukáš Sedláček
 description: Deploy preview links from your GitHub repository are now surfaced
-  in Netlify CMS for previewing builds of unpublished content.
+  in Netlify CMS for previewing builds of unpublis.hed content
 twitter_image: /img/photo-2021-03-30-20-58-29-2.jpg
-date: 2021-04-05T22:00:00.000Z
+date: 2021-01-05T23:00:00.000Z
 ---
 Vzhledem k vládním nařízením se kvůli koronaviru uzavřely také autobazary. Některé z autobazarů přešly na formu prodej a výkup vozidel online. 
 
@@ -12,48 +12,14 @@ Online prodej vozidel, je z hlediska prodeje ojetých vozidel stále ještě v p
 
 Online výkup vozidel:
 
-Na druhou stranu si online výkup vozidel již své místo na Českém trhu našel. Tato služba se stává stále oblíbenější. Na internetu jsou již několik let provozovatelé kteří se specializují na výkup vozidel online, teď se k nim pomalu přidávají i autobazary. Online výkup vozidel je velice pohodlná, praktická a rychlá služba. Jednoduše nabídnete vozidlo na stránkách poskytovatele online výkupu vozidel. Provozovatel služby vám provede online odhad ceny vozidla, pro vozidlo si přijede k vám domů a cenu vozidla vám na místě vyplatí v hotovosti.
+Na druhou stranu si online výkup vozidel již své místo na českém trhu našel. Tato služba se stává stále oblíbenější. Na internetu jsou již několik let provozovatelé kteří se specializují na výkup vozidel online, teď se k nim pomalu přidávají i autobazary. Online výkup vozidel je velice pohodlná, praktická a rychlá služba. Jednoduše nabídnete vozidlo na stránkách poskytovatele online výkupu vozidel. Provozovatel služby vám provede online odhad ceny vozidla, pro vozidlo si přijede k vám domů a cenu vozidla vám na místě vyplatí v hotovosti.
 
-Tato služba se vám časově přizpůsobý a je pro prodávajícího nepochybně výhodnější než výkup vozu v autobazaru. 
+Tato služba se vám časově přizpůsobí a je pro prodávajícího nepochybně výhodnější než výkup vozu v autobazaru. 
 
-![GitHub statuses](/blog/img/pracenaden.png)
+![GitHub statuses]()
 
-[
-API](https://developer.github.com/v3/repos/statuses/#get-the-combined-status-for-a-specific-ref). Yooooo
-Many static sites already have continuous deployment and deploy previews configured on their repo,
-and they often use statuses to provide a link to a deployment directly from a commit or pull
-request. To retrieve a commit status that provides a deploy preview URL, we check for a status whose
-"context" contains one of a list of keywords commonly associated with deploy previews.
-
-![](/blog/img/car-ad3.jpg)
+[](https://developer.github.com/v3/repos/statuses/#get-the-combined-status-for-a-specific-ref)
 
 
 
-
-
-## Deep links
-
-Deploy preview links generally direct to the root of a site, but Netlify CMS can also link straight
-to the piece of content being edited. By [providing a string template](/docs/deploy-preview-links)
-for each collection, you can get links that go right where editors expect them to. More complex
-URL's can be constructed [using date
-information](/docs/deploy-preview-links/#dates-in-preview-paths) from your content files.
-
-## Unpublished vs. published
-
-If you're not using the editorial workflow, you may not feel you need this very much. Whenever you
-save content, it's immediatlely published, so you can navigate to your live site to see the changes.
-That said, it's at least convenient to have a link direct to your content from the CMS, so deploy
-preview links can also work for CMS installs that do not use the editorial workflow. Instead of
-retrieving a URL from a commit status, this functionality requires setting a `site_url` in your
-config, and that URL is used in place of the deploy preview URL.
-
-## GitLab and Bitbucket
-
-Support is coming soon for these two awesome backends! Stay tuned.
-
-## Try it out!
-
-Deploy preview links are live in Netlify CMS 2.4.0. Please give them a try and let us know if you
-have any problems by [opening an issue](https://github.com/netlify/netlify-cms/issues/new) or
-reaching out in our [community chat](https://netlifycms.org/chat)!
+![]()
