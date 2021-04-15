@@ -9,27 +9,19 @@ date: 2021-04-15T07:53:58.767Z
 
 Pokud jste se rozhodli prodat svého plechového miláčka, je více způsobů kterými je možné vozidlo prodat. 
 
-
-
 ## **Prodej auta svépomocí**
 
 Tento způsob prodeje má své klady, ale i zápory. Při prodeji auta svépomocí, je potřeba vozidlo nabídnout. V dnešní době je nejpopulárnější inzerce na internetu, na některém z internetových portálů, který si vyberete. Zde bych doporučil vybrat si inzertní stránky které jsou více navštěvované a nejsou zpoplatněné. Inzerát by měl obsahovat základní parametry vozidla, zhodnocení jeho technického stavu, nabízené příslušenství, aktuální fotografie vozu a kontakt na prodávajícího.
 
-
-
 Co se bude dít dál?
 
 Máte-li již zájemce na vozidlo a pokud máte domluvený termín prohlídky, musíte zájemci váš vůz řádně odprezentovat.
-
-
 
 Co to znamená?
 
 Umožnit kupujícímu zkušební jízdu v dostatečné délce tak, aby si vozidlo vyzkoušel a ideálně v délce kterou si kupující určí sám. Poukázat na veškeré vady a nedostatky vašeho vozu, umožnit kupujícímu překontrolovat funkčnost, technický stav a v případě zájmu umožnit kupujícímu prohlédnutí vašeho vozu v autoservisu, nebo na stanici technické kontroly.
 
 Pokud si kupující řádně vozidlo prohlédl a seznámil se s jeho technickým stavem, můžete si s podepsat kupní smlouvu.
-
-
 
 Sepsání kupní smlouvy. 
 
@@ -43,13 +35,9 @@ Význam předávacího protokolu vozidla, je prokázání kdy, kdo, v jakém sta
 
 Dále doporučím s prodávajícím sjednat nové pojištění odpovědnosti za škody způsobené vozidlem.(tzv. povinné ručení) To lze sjednat ihned po internetu a nebo zajít osobně na pobočku pojišťovny. Vy máte možnost, na základě sepsané kupní smlouvy na vozidlo, zrušit stávající pojištění z důvodu prodeje vozidla. Vzniklý přeplatek na vám ke dni zrušení pojišťovna vrátí.
 
-
-
 Registrace vozidla na nového majitele.
 
 Po podpisu vzniká povinnost převést vozidlo na nového majitele v zákonné lhůtě. Zde doporučím vzájemnou součinnost obou stran a společně zajít na jakýkoliv registr vozidel v ČR a zde vozidlo převést na nového majitele. V případě že není možné, aby byly obě strany přítomny osobně při přepisu vozidla, může jedna strana tu druhou zplnomocnit k zastupování. Plná moc k zastupování má platnost pro daný úkon a podpis zmocnitele musí být úředně ověřen. (Stačí ověření podpisu na České poště) Dále je potřeba před registrací provést tzv. Evidenční kontrolu. Lze ji s vozidlem provézt na stanici technické kontroly a protokol má platnost jednoho měsíce.
-
-
 
 Odpovědnost za vady vozidla.
 
@@ -63,13 +51,9 @@ Po prodeji vozidla tzv. ručíte za další vzniklé závady na vozidle, máte j
 
 To znamená že zdánlivě dobrý prodej se vám může podstatně prodražit a nebo může dojít k odstoupení od smlouvy na základě neodstranitelných vad na vozidle. Při řešení sporu se postupuje dle občanského zákoníku.
 
-
-
 ## **Prodej auta v autobazaru**
 
 Nenechte se zmást. Pokud se rozhodnete prodat vaše vozidlo prostřednictvím autobazaru odpovědnosti za vady vozidla vás to nezbavuje.
-
-
 
  Autobazar zde postupuje na základě zprostředkovatelské smlouvy. To znamená že za vás vozidlo nabízí, může vás zastupovat při prodeji, z prodaného vozidla si odečte provizi a zbytek ceny prodaného vozidla vám vyplatí. Říká se tomu, komisní prodej vozidla. 
 
@@ -77,13 +61,9 @@ Tímto celá služba autobazaru končí a vy nadále ručíte za vozidlo a dá s
 
 Abychom to shrnuli: Autobazar nepřebírá záruky, služba kterou si odečte z ceny vozidla je službou za inzerci, prezentaci a sepsání smluv. Výhodou prodeje v komisním prodeji je čas, který ušetříte při zadávání inzerce a prezentaci vozidla.
 
-
-
 Výkup vozidla v autobazaru
 
 Výkup vozidla znamená rychle a dále bez starostí, prodat auto z pravidla za nižší cenu.
-
-
 
 Proč není zvážit zda-li finančně podporovat velké autobazary? Zpravidla zde bývá výkupní cena nižší, než u mobilního výkupu. 
 
@@ -91,13 +71,9 @@ Je hodně služeb výkupu vozidel, původně byla tato služba výsadou autobaza
 
 Tím bych rád navázal na velké společnosti v oblasti výkupu vozidel jako je Výkup AAA auto, Výkup auto ESA a výkup u některých prodejců nových vozidel. Zde se většinou negativně promítne výkupní cena vašeho vozidla. Jednoduše řečeno, vysoké náklady na provoz poboček někdo platit musí. Další souvislosti si již určitě spojíte.
 
-
-
 ## **Mobilní výkup vozidel**
 
 Nejjednodušší a nejmodernější způsob, jak rychle a bez starostí prodat vozidlo je mobilní, nebo také online výkup vozidel. 
-
-
 
 Zde se jedná o způsob výkupu vozidla, který se stává čím dál více oblíbenějším. 
 
@@ -115,8 +91,12 @@ Tato služba je poskytována na internetu.
 
 Jednoduše nabídnete vaše vozidlo prostřednictvím internetových stránek poskytovatele, nebo telefonicky. Vozidlo vám po telefonu ocení a domluví si s vámi na termín realizace výkupu vozidla.
 
+### **Pár slov na závěr**
+
+Závěrem bych vám chtěl popřát úspěšnou volbu, při prodeji vašeho plechového miláčka.
+
+Äutor: Lukáš Sedláček, zakladatel webu [www.dobryvykup.cz ](https//www.dobryvykup.cz)
+
 ![](www.dobryvykup.cz)
-
-
 
 <!--EndFragment-->
