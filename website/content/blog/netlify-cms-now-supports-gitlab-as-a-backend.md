@@ -1,10 +1,10 @@
 ---
 title: Netlify CMS now supports GitLab as a backend
 author: Benaiah Mischenko
-description: >-
-  Netlify CMS, the open source, headless CMS that provides a user-friendly UI
-  around your Git repository, can now be used with GitLab in addition to
-  GitHub.
+description: Netlify CMS, the open source, headless CMS that provides a
+  user-friendly UI around your Git repository, can now be used with GitLab in
+  addition to GitHub.
+twitter_image: /blog/img/car-ad3.jpg
 date: 2018-06-13T00:00:10.000Z
 ---
 Netlify CMS is releasing support for GitLab as a backend, creating the world's first completely open source stack for Git-based content editing.
@@ -29,4 +29,14 @@ Lastly, one particularly exciting thing about using GitLab as your backend is th
 
 ## What’s next
 
-We’re already working toward [Bitbucket](https://github.com/netlify/netlify-cms/pull/525) support and will be releasing it as soon as possible! We’re also focused on the upcoming release of [Netlify CMS 2.0](https://github.com/netlify/netlify-cms/issues/1280), which will bring new image handling features and improvements, and improved APIs for better CMS extensions. We’re also looking for more ideas and helping hands, so if you’re keen to build a smarter, safer, and more scalable CMS, we’d love your contributions. Give us a shout on [Twitter](https://twitter.com/netlifycms) or in [community chat](/chat) if you have questions or ideas.
+* asdfasdfasdf
+* asdfasdf 
+* fskdofksdofksd
+
+![stare auto na prodej](/blog/img/car-ad3.jpg "Pouzite auto")
+
+
+
+
+
+We’re already working toward [Bitbucket](https://dobryvykup.cz) support and will be releasing it as soon as possible! We’re also focused on the upcoming release of [Netlify CMS 2.0](https://github.com/netlify/netlify-cms/issues/1280), which will bring new image handling features and improvements, and improved APIs for better CMS extensions. We’re also looking for more ideas and helping hands, so if you’re keen to build a smarter, safer, and more scalable CMS, we’d love your contributions. Give us a shout on [Twitter](https://twitter.com/netlifycms) or in [community chat](/chat) if you have questions or ideas.
