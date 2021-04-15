@@ -16,10 +16,6 @@ Na druhou stranu si online výkup vozidel již své místo na českém trhu naš
 
 Tato služba se vám časově přizpůsobí a je pro prodávajícího nepochybně výhodnější než výkup vozu v autobazaru. 
 
-![GitHub statuses]()
+
 
 [](https://developer.github.com/v3/repos/statuses/#get-the-combined-status-for-a-specific-ref)
-
-
-
-![]()
