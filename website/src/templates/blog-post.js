@@ -53,7 +53,7 @@ export const pageQuery = graphql`
         # meta_description
         date(formatString: "MMMM D, YYYY")
         author
-        canonical_url
+        # canonical_url
       }
       html
     }
