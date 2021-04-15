@@ -97,6 +97,6 @@ Závěrem bych vám chtěl popřát úspěšnou volbu, při prodeji vašeho plec
 
 Autor: Lukáš Sedláček, specialista na výkup vozidel a zakladatel webu: [www.dobryvykup.cz ](https//www.dobryvykup.cz)
 
-![](www.dobryvykup.cz)
+
 
 <!--EndFragment-->
