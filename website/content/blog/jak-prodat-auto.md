@@ -91,6 +91,10 @@ Výkupní ceny jsou zde vyšší než v autobazarech z důvodu minimalizace prov
 
 Cenu vozidla znáte předem a většinou se podstatně neliší od skutečnosti.
 
+![](/blog/img/investment-3247252_1920.jpg)
+
+
+
 Další výhodou je, že se vám služba časově přizpůsobí.
 
 Tato služba je poskytována na internetu.
