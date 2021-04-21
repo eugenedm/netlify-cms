@@ -1,8 +1,7 @@
 ---
 title: "Koronavirus: výkup a prodej aut stále pokračuje."
 author: Lukáš Sedláček
-description: Deploy preview links from your GitHub repository are now surfaced
-  in Netlify CMS for previewing builds of unpublis.hed content
+description: Výkup automobilů online.
 twitter_image: /img/photo-2021-03-30-20-58-29-2.jpg
 date: 2021-01-05T23:00:00.000Z
 ---
