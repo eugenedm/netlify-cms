@@ -17,4 +17,8 @@ Tato služba se vám časově přizpůsobí a je pro prodávajícího nepochybn�
 
 
 
+Autor: Lukáš Sedláček 
+
+Máte zájem prodat vaše vozidlo? Více najdete  [ZDE](https://www.dobryvykup.cz/).
+
 [](https://developer.github.com/v3/repos/statuses/#get-the-combined-status-for-a-specific-ref)
