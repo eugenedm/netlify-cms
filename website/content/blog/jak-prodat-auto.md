@@ -9,6 +9,8 @@ date: 2021-04-15T07:53:58.767Z
 
 Pokud jste se rozhodli prodat svého plechového miláčka, je více způsobů kterými je možné vozidlo prodat. 
 
+![](/blog/img/installment-3572185_1920.jpg)
+
 ## **Prodej auta svépomocí**
 
 Tento způsob prodeje má své klady, ale i zápory. Při prodeji auta svépomocí, je potřeba vozidlo nabídnout. V dnešní době je nejpopulárnější inzerce na internetu, na některém z internetových portálů, který si vyberete. Zde bych doporučil vybrat si inzertní stránky které jsou více navštěvované a nejsou zpoplatněné. Inzerát by měl obsahovat základní parametry vozidla, zhodnocení jeho technického stavu, nabízené příslušenství, aktuální fotografie vozu a kontakt na prodávajícího.
@@ -51,6 +53,8 @@ Po prodeji vozidla tzv. ručíte za další vzniklé závady na vozidle, máte j
 
 To znamená že zdánlivě dobrý prodej se vám může podstatně prodražit a nebo může dojít k odstoupení od smlouvy na základě neodstranitelných vad na vozidle. Při řešení sporu se postupuje dle občanského zákoníku.
 
+![](/blog/img/graph1.png)
+
 ## **Prodej auta v autobazaru**
 
 Nenechte se zmást. Pokud se rozhodnete prodat vaše vozidlo prostřednictvím autobazaru odpovědnosti za vady vozidla vás to nezbavuje.
@@ -70,6 +74,8 @@ Proč není zvážit zda-li finančně podporovat velké autobazary? Zpravidla z
 Je hodně služeb výkupu vozidel, původně byla tato služba výsadou autobazarů, kde jste si připadaly jako při smlouvání na tržnici z devadesátých let. Většinou vás lákají na vysokou výkupní cenu aby vás přesvědčili přijet. Tato cena však většinou nebývá reálnou a reálná výkupní cena zde může být i o 30% nižší než byla přislíbena. Dále si zde některé autobazary účtují poplatky za prohlídku vozidla, za provedení prohlídky vozidla, za sepsání smluv a další. Tyto poplatky bývají zpravidla v ceně několika tisíc korun.
 
 Tím bych rád navázal na velké společnosti v oblasti výkupu vozidel jako je Výkup AAA auto, Výkup auto ESA a výkup u některých prodejců nových vozidel. Zde se většinou negativně promítne výkupní cena vašeho vozidla. Jednoduše řečeno, vysoké náklady na provoz poboček někdo platit musí. Další souvislosti si již určitě spojíte.
+
+![](/blog/img/shake-hand-3677534_1920.jpg)
 
 ## **Mobilní výkup vozidel**
 
