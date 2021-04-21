@@ -36,7 +36,7 @@ function Blog({ data }) {
                 <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
               </h2>
               <MetaInfo>
-                by {node.frontmatter.author} on {node.frontmatter.date}
+                 Autor: {node.frontmatter.author} &nbsp; &nbsp;  {node.frontmatter.date}
               </MetaInfo>
               <Lead>{node.frontmatter.description}</Lead>
             </article>
@@ -63,7 +63,8 @@ export const pageQuery = graphql`
             title
             description
             author
-            date(formatString: "MMMM D, YYYY")
+            # date(formatString: "MMMM D, YYYY")
+            date(formatString: "DD.MM.yy")
           }
           fields {
             slug

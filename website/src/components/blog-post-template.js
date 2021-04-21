@@ -18,7 +18,7 @@ export default function BlogPostTemplate({ title, author, date, body, html }) {
           {title}
         </h1>
         <MetaInfo>
-          by {author} on {date}
+          Autor:  {author} {date}
         </MetaInfo>
         <Markdown body={body} html={html} />
       </Page>
