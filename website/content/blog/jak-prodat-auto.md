@@ -95,8 +95,8 @@ Jednoduše nabídnete vaše vozidlo prostřednictvím internetových stránek po
 
 Závěrem bych vám chtěl popřát úspěšnou volbu, při prodeji vašeho plechového miláčka.
 
-Autor: Lukáš Sedláček, specialista na výkup vozidel a zakladatel webu: [www.dobryvykup.cz ](https//www.dobryvykup.cz)
+Autor: Lukáš Sedláček 
 
-
+Máte zájem prodat vaše vozidlo? Více najdete  [ZDE](https://www.dobryvykup.cz/).
 
 <!--EndFragment-->
