@@ -9,8 +9,8 @@ module.exports = {
   pathPrefix: `/blog`,
 
   siteMetadata: {
-    title: 'Netlify CMS | Open-Source Content Management System',
-    description: 'Open source content management for your Git workflow',
+    title: 'Jak prodat ojeté auto? ',
+    description: 'Jak postupovat při prodeji auta? Jak správně prodat auto? Prodam auto bez bazaru',
     siteUrl: pkg.homepage,
     menu: staticConfig.menu,
   },
