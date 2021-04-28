@@ -15,8 +15,8 @@ function Blog({ data }) {
   return (
     <Layout>
       <Helmet>
-        <title>Blog</title>
-        <meta name="description" content="Recent news and updates about Netlify CMS." />
+        <title>Výkup a Prodej Aut Blog</title>
+        <meta name="description" content="Výkup a Prodej Aut Blog" />
       </Helmet>
       <Page>
         <Container size="sm">
