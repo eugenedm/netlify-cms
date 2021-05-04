@@ -52,19 +52,26 @@ function Layout({ hasPageHero, children }) {
           >
             <Helmet defaultTitle={title} titleTemplate={`%s | ${title}`}>
               <meta name="description" content={description} />
-              <link
+           /*   <link
                 rel="stylesheet"
                 href="https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,700,900|Roboto+Mono:400,700"
-              />
+              />*/
 
              <link
               rel="preconnect"
               href="https://fonts.gstatic.com"
-             />
+              />
 
-            <link
-              href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap"
-              rel="stylesheet"
+
+              <link
+                href="https://fonts.googleapis.com/css2?family=PT+Serif&display=swap"
+                rel="stylesheet"
+              />
+
+
+             <link
+               href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap"
+               rel="stylesheet"
               />
 
 
