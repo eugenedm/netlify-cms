@@ -35,6 +35,8 @@ const globalStyles = css`
   h4,
   h5,
   h6 {
+    font-family: 'Source Sans Pro';
+
     line-height: ${theme.lineHeight[1]};
     margin-top: 0;
     margin-bottom: 0.5em;

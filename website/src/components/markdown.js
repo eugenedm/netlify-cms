@@ -59,12 +59,11 @@ const StyledMarkdown = styled.div`
   ul,
   p {
     font-family: 'PT Serif', serif;
-    font-size: 1.1em;
+    font-size: 1.2em;
     margin: 1.1em 0;
-    color: #2c3e50;
+    color: #111;
 
-    font-family: "PT Sans";
-    font-size: 22px;
+
     margin-bottom: 1rem;
   }
 

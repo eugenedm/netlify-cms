@@ -26,7 +26,7 @@ module.exports = {
     bold: 700,
     black: 900,
   },
-  fontFamily: "'Source Sans Pro', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif",
+  fontFamily: "'PT Serif', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif",
   fontsize: ['10px', '12px', '14px', '16px', '18px', '24px', '32px', '42px', '64px'],
   lineHeight: [1, 1.3, 1.7],
   space: [0, '4px', '8px', '16px', '24px', '40px', '64px', '104px', '152px'],
