@@ -33,7 +33,8 @@ Máte zájem prodat vaše vozidlo? Více najdete  [ZDE](https://www.dobryvykup.c
 
 *I v době pandemie Covid-19 výkup vozidel nepřerušen. Mobilní výkup vozidel je zde stále pro vás. Přijedeme, zaplatíme v hotovosti a veškeré formality vyřídíme za vás.*
 
-Kontaktujte nás [ZDE](https://www.dobryvykup.cz/).
+Kontaktujte nás [ZDE](https://www.dobryvykup.cz/).\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
