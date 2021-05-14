@@ -59,7 +59,7 @@ Odpovídá: *Lukáš Sedláček, specialista na výkup vozidel v ČR.*
 
 **Otázka:** *K čemu přesně slouží plná moc a jak má vypadat?*
 
-**Odpověď:** *Plná moc slouží k tomu, aby bylo možné registrovat vozidlo na nového majitele. Na plné moci musí být ověřený podpis zmocnitele(prodávajícího), ten lze jednoduše ověřit na Poště, kde poskytují službu CheckPoint, nebo na Městském, či Obecním úřadě. Plná moc k registraci, je ke stažení na našich internetových stránkách, stejně jako kupní smlouva.* 
+**Odpověď:** *Plná moc slouží k tomu, aby bylo možné registrovat vozidlo na nového majitele. Na plné moci musí být ověřený podpis zmocnitele(prodávajícího), ten lze jednoduše ověřit na Poště, kde poskytují službu Czech POINT, nebo na Městském, či Obecním úřadě. Plná moc k registraci, je ke stažení na našich internetových stránkách, stejně jako kupní smlouva.* 
 
 **Otázka:** *Jak je to po výkupu vozidla s pojištěním?*
 
@@ -67,7 +67,7 @@ Odpovídá: *Lukáš Sedláček, specialista na výkup vozidel v ČR.*
 
 **Otázka:** *Proč bych měl využít službu online výkup vozidel?*
 
-**Odpověď:** *Online výkup vozidel je bezpochyb výhodnější, než výkup vozu v autobazaru. Předem víte za kolik vaše vozidlo vykoupíme, nesmlouváme o ceně, přijedeme kdy se vám to nejlépe hodí, na místě vozidlo vykoupíme, peníze vám přivezeme v hotovosti, vše vám v průběhu výkupu ochotně vysvětlíme, dále se o vše postaráme za vás a vykoupené vozidlo si odvvážíme. Vše nám zabere přibližně 45 minut a máte po starostech.*
+**Odpověď:** *Online výkup vozidel je bezpochyb výhodnější, než výkup vozu v autobazaru. Předem víte za kolik vaše vozidlo vykoupíme, nesmlouváme o ceně, přijedeme kdy se vám to nejlépe hodí, na místě vozidlo vykoupíme, peníze vám přivezeme v hotovosti, vše vám v průběhu výkupu ochotně vysvětlíme, dále se o vše postaráme za vás a vykoupené vozidlo si odvážíme. Vše nám zabere přibližně 45 minut a máte po starostech.*
 
 **Otázka:** *Jak je to s kupní smlouvou při výkupu vozidla?*
 
