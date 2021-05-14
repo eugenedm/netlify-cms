@@ -17,7 +17,7 @@ Tenkrát byste za okénko svého auta umístili ceduli s textem “PRODÁM” a 
 
 I v dnešní době existuje spousta lidí, kteří tento výkup vozidel stále využívají, ale většina z nich, se již přemístila na internet.
 
-V dnešní době si můžete inzerovat vaše vozidlo na libovolných webových stránkách, nebo prostřednictvím sociálních sítí. Tento typ prodeje je pro ty, kteří se rozhodli najít kupujícího na vlastní pěst. S tímto způsobem prodeje je však spojeno mnoho nevýhod. Například, musíte vozidlo řádně prezentovat na internetu. Připravit vozidlo na prodej, následné prohlídky, projížďky, návštěvy servisů a telefonování se zájemci je velice časově náročné. A nakonec pokud se vám vozidlo podaří prodat, ručíte dle platného občanského zákoníku za následné vady vzniklé na vozidle po dobu jednoho roku od prodeje vozidlo. Zní to jako z hororového filmu. Prodat vozidlo a následně po dobu jednoho roku trnout strachy, co se s vozem děje a co budete ještě platit.   
+V dnešní době si můžete inzerovat vaše vozidlo na libovolných webových stránkách, nebo prostřednictvím sociálních sítí. Tento typ prodeje je pro ty, kteří se rozhodli najít kupujícího na vlastní pěst. S tímto způsobem prodeje je však spojeno mnoho nevýhod. Například, musíte vozidlo řádně prezentovat na internetu. Připravit vozidlo na prodej, následné prohlídky, projížďky, návštěvy servisů a telefonování se zájemci je velice časově náročné. A nakonec pokud se vám vozidlo podaří prodat, ručíte dle platného občanského zákoníku, za následné vady vzniklé na vozidle, po dobu jednoho roku od prodeje vozidla. Zní to jako z hororového filmu. Prodat vozidlo a následně po dobu jednoho roku trnout strachy, co se s vozem děje a co budete ještě platit.   
 
 ![](/blog/img/photo-1548479019-1edbd60c39e2.jpg)
 
@@ -37,8 +37,6 @@ Online výkup vozidel je pro ty, kteří chtějí rychle a bez starostí prodat 
 
 Odpovídá: *Lukáš Sedláček, specialista na výkup vozidel v ČR.*
 
- 
-
 **Otázka:** *Co znamená férové ocenění vozidla?*
 
 **Odpověď:** *Online výkup vozidel je služba zdarma, jedná se o výkup auta z domu a bez poplatku. Narozdíl od některých autobazarů, se snažíme garantovat cenu vozidla. Férové ocenění znamená, garance ceny vozidla po celou dobu výkupu.* 
@@ -55,13 +53,9 @@ Odpovídá: *Lukáš Sedláček, specialista na výkup vozidel v ČR.*
 
 **Odpověď:** *Online výkup vozidel je velice rychlá služba. Výkup vozidla nám na místě zabere 30 až 60 minut.* 
 
-
-
 **Otázka:** *Co vše budu k výkupu vozidla potřebovat?*
 
 **Odpověď:** *K vykupovanému vozidlu si nachystejte, Velký a malý technický průkaz, příslušenství k vozidlu a všechny klíče. Kupní smlouvu dovezeme a na místě si ji vypíšeme. Je vždy lepší, když máte připravenou plnou moc k přepisu vozidla. Není to však podmínkou, plnou moc lze zaslat dodatečně poštou, nebo si ji vyzvedneme.*
-
-
 
 **Otázka:** *K čemu přesně slouží plná moc a jak má vypadat?*
 
@@ -75,17 +69,11 @@ Odpovídá: *Lukáš Sedláček, specialista na výkup vozidel v ČR.*
 
 **Odpověď:** *Online výkup vozidel je bezpochyb výhodnější, než výkup vozu v autobazaru. Předem víte za kolik vaše vozidlo vykoupíme, nesmlouváme o ceně, přijedeme kdy se vám to nejlépe hodí, na místě vozidlo vykoupíme, peníze vám přivezeme v hotovosti, vše vám v průběhu výkupu ochotně vysvětlíme, dále se o vše postaráme za vás a vykoupené vozidlo si odvvážíme. Vše nám zabere přibližně 45 minut a máte po starostech.*
 
-
-
 **Otázka:** *Jak je to s kupní smlouvou při výkupu vozidla?*
 
 **Odpověď:** *O nic se starat nemusíte, kupní smlouva je k náhledu i k vytištění na našich internetových stránkách a je dle platného občanského zákoníku. Tuto kupní smlouvu si na místě vypíšeme rukou a každá ze stran obdrží jeden originál.* 
 
-
-
 *V článku byly použity nejčastější dotazy při výkupu vozidel online.* 
-
-
 
 Autor: Lukáš Sedláček
 
