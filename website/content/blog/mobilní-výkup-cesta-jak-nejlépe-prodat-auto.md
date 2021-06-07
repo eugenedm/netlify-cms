@@ -31,19 +31,7 @@ Mobilní výkup znamená, že auto přijedeme vykoupit k vám domů do 24 hodin 
 4. Odvážíme si vozidlo do jednoho z našich partnerských servisů, kde vozidlo ještě jednou prohlédneme a ihned začneme hledat nového majitele. 
 5. Vyřídíme veškeré formality. Na klientovi je pouze zrušení povinného ručení. 
 
-\--------BOX- GRAFICKY ODDĚLIT--------
-
-Mobilní výkup je nejjednodušší cesta, jak prodat auto. Proč? 
-
-* Je to jednoduché.
-* Ocenění auta je zdarma.
-* Jedná se o službu z domu. Klient nemusí nikam chodit a nikde auto nabízet. 
-* Jako jediní v ČR garantujeme předem domluvenou cenu. O ceně nikdy nesmlouváme!!! Jediné, co se může stát, je, že na základě nových zjištění během prohlídky klientovi s lítostí oznámíme, že o vůz bohužel nemáme zájem. 
-* Přebíráme garanci. 
-* Nemusíte se starat o přepis.
-* Zajistíme pojištění.
-
-\------------------
+![Mobilní výkup je nejjednodušší cesta, jak prodat auto. Proč?  ★	Je to jednoduché. ★	Ocenění auta je zdarma. ★	Jedná se o službu z domu. Klient nemusí nikam chodit a nikde auto nabízet.  ★	Jako jediní v ČR garantujeme předem domluvenou cenu. O ceně nikdy nesmlouváme!!! Jediné, co se může stát, je, že na základě nových zjištění během prohlídky klientovi s lítostí oznámíme, že o vůz bohužel nemáme zájem.  ★	Přebíráme garanci.  ★	Nemusíte se starat o přepis. ★	Zajistíme pojištění.](/blog/img/box.bmp)
 
 ## V čem je mobilní výkup ojetých aut lepší, než prodávat přes autobazar ?
 
