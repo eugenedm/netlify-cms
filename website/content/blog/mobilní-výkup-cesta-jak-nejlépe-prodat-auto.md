@@ -39,7 +39,7 @@ Zakladatel Dobrého výkupu Lukáš Sedláček pracoval v různých autobazarech
 
 V čem se Dobrý výkup liší od autobazaru: 
 
-![](/blog/img/tabulka.bmp)
+![  	Dobrý výkup.cz	Běžný autobazar Režijní náklady	Máme minimální náklady na provoz, protože nemáme provozovnu a celkově minimalizujeme režijní náklady.	Zejména velké autobazary mají obrovské režijní náklady, na které si musí vydělat.  Garance ceny	Cenu sdělenou předem po telefonu vždy garantujeme. 	Autobazary klienty často nalákají na zajímavě znějící ceny aut. Obvykle bývá pravidlem, že finální cena je až o 50 % nižší - zvláště u těch velkých autobazarů. Rychlost	Výkup nejdéle do 24 hodin.	Prodej se může táhnout i dlouhé měsíce. A pokud vám autobazar nabídne přímý výkup, obvykle to bývá silně pod tržní cenou.  Časová flexibilita	Časově se přizpůsobíme, a to i o víkendech. 	Autobazary mají pevně danou otevírací dobu.  Moderní služba	V USA je mobilní výkup zcela běžný. U nás se do něj pustilo pouze pár individualistů. Lze však očekávat, že se i u nás stane mobilní výkup samozřejmostí. 	Zastaralá služba, kterou ovládají (často i nekalé) praktiky z 90. let. Rychlost nacenění	V týmu je nás několik. Obvykle stíháme nacenit váš vůz ještě tentýž den, maximálně však do druhého dne.	Někdy i několik dní.  Kompletní servis	Ano. Vše vyřídíme od A do Z, včetně čištění interiéru, vyřízení pojistky, případně přepisu. Jediné, o co nám jde, je technický stav vozu. 	Autobazar bývá většinou jen zprostředkovatelem. Vše okolo si musíte vyřídit sami.  Výše výkupní ceny	Naše výkupní ceny bývají přibližně o 20 % nižší, než je tržní cena. 	U autobazarů bývají výkupní ceny nižší až o 50 %, než je tržní cena. ](/blog/img/tabulka.bmp)
 
 ## Pozor na rizika prodeje vozu na internetu!
 
