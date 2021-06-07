@@ -9,6 +9,8 @@ date: 2021-06-07T12:27:24.594Z
 
 “Osobně jezdím na výkupy a je mi líto, že se naše služba nedostává více do povědomí lidí. Mnoho mých známých mrzí, že o naší službě nevědělo dříve,”  vysvětluje Lukáš Sedláček - zakladatel Dobrého výkupu. Režijní náklady drží velmi nízko, což je jejich obrovská výhoda, v které je téměř nikdo nepředběhne. Díky tomu jsou schopni nabídnout jednu z nejlepších výkupních cen.
 
+![](/blog/img/installment-3572185_1920.jpg)
+
 ## Co je to služba Dobrý výkup.cz? 
 
 Jedná se o mobilní výkup automobilů, nejčastěji ve věku 5-20 let stáří. 
@@ -32,8 +34,6 @@ Mobilní výkup znamená, že auto přijedeme vykoupit k vám domů do 24 hodin 
 5. Vyřídíme veškeré formality. Na klientovi je pouze zrušení povinného ručení. 
 
 ![Mobilní výkup je nejjednodušší cesta, jak prodat auto. Proč?  ★	Je to jednoduché. ★	Ocenění auta je zdarma. ★	Jedná se o službu z domu. Klient nemusí nikam chodit a nikde auto nabízet.  ★	Jako jediní v ČR garantujeme předem domluvenou cenu. O ceně nikdy nesmlouváme!!! Jediné, co se může stát, je, že na základě nových zjištění během prohlídky klientovi s lítostí oznámíme, že o vůz bohužel nemáme zájem.  ★	Přebíráme garanci.  ★	Nemusíte se starat o přepis. ★	Zajistíme pojištění.](/blog/img/boxx.bmp)
-
-![výkup aut](/blog/img/investment-5896895_1920.jpg)
 
 ## V čem je mobilní výkup ojetých aut lepší, než prodávat přes autobazar ?
 
@@ -60,8 +60,6 @@ Všechno je o psychologii. Autobazary vědí, jak člověka zpracovat. “Myslí
 Autobazary hrají s klienty psychologickou hru. Když klient přijde do autobazaru a stráví tam třeba i půl dne, řekne si, že přece neodejde s nepořízenou. Sedláček pozoroval v oboru stále více nespokojených klientů. Jedním z nich byl i jeho současný společník Gene Adam z USA. 
 
 “Často mi dělá velký problém klientům vysvětlit, že většina autobazarů slíbí lákavou částku za prodej vozu. Nakonec však vozidlo prodají za mnohem méně peněz - zpravidla o 30 % méně, než slíbili,” vysvětluje Sedláček. Jedná se o obchodní trik. “Mým cílem je, aby lidé pochopili, že my peníze dovezeme v hotovosti a v plné výši je na místě vyplatíme.”
-
-![](/blog/img/octavia.jpg)
 
 ## Proč se Dobrý výkup.cz zaměřuje na vozy stáří 5-20 let?
 
