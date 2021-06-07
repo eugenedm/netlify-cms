@@ -65,6 +65,8 @@ Autobazary hrají s klienty psychologickou hru. Když klient přijde do autobaza
 
 Z jednoduchého důvodu. Tato vozidla se ještě vyplatí servisovat a zároveň bývají stále v dobrém stavu. Starší auta by se nám z důvodu reklamací a skrytých vad nevyplatila - zapomenout nesmíte ani na ekopoplatky, což jsou další investice apod. Oproti tomu novější vozidla přenecháváme autorizovaným dealerům. Ti mají originál vybavení a diagnostiku. 
 
+![](/blog/img/obrázek1.jpg)
+
 ## Každý týden máme desítky nových aut
 
 Prodej aut přes nás bývá obvykle poměrně rychlý. Naše partnerské autoservisy by toho ostatně ani víc nestihly. Obvykle stíháme v průměru dva až tři výkupy denně. Aktuálně jezdíme na výkupy zejména v Jihomoravském, Moravskoslezkém, Středočeském kraji, do Prahy a stále rozšiřujeme region dál.
