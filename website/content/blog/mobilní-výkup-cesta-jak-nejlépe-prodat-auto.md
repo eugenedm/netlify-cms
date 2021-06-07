@@ -9,7 +9,7 @@ date: 2021-06-07T12:27:24.594Z
 
 “Osobně jezdím na výkupy a je mi líto, že se naše služba nedostává více do povědomí lidí. Mnoho mých známých mrzí, že o naší službě nevědělo dříve,”  vysvětluje Lukáš Sedláček - zakladatel Dobrého výkupu. Režijní náklady drží velmi nízko, což je jejich obrovská výhoda, v které je téměř nikdo nepředběhne. Díky tomu jsou schopni nabídnout jednu z nejlepších výkupních cen.
 
-![Výkup vozu v hotovosti](/blog/img/achievement-18134_1920.jpg)
+![Výkup vozu v hotovosti](/blog/img/malé-money.jpg)
 
 ## Co je to služba Dobrý výkup.cz? 
 
