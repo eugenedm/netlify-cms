@@ -71,6 +71,6 @@ Z jednoduchého důvodu. Tato vozidla se ještě vyplatí servisovat a zároveň
 
 Prodej aut přes nás bývá obvykle poměrně rychlý. Naše partnerské autoservisy by toho ostatně ani víc nestihly. Obvykle stíháme v průměru dva až tři výkupy denně. Aktuálně jezdíme na výkupy zejména v Jihomoravském, Moravskoslezkém, Středočeském kraji, do Prahy a stále rozšiřujeme region dál.
 
-Máte zájem prodat vaše auto? Více najdete zde: [CHCI PRODAT AUTO](www.dobryvykup.cz)
+Máte zájem prodat vaše auto? Více najdete zde: [CHCI PRODAT AUTO](https://www.dobryvykup.cz/)
 
 <!--EndFragment-->
