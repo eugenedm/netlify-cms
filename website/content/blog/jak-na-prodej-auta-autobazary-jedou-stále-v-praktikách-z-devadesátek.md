@@ -1,6 +1,6 @@
 ---
 title: Jak na prodej auta? Autobazary jedou stále v praktikách z devadesátek!
-author: Lukas
+author: Veronika M.
 description: Jak na prodej auta? Autobazary jedou stále v praktikách z
   devadesátek, rizika hrozí i při přímém prodeji
 meta_description: Jak na prodej auta? Autobazary jedou stále v praktikách z
@@ -16,9 +16,7 @@ Dovolte nám představit mobilní výkup ojetých aut.
 
 <br>
 
-
-
-![](/blog/img/tab.png)
+![Plánujete prodat auto? Pak máte tři možnosti:   1.	obrátit se na autobazar (velmi riziková možnost!) 2.	pustit se do prodeje na vlastní pěst (velmi riziková možnost!) 3.	zvolit mobilní výkup (Bezpečné. DOPORUČUJEME!)](/blog/img/tab.png)
 
 ## Proč se nepouštět do prodeje vozu na vlastní pěst?
 
