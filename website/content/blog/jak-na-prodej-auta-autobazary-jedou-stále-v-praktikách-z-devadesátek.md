@@ -8,8 +8,6 @@ meta_description: Jak na prodej auta? Autobazary jedou stále v praktikách z
 twitter_image: /blog/img/autohaus-2138927_1920.jpg
 date: 2021-06-27T12:30:57.651Z
 ---
-Jak na prodej auta? Autobazary jedou stále v praktikách z devadesátek, rizika hrozí i při přímém prodeji
-
 Váháte, kde a jak prodat auto? Je lepší pustit se do prodeje auta na vlastní pěst, nebo přenechat starosti o prodej autobazaru v komisním prodeji? Obě možnosti jsou ve své podstatě stejně riskantní - takříkajíc z bláta do louže. Pak je tu třetí možnost, jak prodat auto, o které bohužel moc lidí neví. Dovolte nám představit mobilní výkup ojetých aut.
 
 BOX:
@@ -67,4 +65,6 @@ Proč je mobilní výkup Dobrý výkup.cz nejlepší cesta, jak prodat auto?
 * Nikam nemusíte jezdit. Vše vyřídíte z pohodlí domova. 
 * Jedná se o výkup za hotové. Peníze vám vyplatíme na místě v hotovosti a vozidlo si odvážíme na prohlídku do jednoho z našich servisů. Brzy totiž vozidlo poputuje k novému majiteli.
 * Časově se vám přizpůsobíme, a to i o víkendech. 
-* Rychlost. Hotovost za vaše vozidlo můžete mít již do 24 hodin.
+* Rychlost. Hotovost za vaše vozidlo můžete mít již do 24 hodin. 
+
+Dala bych dvě tlačítka s výzvou k akci vedle sebe
