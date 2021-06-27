@@ -1,6 +1,6 @@
 ---
 title: Jak na prodej auta? Autobazary jedou stále v praktikách z devadesátek!
-author: Veronika M.
+author: Markéta M.
 description: Jak na prodej auta? Autobazary jedou stále v praktikách z
   devadesátek, rizika hrozí i při přímém prodeji
 meta_description: Jak na prodej auta? Autobazary jedou stále v praktikách z
