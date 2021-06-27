@@ -8,11 +8,10 @@ meta_description: Jak na prodej auta? Autobazary jedou stále v praktikách z
 twitter_image: /blog/img/autohaus-2138927_1920.jpg
 date: 2021-06-27T12:30:57.651Z
 ---
-![](/blog/img/jak-na-prodej-auta-1-1.jpg)
+[<img src="https://dobryvykup.cz/blog/img/jak-na-prodej-auta-1-1.jpg">](https://dobryvykup.cz)
 
 
-
-Váháte, kde a jak prodat auto? Je lepší pustit se do prodeje auta na vlastní pěst, nebo přenechat starosti o prodej autobazaru v komisním prodeji? Obě možnosti jsou ve své podstatě stejně riskantní - takříkajíc z bláta do louže. Pak je tu třetí možnost, jak prodat auto, o které bohužel moc lidí neví. Dovolte nám představit mobilní výkup ojetých aut.
+[](https://dobryvykup.cz)Váháte, kde a jak prodat auto? Je lepší pustit se do prodeje auta na vlastní pěst, nebo přenechat starosti o prodej autobazaru v komisním prodeji? Obě možnosti jsou ve své podstatě stejně riskantní - takříkajíc z bláta do louže. Pak je tu třetí možnost, jak prodat auto, o které bohužel moc lidí neví. Dovolte nám představit mobilní výkup ojetých aut.
 
 BOX:
 
