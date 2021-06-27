@@ -14,8 +14,7 @@ date: 2021-06-27T12:30:57.651Z
 \
 Dovolte nám představit mobilní výkup ojetých aut.
 
-\
-<img src="https://dobryvykup.cz/blog/img/drawing.jpg" alt="drawing" width="100%"/>
+
 
 ![](/blog/img/tab.png)
 
@@ -66,4 +65,4 @@ Proč je mobilní výkup Dobrý výkup.cz nejlepší cesta, jak prodat auto?
 * Časově se vám přizpůsobíme, a to i o víkendech. 
 * Rychlost. Hotovost za vaše vozidlo můžete mít již do 24 hodin. 
 
-Dala bych dvě tlačítka s výzvou k akci vedle sebe
+Máte zájem prodat vaše auto? Více najdete zde: [CHCI PRODAT AUTO](https://www.dobryvykup.cz/)
