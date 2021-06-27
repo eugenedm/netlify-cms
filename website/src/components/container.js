@@ -15,7 +15,7 @@ const Container = styled.div`
     p.size === 'sm' &&
     css`
       /*max-width: 800px;*/
-      max-width: 680px;
+      max-width: 700px;
     `};
 
   ${p =>

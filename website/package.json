@@ -33,6 +33,7 @@
     "gatsby-transformer-json": "3.1.0",
     "gatsby-transformer-remark": "3.1.0",
     "gatsby-transformer-yaml": "3.1.0",
+    "joi": "^17.4.0",
     "js-yaml": "^4.0.0",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
