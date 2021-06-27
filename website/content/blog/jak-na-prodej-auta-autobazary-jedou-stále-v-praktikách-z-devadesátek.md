@@ -14,11 +14,13 @@ date: 2021-06-27T12:30:57.651Z
 \
 Dovolte nám představit mobilní výkup ojetých aut.
 
+<br>
+
 
 
 ![](/blog/img/tab.png)
 
-Proč se nepouštět do prodeje vozu na vlastní pěst?
+## Proč se nepouštět do prodeje vozu na vlastní pěst?
 
 Málokterý prodávající si uvědomuje, jak velkému riziku se vystavuje, pokud se pustí do prodeje vozidla na vlastní pěst. 
 
@@ -36,7 +38,7 @@ Autobazary v tom umí chodit. Veškeré postupy mívají ošetřené tak, aby ne
 
 ”Vím o tom své. V různých autobazarech jsem pracoval více než 20 let a všemožné praktiky byly také důvodem, proč již s autobazary nechci mít nic společného a proč jsme založili Dobrý výkup.cz,” říká Lukáš Sedláček, zakladatel firmy. 
 
-Jaká rizika mohou nastat při prodeji ojetého vozu přes autobazar?
+## Jaká rizika mohou nastat při prodeji ojetého vozu přes autobazar?
 
 1. Stejná jako při prodeji na vlastní pěst, pouze s tou výjimkou, že s kupujícím většinou nejednáte osobně. O to je to horší, protože absolutně ztrácíte kontrolu nad celou situací. 
 2. Autobazar se staví do pozice zprostředkovatele a obvykle nenese za nic žádnou zodpovědnost.
@@ -52,7 +54,7 @@ Třetí - a nejlepší - možností, jak prodat vozidlo, je prostřednictvím mo
 
 Jak mobilní výkup funguje, si přečtěte zde. 
 
-Proč je mobilní výkup Dobrý výkup.cz nejlepší cesta, jak prodat auto?
+## Proč je mobilní výkup Dobrý výkup.cz nejlepší cesta, jak prodat auto?
 
 * Ocenění auta zdarma po telefonu. Již za pár minut budete znát reálnou hodnotu svého vozu. Tato metoda je mnohem spolehlivější, než odhad ceny auta provedený kalkulačkou. 
 * Garance ceny. Cenu, kterou vám sdělíme po telefonu, garantujeme. O ceně nesmlouváme. 
