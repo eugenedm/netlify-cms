@@ -10,18 +10,20 @@ date: 2021-06-27T12:30:57.651Z
 ---
 [<img src="https://dobryvykup.cz/blog/img/jak-na-prodej-auta-1-1.jpg">](https://dobryvykup.cz)
 
+[](https://dobryvykup.cz)Váháte, kde a jak prodat auto? Je lepší pustit se do prodeje auta na vlastní pěst, nebo přenechat starosti o prodej autobazaru v komisním prodeji? Obě možnosti jsou ve své podstatě stejně riskantní - takříkajíc z bláta do louže. Pak je tu třetí možnost, jak prodat auto, o které bohužel moc lidí neví. \
+\
+Dovolte nám představit mobilní výkup ojetých aut.
 
-[](https://dobryvykup.cz)Váháte, kde a jak prodat auto? Je lepší pustit se do prodeje auta na vlastní pěst, nebo přenechat starosti o prodej autobazaru v komisním prodeji? Obě možnosti jsou ve své podstatě stejně riskantní - takříkajíc z bláta do louže. Pak je tu třetí možnost, jak prodat auto, o které bohužel moc lidí neví. Dovolte nám představit mobilní výkup ojetých aut.
+\
+<img src="https://dobryvykup.cz/blog/img/drawing.jpg" alt="drawing" width="200"/>
 
-BOX:
 
-Plánujete prodat auto? Pak máte tři možnosti: 
 
-1. obrátit se na autobazar (velmi riziková možnost!)
-2. pustit se do prodeje na vlastní pěst (velmi riziková možnost!)
-3. zvolit mobilní výkup (Bezpečné. DOPORUČUJEME!)
 
-- - -
+
+
+
+![](/blog/img/tab.png)
 
 Proč se nepouštět do prodeje vozu na vlastní pěst?
 
