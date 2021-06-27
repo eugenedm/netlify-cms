@@ -15,13 +15,7 @@ date: 2021-06-27T12:30:57.651Z
 Dovolte nám představit mobilní výkup ojetých aut.
 
 \
-<img src="https://dobryvykup.cz/blog/img/drawing.jpg" alt="drawing" width="200"/>
-
-
-
-
-
-
+<img src="https://dobryvykup.cz/blog/img/drawing.jpg" alt="drawing" width="100%"/>
 
 ![](/blog/img/tab.png)
 
