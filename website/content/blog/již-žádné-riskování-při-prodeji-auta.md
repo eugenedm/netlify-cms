@@ -1,7 +1,7 @@
 ---
 title: Již žádné riskování při prodeji auta
 author: Markéta M.
-description: Výkup vozidel online.
+description: aneb, 5 hororových příběhů, které mohou při prodeji auta potkat i vás
 twitter_image: /blog/img/car-ad3.jpg
 date: 2021-07-05T18:45:51.146Z
 ---
