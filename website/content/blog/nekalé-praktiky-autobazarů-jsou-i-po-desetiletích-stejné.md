@@ -7,8 +7,6 @@ date: 2021-07-15T05:51:09.565Z
 ---
 ![](/blog/img/picture1.png)
 
-
-
 Lukáš Sedláček, zakladatel Dobrého výkupu.cz, pracoval v různých autobazarech přes dvacet let. O jejich nekalých praktikách při prodeji aut má proto hodně co vyprávět. Přetáčení tachometru a vydávání havarovaného auta na prodej za téměř nové není zdaleka tím jediným, co se v autobazarech děje. Obchodování s většinou z nich lze označit za velmi rizikové jak pro prodávajícího, tak pro kupujícího. Obchodník s ojetými auty totiž překvapivě nenese žádnou odpovědnost. 
 
 “Zavezete auto do autobazaru s vírou, že nebudete mít starosti,” říká Lukáš Sedláček a pokračuje: “Důvěřivě předáte plnou moc, veškeré doklady, klíče, příslušenství a do kufru jako bonus přidáte zimní pneumatiky. Poctivě seznámíte bazar s celkovým stavem a všemi závadami.” Nezatajíte ani důležitou informaci, že bylo auto havarované a následně neodborně opravené. S autobazaru odjíždíte s klidným pocitem, že se auto spolehlivě a bezpečně prodá. 
@@ -60,7 +58,7 @@ Podstatné je, že můžete mít na svém vozidle poškrábaný celý bok nebo r
 - - -
 
 Neriskujte a prodejte auto s námi přes DOBRÝ VÝKUP.cz. 
-a pak bych přidala to, co bylo v předchozím článku, JEN JSEM TO MALIČKO DOPLNILA: 
+
 
 Zjistěte o mobilním výkupu více zde,nebo nám rovnou zavolejte!
 
@@ -71,10 +69,8 @@ Zjistěte o mobilním výkupu více zde,nebo nám rovnou zavolejte!
 * Přebíráme za Vás záruky za vozidlo.
 * Zavolejte nám, nebo prodejte auto ihned zde.
 
-Přečtěte si recenze, které o nás napsali naši spokojení zákazníci na stránkách www.dobryvykup.cz
+Přečtěte si recenze, které o nás napsali naši spokojení zákazníci na stránkách [www.dobryvykup.cz](www.dobryvykup.cz)
 
 Těšíme se na Váš zájem o výkup auta! :-)
 
 Lukáš Sedláček a tým Dobrého výkupu
-
-TADY BYCH DALA VAŠI FOTKU, BUDE TO OSOBNĚJŠÍ, LIDÉ RÁDI MLUVÍ S NĚKÝM KONKRÉTNÍM
