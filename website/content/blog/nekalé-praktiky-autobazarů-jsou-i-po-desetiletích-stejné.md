@@ -59,7 +59,6 @@ Podstatné je, že můžete mít na svém vozidle poškrábaný celý bok nebo r
 
 Neriskujte a prodejte auto s námi přes DOBRÝ VÝKUP.cz. 
 
-
 Zjistěte o mobilním výkupu více zde,nebo nám rovnou zavolejte!
 
 * Nabízíme ocenění vozidla zdarma!
@@ -74,3 +73,5 @@ Přečtěte si recenze, které o nás napsali naši spokojení zákazníci na st
 Těšíme se na Váš zájem o výkup auta! :-)
 
 Lukáš Sedláček a tým Dobrého výkupu
+
+![](/blog/img/návrh-bez-názvu.png)
