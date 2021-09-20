@@ -5,15 +5,13 @@ description: Výkup aut Brno
 twitter_image: /blog/img/car-ad3.jpg
 date: 2021-09-20T14:59:40.489Z
 ---
-*" Zde příklad, výkup aut Brno "*
+*" Zde příklad: výkup aut Brno "*
 
 ### Kdy přijedeme? Kde se setkáme? Co všechno na vozidle kontrolujeme? Jaké parametry jsou pro výkup rozhodující? Kolik času zabere samotný akt výkupu? Jak vyřizujeme papíry? Kdo z nás na výkup dorazí? Proč se jedná o nejlepší cestu, jak prodat auto? A co dalšího potřebujete vědět? V následujícím článku vám představíme, jak výkup probíhá v praxi.
 
 ## **1. krok: První kontakt**
 
 Nejprve nám zašlete vyplněný [online formulář](https://www.dobryvykup.cz/#bottom) nebo nám zavoláte. Zjištěné údaje zpracujeme v co nejkratší době. Pokud jste nám zaslali online formulář, hned druhý den se můžete těšit na zavolání.
-
- 
 
 Během hovoru si s vámi doplníme ještě pár údajů a **sdělíme vám výkupní cenu,** jakou vám za váš vůz nabídneme. Za předpokladu, že nám sdělíte veškeré údaje a řeknete nám o všech závadách nebo poškozených dílech, **CENU vám budeme plně GARANTOVAT (a to jako jediní v ČR!).**
 
@@ -43,8 +41,6 @@ Pokud není na autě žádná nečekaná komplikace a my nemusíme volat na serv
 
 Například tehdy, pokud se nečekaně na vozidle rozsvítí nějaká kontrolka, o které si nejsme jisti, co znamená a kolik by stála oprava.
 
- 
-
 **TIP:** Oceníme, pokud nám dodáte seznam prací, které se na autě prováděly. Může to kladně ovlivnit výkupní cenu vozu. Nejedná se však o povinnost. Na místě ve své podstatě nemusí mít klient kromě vozidla vůbec nic.
 
 ![](/blog/img/4.jpg)
@@ -55,13 +51,9 @@ Například tehdy, pokud se nečekaně na vozidle rozsvítí nějaká kontrolka,
 
 *Obrázek: Na místě provedeme i diagnostiku vozu*
 
-
-
 ## 4: Papírování zabere okolo 10 minut
 
 Někteří klienti mají už v této chvíli připravenou OVĚŘENOU plnou moc, který slouží pro přepis vozidla. Pokud ne, lze nám ji následně zaslat poštou. Veškeré dokumenty máme **volně dostupné na našem webu**. Celé “papírování” je tedy plně transparentní a vše si můžete projít předem. Chybějící údaje doplňujeme ručně na místě.
-
- 
 
 Kupní smlouvy i plné moci vozíme vždy s sebou, nicméně někteří klienti si již dokumenty vytisknou a vyplní dopředu, což urychlí celý obchod. Posledním krokem je vyplacení **PENĚZ V HOTOVOSTI**.
 
@@ -69,15 +61,9 @@ Kupní smlouvy i plné moci vozíme vždy s sebou, nicméně někteří klienti 
 
 *Obrázek: Vyřízení dokumentů pro přepis auta zabere okolo 10 minut*
 
-
-
 ## 5: Co když se nedohodneme? 
 
 Pokud již během první komunikace začneme tušit, že pro nás výkup není zajímavý, klientům raději doporučíme, kde jinde se mohou pokusit prodat auto za cenu, jakou si představují. Případně klientovi sdělíme, že je vůz neprodejný a ať ho pouze dojezdí v rodině, nebo ho nechají zlikvidovat. Razíme totiž zásadu, že **musí být spokojenost na obou stranách.**
-
- 
-
- 
 
 ## [](<>)6: Nikdy netlačíme na snížení ceny, vše probíhá přátelsky
 
@@ -91,10 +77,6 @@ Vždy usilujeme o to, aby byly  spokojené obě strany - jak my, tak klient. Js
 
 **Jsme DISKRÉTNÍ!** Pokud přijede autobazar, často vzbudí velký rozruch a sousedé začnou koukat z oken. Oproti tomu my se snažíme chovat nenápadně a pokud se ukáže, že bychom museli o ceně smlouvat, tak se rozloučíme. Chováme se tak, aby to nebylo nepříjemné ani nám, ani klientovi. :-)
 
- 
-
- 
-
 ## [](<>)8: Je třeba dodat auto vyčištěné?
 
 **Není.** Chápeme, že vozidlo užíváte a nemůžete ho neustále udržovat ve 100% čistotě. Nevyčištěný interiér neřešíme. Po výkupu necháváme totiž auta vždy čistit mokrou technikou tepování. To, co nás zajímá, je, zda interiér není poničený, a celkový skutečný technický stav.
@@ -106,8 +88,6 @@ Vždy usilujeme o to, aby byly  spokojené obě strany - jak my, tak klient. Js
 ## 9: Kolik nás přijede a jak plánujeme cesty?
 
 Cesty si plánujeme obvykle na týden dopředu. V případě že na prodej spěcháte, jsme schopni přijet ještě ten samý den. Jezdí nás vždy tolik, abychom dokázali pokrýt všechny plánované výkupy v daný den. Například pokud jedeme pouze na jeden výkup do Ostravy, jedeme ve dvou. Samotný výkup provádí pouze jeden z nás a pokud je již jasné, že si s klientem plácneme a budeme vypisovat dokumenty, řidič dostává pokyn a odjíždí zpět na firmu. 
-
-
 
 ## 10: Na koho se můžete z našeho týmu těšit?
 
@@ -124,8 +104,6 @@ Maximum výkupů se snaží osobně pokrývat zakladatel Dobrého výkupu.cz Luk
 *Obrázek: „Na výkupy jezdím nejčastěji osobně." říká Lukáš Sedláček.*
 
 ![](/blog/img/icoico.png)
-
-
 
 **Jak DOBRÝ VÝKUP.cz funguje, si přečtěte [zde](https://www.dobryvykup.cz/blog/2021/06/mobiln%C3%AD-v%C3%BDkup-cesta-jak-nejl%C3%A9pe-prodat-auto).**
 
