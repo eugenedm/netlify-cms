@@ -5,8 +5,6 @@ description: Nejlepší Škoda výkup v ČR
 twitter_image: /blog/img/car-ad3.jpg
 date: 2021-10-10T18:52:01.047Z
 ---
-
-
 ## Služba [Dobrý výkup.cz](https://www.dobryvykup.cz/) nabízí nejvýhodnější ceny za výkup vozů Škoda. Prostřednictvím této služby výhodně prodáte zánovní Fabii, nebo i dvacet let starou Octavii.
 
 ![](/blog/img/skoda-fabia-2000-2007-2.png)
@@ -23,7 +21,11 @@ Nejedná se pouze o **výkup starších vozů Škoda,** ale i o **výkup zánovn
 
 Další podstatné výhody proč prodat Škodu prostřednictvím Dobrého výkup.cz, je garance výkupní ceny za váš vůz, rychlost a to že se služba přizpůsobí vaším požadavkům.  Více o tom jak celá služba funguje a jaké výhody nabízí, si přečtěte v článku [zde](https://www.dobryvykup.cz/blog/2021/06/mobiln%C3%AD-v%C3%BDkup-cesta-jak-nejl%C3%A9pe-prodat-auto).
 
- Pokud se chcete dozvědět, jaká je výkupní cena vašeho vozu Škoda, stačí zadat parametry vašeho vozu [zde](https://www.dobryvykup.cz/#bottom) do formuláře a vyčkat na odpověď.  
+ Pokud se chcete dozvědět, jaká je výkupní cena vašeho vozu Škoda, stačí zadat parametry vašeho vozu [zde](https://www.dobryvykup.cz/#bottom) do formuláře a vyčkat na odpověď. 
+
+![](/blog/img/skoda-fabia.png)
+
+ 
 
 **Jak to vše funguje?**
 
