@@ -2,7 +2,7 @@
 title: Výkup Škoda rychle a za nejlepší cenu
 author: Adam
 description: |
-  Výkup Škoda rychle a za nejlepší cenu
+  Výkup Škoda rychle a za nejlepší cenu.
   Dejte vaší Škodovce šanci posloužit ještě někomu jinému
 twitter_image: /blog/img/car-ad3.jpg
 date: 2022-01-10T08:58:06.316Z
