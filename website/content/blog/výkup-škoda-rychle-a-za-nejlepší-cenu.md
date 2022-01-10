@@ -17,17 +17,13 @@ Víte, že prodejem vaší staré a zdánlivě bezcenné Škodovky můžete posl
 
 ## Zánovní Octavie nebo dvacetiletá Fabie není překážkou
 
-
-
-Jsme národ Škodovek a snad každý znás zná někoho, kdo má nějakou starou Fabii, nebo Octavii, či jinou Škodovku. Každý však dříve nebo později bude řešit co s ní. Buď z důvodu koupě nového auta, nebo z důvodu nevyužití. Málokdo však ví, jestli má jeho stará Škodovka nějakou hodnou a případně jaká je. 
+Jsme národ Škodovek a snad každý z nás zná někoho, kdo má nějakou starou Fábii, nebo Octavii, či jinou Škodovku. Každý však dříve nebo později bude řešit co s ní. Buď z důvodu koupě nového auta, nebo z důvodu nevyužití. Málokdo však ví, jestli má jeho stará Škodovka ještě nějakou hodnou a případně jaká je. 
 
 S tím vám pomůže nová služba, která vám po telefonu řekne jakou má vaše auto cenu, peníze vám vyplatí v ihned hotovosti a pro vozidlo si přijede po celé ČR. Vše zařídí za vás, zdánlivě neprodejnému autu vdechne nový život a najde pro něj další uplatnění. Jedná se o mobilní výkup vozidel [www.dobryvykup.cz](http://www.dobryvykup.cz) a vykupují vozy Škoda po celé ČR.  
 
 ![](/blog/img/octa1sw.jpeg)
 
 ## Proč vozidla ŠKODA?
-
-
 
 Právě u vozidel Škoda je velice dobrá dostupnost náhradních dílů. Služba Dobrý výkup má k dispozici autoservisy, tím jsou schopni odservisovat auto velmi levně. Díly mají za nákupní ceny, ušetří tím náklady a vám tím nabídnou nejlepší garantovanou cenu za vaše auto.
 
@@ -37,31 +33,23 @@ Proto jsou schopni vykoupit dvacetiletou i zánovní Škodu v jakémkoliv stavu.
 
 ***“Vykupujeme auta srdcem”***
 
-*“Věřím, že prodejem auta jsme schopni udělat i dobrý skutek. Ne vždy se nám koupě či prodej auta vyplatí. Ale vždy mi udělá radost, když se nám podaří najít uplatnění pro auto například v rodině a ta ho u nás nadále servisuje. Jednám vždy na rovinu a snažím se všem vyjít vstříc. Jsem moc rád a děkuji za kladné recenze našich spokojených zákazníků.”* 
+*“Věřím, že prodejem auta jsme schopni udělat i dobrý skutek. Ne vždy se nám koupě či prodej auta vyplatí. Ale vždy mi udělá radost, když se nám podaří najít uplatnění pro auto například v rodině a ta ho u nás nadále servisuje. Jednám vždy na rovinu a snažím se všem vyjít vstříc. Jsem moc rád a děkuji za kladné recenze našich spokojených zákazníků."*
 
 říká: Lukáš Sedláček - zakladatel služby Dobrý výkup.
-
-
 
 Recenze si můžete přečíst [zde](http://www.dobryvykup.cz). 
 
 ![](/blog/img/octaii-face.jpeg)
 
-  
-
 ## **Nejen vozy ŠKODA**
-
-
 
 Výkup vozů Škoda není podmínka, stejně výhodně prodáte i ostatní značky vozidel bez rozdílu stáří a značky. Cenu vašeho vozidla znáte velice rychle a samotný prodej lze realizovat do 24 hodin. Služba se vždy přizpůsobí na míru vašemu času a možnostem.
 
-Tuto službu lze využít i pokud chcete znát skutečnou hodnotu vašeho starého vozidla a do budoucna uvažujete o jeho prodeji. Služba je transparentní máte přehled o průběhu a o vše se postará. 
+Tuto službu lze využít i pokud chcete znát skutečnou hodnotu vašeho starého vozidla a do budoucna uvažujete o jeho prodeji. Služba je transparentní máte přehled o celém průběhu a o vše se postará. 
 
 ![](/blog/img/car-5361190_1920.jpg)
 
 Nejedná se však o žádnou novinku, tato služba je ve světě běžná a velice oblíbená pro svou jednoduchost.
-
-
 
 Jak DOBRÝ VÝKUP.cz funguje, si přečtěte [zde](https://www.dobryvykup.cz/blog/2021/06/mobiln%C3%AD-v%C3%BDkup-cesta-jak-nejl%C3%A9pe-prodat-auto).
 
