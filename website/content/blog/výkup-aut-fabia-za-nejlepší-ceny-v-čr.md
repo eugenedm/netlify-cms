@@ -26,6 +26,8 @@ Cenu Fabie znáte předem, pro vozidlo si přijedou, na místě zaplatí, násle
 
 Jak samotný výkup funguje se můžete podívat [zde](https://www.dobryvykup.cz/blog/2021/09/jak-prob%C3%ADh%C3%A1-samotn%C3%BD-v%C3%BDkup-aut-s-dobr%C3%BDm-v%C3%BDkupem).
 
+![](/blog/img/peníze.jpg)
+
 ### Výkup Škoda je výhodný
 
 Výkup Škoda Fabia není podmínkou, dobrý výkup se specializuje na výkup aut všech značek a stáří. Ovšem u Škodovek je vzhledem k dostupnosti a ceně servisu nejvýhodnější cena na výkup. To je také důvodem proč zde lze výhodně prodat i zdánlivě bezcennou dvacetiletou Fábii, nebo Octavii. Navíc ušetříte čas a vyhnete se vyřizování a postávání ve frontách na úřadech. Jak již bylo řečeno, služba dobrý výkup se o vše postará za vás.
@@ -33,3 +35,25 @@ Výkup Škoda Fabia není podmínkou, dobrý výkup se specializuje na výkup au
 ### Jak prodat auto hned?
 
 Stačí zavolat, nebo vyplnit formulář zde na stránkách dobrého výkupu a ihned zjistíte výkupní cenu vašeho auta.
+
+**Jak DOBRÝ VÝKUP.cz funguje, si přečtěte [zde](https://www.dobryvykup.cz/blog/2021/06/mobiln%C3%AD-v%C3%BDkup-cesta-jak-nejl%C3%A9pe-prodat-auto).**
+
+Nebo nám rovnou zavolejte!
+
+1. **Nabízíme ocenění vozidla zdarma!**
+2. **GARANTUJEME CENU!**
+3. **Vyřídíme vše, co je třeba k přepisu vozidla.**
+4. **PENÍZE IHNED V HOTOVOSTI!**
+5. **Přebíráme za Vás záruky za vozidlo.**
+
+Zavolejte nám, nebo prodejte auto ihned **[zde](https://www.dobryvykup.cz/#bottom)**.
+
+Přečtěte si recenze, které o nás napsali naši spokojení zákazníci na stránkách **[www.dobryvykup.cz](https://www.dobryvykup.cz/)**
+
+Těšíme se na Váš zájem o výkup auta! :-)
+
+![](/blog/img/car-ad3.jpg)
+
+
+
+<!--EndFragment-->
