@@ -1,7 +1,7 @@
 ---
-title: Výkup aut VW rychle a za nejlepší cenu
+title: Výkup aut VW a Škoda
 author: Adam
-description: Výkup aut VW a Škoda jsnadno a rychle
+description: Výkup aut VW a Škoda snadno a rychle
 meta_description: >+
   Výkup VW rychle a za nejlepší cenu
    
