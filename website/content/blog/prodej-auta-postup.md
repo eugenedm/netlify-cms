@@ -1,7 +1,7 @@
 ---
 title: Prodej auta - postup
-author: Eliška
-description: Výkup auta recenze
+author: Klára S.
+description: Jak prodat auto bezpečně a rychle
 twitter_image: /blog/img/obrázek1.jpg
 date: 2022-07-10T08:27:13.570Z
 ---
