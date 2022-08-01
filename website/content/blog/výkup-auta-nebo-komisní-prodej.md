@@ -27,7 +27,7 @@ Většinou se pravdu dozvíte jen tehdy, když vám nový majitel vašeho vozidl
 
 Na druhou stranu, výkup auta je o poznání rychlejší a bezpečnější způsob prodeje vozidla. Zde sice prodáváte vozidlo za nižší cenu, ale ihned, bez čekání a hlavně bez starostí. Zde máte možnost vozidlo prodat i s menší vadou, nebo nedostatky. Hlavní doménou výkupu je však to, že dostanete peníze za vaše auto ihned a o nic se nemusíte starat.                        *„Pozor však na výkup auta do autobazaru, ty používají kličky, finty a smlouvací taktiky z devadesátých let. A o to jistě nestojíte."*
 
-V dnešní době můžete prodat auto rychle a bezpečně.  Například můžete využít službu Dobrý výkup, [www.dobryvykup.cz](http://www.dobrývýkup.cz)
+V dnešní době můžete prodat auto rychle a bezpečně.  Například můžete využít službu Dobrý výkup, [www.dobryvykup.cz](http://www.dobryvykup.cz)
 
 Jedná se o moderní, rychlý a bezpečný online výkup vozidel.                                                                                                                                                JAK VÝKUP AUT FUNGUJE? Jednoduše zavoláte, nebo nabídnete vozidlo [zde](https://www.dobryvykup.cz/#bottom), na stránkách dobrého výkupu. Předem znáte cenu, nikdo s vámi nesmlouvá, pro vozidlo si přijedou na vámi určené místo, cenu vozidla vyplatí na místě v hotovosti, vozidlo si odvezou, o veškeré formality spojené s přepisem se postarají a za vozidlo přebírají odpovědnost vůči novému majiteli. Celý výkup trvá na místě 30 až 45 minut, diskrétně, rychle a vy máte po starostech. Jak služba dobrý výkup funguje si můžete přečíst v předchozím článku [zde](https://www.dobryvykup.cz/blog/2021/09/jak-prob%C3%ADh%C3%A1-samotn%C3%BD-v%C3%BDkup-aut-s-dobr%C3%BDm-v%C3%BDkupem).   
 
