@@ -10,13 +10,13 @@ date: 2022-09-30T09:14:37.475Z
 
 ## Dobrý výkup recenze zákazníků
 
-Již několik let se služba Dobrý výkup snaží vykupovat auta tak trochu jinak, srdcem a s lidským přístupem.
+Již několik let se služba Dobrý výkup snaží vykupovat auta tak trochu jinak, srdcem a s lidským přístupem. Je to výkup vozidel pro každého a vždy se snaží najít společnou cestu tak, aby byl zákazník spokojený. 
 
-Je to výkup vozidel pro každého a vždy se snaží najít společnou cestu tak, aby byl zákazník spokojený. Za tu dobu bylo o Dobrém výkupu napsáno opravdu hodně. Avšak to co mluví opravdu za vše, jsou spokojení zákazníci a zákazníci kteří opakovaně využívají služeb dobrého výkupu.
+Za tu dobu bylo o Dobrém výkupu napsáno opravdu hodně. Avšak to co mluví opravdu za vše, jsou spokojení zákazníci a zákazníci kteří opakovaně využívají služeb dobrého výkupu.
 
 ![](/blog/img/info-icon.png)
 
-### *„Za tu dobu se mnoho zákazníků stalo naší součástí. I když potřebují třeba jen radu ohledně auta, vždy se na nás obrací s důvěrou a jistotou, že jim někdo pomůže. Naše služby využívají pravidelně a někteří nás doporučují dále. Snažíme se je nezklamat a udržet si dobré jméno, jak již náš Dobrý výkup napovídá. Naše služby jsou naší vizitkou a bude to tak i nadále. “            -*  říká Lukáš Sedláček, zakladatel [Dobrého výkupu.cz](http://www.dobryvykup.cz)
+### *„Za tu dobu se mnoho zákazníků stalo naší součástí. I když potřebují třeba jen radu ohledně auta, vždy se na nás obrací s důvěrou a jistotou, že jim někdo pomůže. Naše služby využívají pravidelně a někteří nás i doporučují dále. Snažíme se je nezklamat a udržet si dobré jméno, jak již náš Dobrý výkup napovídá. Naše služby jsou naší vizitkou a bude to tak i nadále. “            -*  říká Lukáš Sedláček, zakladatel [Dobrého výkupu.cz](http://www.dobryvykup.cz)
 
 ![](/blog/img/icoico80.jpg)
 
@@ -213,15 +213,15 @@ Vyzkoušel jsem zde zadat poptávku na výkup auta a teď POZOR: Hned druhý den
 
 Nebo nám rovnou zavolejte!
 
-1.     <!--\\[endif]-->**Nabízíme ocenění vozidla zdarma!**
+1.     <!--\\\[endif]-->**Nabízíme ocenění vozidla zdarma!**
 
-2.     <!--\\[endif]-->**GARANTUJEME CENU!**
+2.     <!--\\\[endif]-->**GARANTUJEME CENU!**
 
-3.     <!--\\[endif]-->**Vyřídíme vše, co je třeba k přepisu vozidla.**
+3.     <!--\\\[endif]-->**Vyřídíme vše, co je třeba k přepisu vozidla.**
 
-4.     <!--\\[endif]-->**PENÍZE IHNED V HOTOVOSTI!**
+4.     <!--\\\[endif]-->**PENÍZE IHNED V HOTOVOSTI!**
 
-5.     <!--\\[endif]-->**Přebíráme za Vás záruky za vozidlo.**
+5.     <!--\\\[endif]-->**Přebíráme za Vás záruky za vozidlo.**
 
 Zavolejte nám, nebo prodejte auto ihned [zde](https://www.dobryvykup.cz/#bottom).
 
