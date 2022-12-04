@@ -8,9 +8,7 @@ meta_description: |
 twitter_image: /blog/img/car-ad3.jpg
 date: 2022-12-04T18:29:48.095Z
 ---
-
-
-Možná jste již někdy potřebovali ocenit svoje staré vozidlo a chtěli jste zjistit, jaká je reálná cena vozu. Proto jste začali brouzdat po internetu a snažili jste se najít web na odhad ceny auta online, nebo jen výkup aut kalkulačka a doufali jste, tabulková hodnota vozu bude zdarma dostupná pro každého.
+Možná jste již někdy potřebovali ocenit své staré vozidlo a chtěli jste zjistit, jaká je reálná cena vozu. Proto jste začali brouzdat po internetu a snažili jste se najít web na odhad ceny auta online, nebo jen výkup aut kalkulačka a doufali jste, tabulková hodnota vozu bude zdarma dostupná pro každého.
 
 ![](/blog/img/credible-pay-car-.jpg)
 
@@ -18,11 +16,11 @@ Možná jste již někdy potřebovali ocenit svoje staré vozidlo a chtěli jste
 
 Na internetu je v dnešní době možné všechno, proto jsme provedli test odhadu reálné ceny vozidla za vás.
 
-Po pečlivém prozkoumání webů jsme zjistili, že žádný s těchto webů nefunguje za účelem, aby vám sdělil, jaká je reálná cena auta. Jedná se pouze o reklamní triky.
+Po pečlivém prozkoumání webů jsme zjistili, že žádný z těchto webů nefunguje za účelem, aby vám sdělil, jaká je reálná cena auta. Jedná se pouze o reklamní triky.
 
 Po vyplnění formuláře na odhad ceny vozidla šlo pouze o to, aby jsme do formuláře zaslali kontakt na nás. Následně nám volal jeden z větších autobazarů, který se skrýval za tímto neznámým webem. Samozřejmě byl neodbytný a snažil se nás přemluvit, abychom přijeli vozidlo prodat osobně.
 
-Z dalšího web nám dokonce napsali částku za vozidlo tak vysokou, jen aby nás to motivovalo zadat na sebe kontakt, za účelem prodeje vozidla. Opět se za webem skrýval nejmenovaný autobazar a snažil se nás přemlouvat na třetinové částce za naše vozidlo.
+Z dalšího web nám dokonce napsali částku za vozidlo tak vysokou, jen aby nás to motivovalo zadat na sebe kontakt, za účelem prodeje vozidla. Opět se za webem skrýval jiný nejmenovaný autobazar a snažil se nás přemlouvat na poloviční částce za naše vozidlo.
 
 V dalších případech byla situace obdobná a zklamání bylo na místě. Většinou jde o to vás tzv. chytit na háček a prodat vozidlo těm, komu by jste ho normálně ani nabídnout nechtěli.
 
@@ -40,31 +38,21 @@ Tato otázka je zásadní a vede vás ke správnému postupu při zjištění ho
 
 **1. Orientační cena: Cena jen pro mě ze zvědavosti.**
 
-
-
 **2. Potřebuji potvrzení: K dědickému řízení, k odkupu od firmy, pro vyrovnání majetku atd.**
 
-
-
 **3. Potřebuji vozidlo prodat: Jak prodat vozilo rychle, bezpečně a za adekvátní cenu.**
-
-
 
 ![](/blog/img/info-icon.png)
 
 **1.Orientační cena pro mě**
 
-Pokud nepotřebujete žádné potvrzení o hodnotě vozidla a jen tak ze zajímavosti chcete vědět jakou cenu má vaše auto. Je pro vás na internetu spousta inzertních serverů, které můžete využít jako porovnání prodávaných vozidel s vaším vozem. Zde si jednoduše naklikáte značku, typ a parametry vašeho vozidla a web vám vyfiltruje podobná vozidla prodávaná na internetu. Tato cena je velmi orientační a vždy se raději soustřeďte na ty levnější nabízené kousky. I na internetu totiž platí: „Je rozdíl prodávat nebo prodat.“ Tímto způsobem se alespoň jednoduše a zdarma dozvíte orientační hodnotu vozidla. Můžete využít inzertní weby jako jsou například: sauto.cz ; tipcars.cz ; cars.cz na Facebooku například marketplace, nebo evropskou nabídku vozidel na webu mobile.de. 
-
- 
+Pokud nepotřebujete žádné potvrzení o hodnotě vozidla a jen tak ze zajímavosti chcete vědět jakou cenu má vaše auto. Je pro vás na internetu spousta inzertních serverů, které můžete využít jako porovnání prodávaných vozidel s vaším vozem. Zde si jednoduše naklikáte značku, typ i parametry vašeho vozidla a web vám vyfiltruje podobná vozidla prodávaná na internetu. Tato cena je velmi orientační a vždy se raději soustřeďte na ty levnější nabízené kousky. I na internetu totiž platí: „Je rozdíl prodávat a prodat.“ Tímto způsobem se alespoň jednoduše a zdarma dozvíte orientační hodnotu vozidla. Můžete využít inzertní weby jako jsou například: sauto.cz ; tipcars.cz ; cars.cz na Facebooku například marketplace, nebo evropskou nabídku vozidel na webu mobile.de. 
 
 ![](/blog/img/certificat-79x929.jpg)
 
 **2.Potřebuji potvrzení o ceně vozidla**
 
 V případě, že vozidlo potřebujete ocenit v rámci dědictví, majetkového vypořádání, nebo si chcete vozidlo odkoupit od firmy. Tak v těchto případech se dá získat posudek o ceně vozidla. Tento posudek získáte od nezávislé společnosti zabývající se nákupem a prodejem vozidel. Zde vám vystaví potvrzení o ceně vozidla, tento posudek lze získat v papírové formě a vše je možné vykomunikovat telefonicky, nebo fyzickou obhlídkou vozu a následným potvrzením. Tato služba je běžně zpoplatněna částkou od 500 do 2000,-Kč dle typu prohlídky. Cena se odvíjí od toho, zda-li je prohlídka jen dokladová,(tabulková hodnota vozu)  fyzická,(osobní prohlídka vozu) nebo souběh obou prohlídek kdy je cena i odhad nejpřesnější. Následné potvrzení a vyjádření o hodnotě vozidla je již v ceně a zasílá se poštou, mailem, nebo osobně dle náročnosti. Zde je dobré se předem telefonicky ujistit, zda-li konkrétní společnost nebo subjekt, poskytuje takovou službu.                                                                                        Potvrzení o ceně vozidla poskytuje i online služba [Dobrý výkup.cz](http://www.dobryvykup.cz) a vše vyřídíte velice rychle.
-
- 
 
 ![](/blog/img/carandmoney-929x164.jpg)
 
