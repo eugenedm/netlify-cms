@@ -5,11 +5,9 @@ description: Výkup aut je nejlepší cesta jak bezpečně prodat vaše auto
 twitter_image: /blog/img/car-ad3.jpg
 date: 2023-01-06T11:12:16.211Z
 ---
-
-
 Prodat staré auto je mnohdy úkol hodný odborníka. Chcete prodat auto z důvodu pořízení nového? Nebo je vaše auto postarší a máte k němu jen citový vztah? Poradíme vám, jak prodat auto rychle a do dobrých rukou.
 
-Asi to mnozí z vás již znají, když přijde čas prodat staré auto. Najednou si připadáte jako v divokém lese, kde na vás čeká spousta nástrah a je velice snadné naletět podvodníkům.
+Asi to mnozí z vás již znají, když přijde čas prodat staré auto. Najednou si připadáte jako v divokém lese, kde na vás čeká spousta nástrah a je zde velice snadné naletět podvodníkům. 
 
 ![](/blog/img/carmoney3.jpg)
 
@@ -25,9 +23,9 @@ Při osobním prodeji začíná ta pravá kovbojka. Podáte v dobré víře inz
 
 ## Prodejte auto bezpečně
 
-Poradíme vám jak prodat auto bezpečně a rychle. Využijte mobilní výkup vozidel, cenu za vaše auto znáte předem, vše za vás bezpečně vyřídí a pro vaše auto si přijedou osobně. Prodáte zde i auto bez STK, nebo auto s nějakou vadou. Celá služba je plně transparentní a vy máte o celém průběhu přehled. Nejedná se o žádný bazar ale o tým „srdcařů“ se zázemím autoservisu a kladným vztahem k automobilům. Jejich krédem je vzájemná spokojenost a vždy se snaží najít tu správnou cestu pro obě strany. Jedná se o službu [dobrývýkup.cz](http://www.dobryvykup.cz/) a fungují 7dní v týdnu. Májí také velice kladné recenze na výkup aut. Pokud uvažujete o prodeji vašeho plechového miláčka, služba Dobrého výkupu je k dispozici nepřetržitě a vykupují vozidla po celé ČR.
+Poradíme vám jak prodat auto bezpečně a rychle. Využijte mobilní výkup vozidel, cenu za vaše auto znáte předem, vše za vás bezpečně vyřídí a pro vaše auto si přijedou osobně. Prodáte zde i auto bez STK, nebo auto s nějakou vadou. Celá služba je plně transparentní a vy máte o celém průběhu přehled. Nejedná se o žádný bazar, ale o tým „srdcařů“ se zázemím autoservisu a kladným vztahem k automobilům. Jejich krédem je vzájemná spokojenost a vždy se snaží najít tu správnou cestu pro obě strany. Jedná se o službu [dobrývýkup.cz](http://www.dobryvykup.cz/) a fungují 7dní v týdnu. Mají také velice kladné recenze na výkup aut od zákazníků. Pokud uvažujete o prodeji vašeho plechového miláčka, služba Dobrého výkupu je k dispozici nepřetržitě a vykupují auta po celé ČR.
 
-
+![](/blog/img/info-icon.png)
 
 **Jak DOBRÝ VÝKUP.cz funguje, si přečtěte [zde](https://www.dobryvykup.cz/blog/2021/06/mobiln%C3%AD-v%C3%BDkup-cesta-jak-nejl%C3%A9pe-prodat-auto).**
 
