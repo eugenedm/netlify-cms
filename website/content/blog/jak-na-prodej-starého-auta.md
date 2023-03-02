@@ -9,11 +9,7 @@ a﻿neb „chci prodat auto“
 
 Jednoho dne si řeknete „prodám auto“, ale tímto si většinou i pokládáte otázku, jak prodat auto bez starostí.  Zde vám poradíme, jak prodat auto bezpečně a jak při prodeji auta postupovat.
 
- 
-
 Je mnoho způsobů jak prodat auto, ale cílem je vždy prodat auto rychle, bezpečně a s minimem starostí s vyřizováním administrativy spojené s přepisem vozidla.
-
- 
 
 ![](/blog/img/carmoney3.jpg)
 
@@ -23,11 +19,7 @@ Prodávat auto takzvaně na vlastní pěst, je většinou jak se říká běh na
 
 A velice často se stává, že se u starého auta vyskytne nějaká závada, kterou prodávající musí hradit ze svých prostředků.
 
- 
-
  Ne každý má dostatek času, nervů a energie to vše podstupovat a raději by se svým volným časem naložil jinak. Má to řešení a níže vám poradíme jak na to.
-
- 
 
 ![](/blog/img/obrázek1.jpg)
 
@@ -36,8 +28,6 @@ A velice často se stává, že se u starého auta vyskytne nějaká závada, kt
  Prodat auto můžete i z pohodlí domova. Ano nemusíte nikam chodit a nic vyřizovat.
 
 Jednoduše využijte mobilní výkup vozidel jako je Dobrý výkup.
-
- 
 
 ## A jak to funguje?
 
@@ -51,11 +41,7 @@ Navíc za vás přebírají záruky za technický stav vozidla vůči novému ma
 
 Vy tak máte vše bez starostí a vyřízeno během 30 až 45 minut na místě a dále již vše bez starostí.
 
- 
-
-Služba Dobrý výkup má velice dobré ohlasy, což dokazují i recenze spokojených zákazníků na internetových stránkách [www.dobryvykup.cz](http://www.dobryvykup.cz)  Zde můžete prodat vaše auto ihned i vy.  
-
- 
+Služba Dobrý výkup má velice dobré ohlasy, což dokazují i recenze spokojených zákazníků na internetových stránkách [www.dobryvykup.cz](http://www.dobryvykup.cz)  Zde můžete prodat vaše auto jednoduše i vy.  
 
 Vozidla vykupují i sedm dní v týdnu a v rámci celé ČR, celý proces prodeje je rychlý diskrétní a spolehlivý způsob jak dobře prodat auto.
 
