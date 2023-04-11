@@ -29,7 +29,7 @@ Mezi největší rizika při prodeji auta přes inzerát patří následující:
 
 5.     <!--\\[endif]-->S penězi nemůžete ihned disponovat, protože hrozí riziko, že kupující bude vůz reklamovat a bude chtít své peníze zpět.
 
-6.     <!--\\[endif]-->Musíte poskytnout záruku 24 měsíců na skryté vady. Pokud bude chtít kupující vozidlo reklamovat, je na vás, abyste prokázali, že v době prodeje daná závada na voze nebyla. Pokud se vám to nepodaří, budete muset vrátit peníze a kupující může mít skvělý pocit, že jezdil vašim vozem pár měsíců zcela zdarma. Horor zvaný autobazar
+6.     <!--\\[endif]-->Musíte poskytnout záruku 12 měsíců na skryté vady. Pokud bude chtít kupující vozidlo reklamovat, je na vás, abyste prokázali, že v době prodeje daná závada na voze nebyla. Pokud se vám to nepodaří, budete muset vrátit peníze a kupující může mít skvělý pocit, že jezdil vašim vozem pár měsíců zcela zdarma. Horor zvaný autobazar
 
 Autobazary v tom umí chodit. Veškeré postupy mívají ošetřené tak, aby nenesly prakticky žádnou zodpovědnost - to se týká zejména těch velkých hráčů na trhu, kteří mají všechny levárny zmáklé na výbornou. Staví se pouze do role zprostředkovatelů. Při komisním prodeji se totiž auta obvykle přepisují rovnou z prodávajícího na kupujícího. Nejsou tedy tím mezičlánkem, který by nesl zodpovědnost za stav vozidla aj.
 
@@ -58,7 +58,7 @@ Nejlepší cesta, jak prodat auto? Rozhodně mobilní výkup vozidel! Třetí - 
 * Ocenění auta zdarma po telefonu. Již za pár minut budete znát reálnou hodnotu svého vozu. Tato metoda je mnohem spolehlivější, než odhad ceny auta provedený kalkulačkou.
 * Garance ceny. Cenu, kterou vám sdělíme po telefonu, garantujeme. O ceně nesmlouváme.
 * Za své vozidlo získáte maximum ceny.
-* Za auto přebíráme veškeré záruky, a to dokonce i za skryté vady. Vůz zkrátka kupujeme tak, jak leží a běží. Nemusíte se celých zákonných 24 měsíců obávat reklamací skrytých vad.
+* Za auto přebíráme veškeré záruky, a to dokonce i za skryté vady. Vůz zkrátka kupujeme tak, jak leží a běží. Nemusíte se celých zákonných 12 měsíců obávat reklamací skrytých vad.
 * Nemusíte zjišťovat, co potřebujete k přepisu vozidla. Vše zařídíme včetně kupní smlouvy na prodej auta, přepisu a veškerých dalších formalit.
 * Vyřizujeme veškerá pojištění - kromě povinného ručení. To zrušit neumíme.
 * Nikam nemusíte jezdit. Vše vyřídíte z pohodlí domova.
