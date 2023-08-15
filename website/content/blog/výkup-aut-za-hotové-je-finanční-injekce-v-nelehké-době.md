@@ -1,7 +1,7 @@
 ---
 title: Výkup aut za hotové je finanční injekce v nelehké době
 author: Eliška
-description: Jak jednoduše prodat auto.
+description: Prodejem auta ušetříte.
 meta_description: >+
   Výkup aut za hotové je finanční injekce v nelehké době
 
