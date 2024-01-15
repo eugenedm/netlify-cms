@@ -19,13 +19,11 @@ date: 2021-10-10T18:52:01.047Z
 
 Nejedná se pouze o **výkup starších vozů Škoda,** ale i o **výkup zánovních vozů Škoda**. Služba u všech výkupů vozů Škoda přebírá záruky za technický stav vozidla, protože servisem vozidel disponuje za režijní náklady. To je důvod, proč může nabídnout lepší cenu za výkup. Dá se říci, že na věku i stavu vaší Škodovky nezáleží. Technický stav, stáří a počet najetých kilometrů vozidla pouze určují jeho výkupní cenu.
 
-Další podstatné výhody proč prodat Škodu prostřednictvím Dobrého výkup.cz, je garance výkupní ceny za váš vůz, rychlost a to že se služba přizpůsobí vaším požadavkům.  Více o tom jak celá služba funguje a jaké výhody nabízí, si přečtěte v článku [zde](https://www.dobryvykup.cz/blog/2021/06/mobiln%C3%AD-v%C3%BDkup-cesta-jak-nejl%C3%A9pe-prodat-auto).
+Další podstatné výhody proč prodat Škodu prostřednictvím Dobrého výkupu, je garance výkupní ceny za váš vůz, rychlost a to že se služba přizpůsobí vaším požadavkům.  Více o tom jak celá služba funguje a jaké výhody nabízí, si přečtěte v článku [zde](https://www.dobryvykup.cz/blog/2021/06/mobiln%C3%AD-v%C3%BDkup-cesta-jak-nejl%C3%A9pe-prodat-auto).
 
  Pokud se chcete dozvědět, jaká je výkupní cena vašeho vozu Škoda, stačí zadat parametry vašeho vozu [zde](https://www.dobryvykup.cz/#bottom) do formuláře a vyčkat na odpověď. 
 
 ![](/blog/img/skoda-fabia.png)
-
- 
 
 **Jak to vše funguje?**
 
