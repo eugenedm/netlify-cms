@@ -38,11 +38,11 @@ Kromě Prahy poskytujeme naše služby i v dalších městech, jako je Brno, Olo
 
 Spokojenost našich zákazníků je pro nás prioritou. Na webu [DobryVykup.cz](http://dobryvykup.cz) naleznete recenze a zkušenosti lidí, kteří využili našich služeb. 
 
-Zde jsou některé z nich:
+**Zde jsou některé z nich:**
 
-* "Rychlý a profesionální přístup. Prodal jsem auto během dvou dnů a vše proběhlo bez problémů." - Jan K.
-* "Výkup auta v Brně byl pro mě velmi pohodlný. Nemusel jsem nikam jezdit a peníze jsem měl na účtu okamžitě." - Petra L.
-* "Skvělá komunikace a férová cena. Doporučuji!" - Martin S.
+* *"Rychlý a profesionální přístup. Prodal jsem auto během dvou dnů a vše proběhlo bez problémů." - Jan K.*
+* *"Výkup auta v Brně byl pro mě velmi pohodlný. Nemusel jsem nikam jezdit a peníze jsem měl na účtu okamžitě." - Petra L.*
+* *"Skvělá komunikace a férová cena. Doporučuji!" - Martin S.*
 
 ## Vše vyřídí za vás a fungují 7 dní v týdnu
 
