@@ -1,7 +1,7 @@
 ---
 title: "Výkup aut online: Jak na to?"
 author: Martin
-description: "Výkup aut online: Jak na to?"
+description: Proč je nejlepší Dobrý výkup
 twitter_image: /blog/img/obrázek1.jpg
 date: 2024-07-31T09:28:09.889Z
 ---
