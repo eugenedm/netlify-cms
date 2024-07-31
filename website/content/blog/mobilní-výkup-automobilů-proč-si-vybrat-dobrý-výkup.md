@@ -40,8 +40,6 @@ Spokojenost našich zákazníků je pro nás prioritou. Na webu [DobryVykup.cz](
 
 **Zde jsou některé z nich:**
 
-
-
 * *"Jsme velice spokojeni. Dávali jsme zde na výkup Dacia Lodgy a perfektní jednání i přístup. Výkup auta byl otázka slabé hodinky a vše jsme měli vyřešeno s čistou hlavou. Mohu jen doporučit."* - **Veronika P., Výkup auta Dacia Lodgy**
 
 
