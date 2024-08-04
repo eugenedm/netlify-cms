@@ -13,6 +13,8 @@ Mobilní online výkup automobilů se stává stále populárnějším způsobem
 
 Prodání auta nikdy nebylo snazší. Na našem webu jednoduše vyplníte formulář s údaji o vašem vozidle, jako je značka, model, rok výroby, stav vozu a další důležité informace. Na základě těchto údajů vám auto naceníme a dále již se domlouváme na termínu prodeje. Následně si pro auto přijedeme, v rychlosti prohlédneme, zaplatíme a následně si ho odvezeme. Služba je naprosto transparentní a předem víte jak bude vše probíhat. Vše ostatní již za vás zařídíme a vy se již o nic starat nemusíte.
 
+![](/blog/img/info-icon.png)
+
 ## Proč prodat auto přes Dobrý výkup?
 
 1. **Komfort a pohodlí:** Nemusíte nikam jezdit, přijede přímo domů nebo na místo, které vám vyhovuje.
