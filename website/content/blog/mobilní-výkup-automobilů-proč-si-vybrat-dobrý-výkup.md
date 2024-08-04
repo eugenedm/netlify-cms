@@ -1,7 +1,7 @@
 ---
-title: " Mobilní výkup automobilů, proč si vybrat Dobrý výkup?"
+title: Nejlepší výkup automobilů je online
 author: Adam
-description: Nejlepší výkup aut po celé ČR
+description: Nejlepší výkup aut po celé ČR.
 twitter_image: /blog/img/car-ad3.jpg
 date: 2024-07-31T12:24:23.025Z
 ---
