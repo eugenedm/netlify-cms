@@ -23,7 +23,7 @@ Prodání auta nikdy nebylo snazší. Na našem webu jednoduše vyplníte formul
 4. **Profesionalita:** Máme dlouholeté zkušenosti s výkupem vozidel a poskytneme vám odborné poradenství.
 5. **Recenze:** Máme mnoho věrných zákazníků, kteří využívají služby Dobrého výkupu opakovaně. Za vše mluví recenze a zkušenosti spokojených zákazníků. 
 
-![](/blog/img/klíčky-auto.jpg)
+![](/blog/img/autíčko-a-kalkulačka.jpg)
 
 ## Výkup aut v Brně a dalších městech
 
@@ -38,6 +38,8 @@ Kromě Prahy poskytujeme naše služby i v dalších městech, jako je Brno, Olo
 5. **Doklady:** O veškeré papírování i přepis vozidla se postaráme za vás a vy se tak již o nic starat nemusíte.
 6. **Recenze:** Budeme rádi když nám zanecháte recenzi a podělíte se tak s ostatními o zkušenosti s výkupem auta. Jakékoliv doporučení i hodnocení je pro nás důležité a pomáhá nám, stále se zdokonalovat.  
 
+![](/blog/img/klíčky-auto.jpg)
+
 ## Recenze a zkušenosti našich zákazníků
 
 Spokojenost našich zákazníků je pro nás prioritou. Na webu [DobryVykup.cz](http://dobryvykup.cz) naleznete recenze a zkušenosti lidí, kteří využili našich služeb. 
@@ -47,6 +49,8 @@ Spokojenost našich zákazníků je pro nás prioritou. Na webu [DobryVykup.cz](
 * *"Jsme velice spokojeni. Dávali jsme zde na výkup Dacia Lodgy a perfektní jednání i přístup. Výkup auta byl otázka slabé hodinky a vše jsme měli vyřešeno s čistou hlavou. Mohu jen doporučit."* - **Veronika P., Výkup auta Dacia Lodgy**
 * *"Ve středu podaná nabídka prodeje online, nahrané fotky vozu. Ve čtvrtek telefonicky ověření údajů o voze, nabídka ceny. V pátek si auto odvezli a vyplatili dohodnutou cenu. Za mě perfektní servis. Díky "*- **Jan P., Výkup auta Toyota Yaris**
 *  "*Perfektní a naprosto profesionální přístup. Na rozdíl od jiných „profesionálů na auta“, pan Sedláček je férový člověk. Vstřícné a rychlé jednání, mohu jen vřele doporučit." -* **Jiří F., Výkup auta Škoda Superb Combi**
+
+![](/blog/img/info-icon.png)
 
 ## Vše vyřídí za vás a fungují 7 dní v týdnu
 
