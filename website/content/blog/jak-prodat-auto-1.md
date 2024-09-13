@@ -2,18 +2,16 @@
 title: Jak prodat auto
 author: Adam
 description: |+
-  Jak prodat auto
-
   Jak nejlépe prodat auto
 
 twitter_image: /blog/img/car-ad3.jpg
 date: 2024-09-13T10:28:16.963Z
 ---
-**Jak nejlépe prodat auto**
+**J﻿ak nejlépe prodat auto**
 
-### *Prodám auto, tak tímto rozhodnutím prodat auto vše začíná. Je však rozdíl mezi tím jak prodat auto a jak prodávat auto. Zde vám poradíme, jak prodat auto rychle, dobře a bez starostí.*
-
-![](/blog/img/info-icon.png)
+> #### *Prodám auto, tak tímto rozhodnutím prodat auto vše začíná. Je však rozdíl mezi tím jak prodat auto a jak prodávat auto. Zde vám poradíme, jak prodat auto rychle, dobře a bez starostí.*
+>
+> ![](/blog/img/info-icon.png)
 
 Pokud máte zájem prodat své staré auto, určitě chcete aby prodej proběhl rychle a jednoduše. V dnešní době máte mnoho možností jak prodat auto, ovšem pokud se nechcete vystavovat zbytečným rizikům, můžete využít služby mobilního výkupu vozidel. Zde máte možnost prodat vaše staré auto ihned, předem víte kolik za něj dostanete a dokonce si ho i odvezou.  
 
