@@ -107,6 +107,8 @@ Jak už bylo v předchozích článcích popsáno, prodej auta může být slož
 
 Ale dost, negativních informací. Zde vám poradíme jak prodat auto rychle, bezpečně a za dobrou cenu.
 
+![](/blog/img/credible-pay-car-.jpg)
+
 ## Jak prodat auto za dobrou cenu a rychle?
 
 Jak už název tohoto článku napovídá, prodávat auto neznamená prodat auto. Pokud pomineme zmíněné nástrahy při prodeji auta a zaměříme se pouze na prodej auta, je jediným způsobem jak prodat auto ihned a jak ho prodat bezpečně, mobilní výkup vozidel. 
@@ -115,7 +117,7 @@ Jednou z nejoblíbenějších a moderních služeb mobilního výkupu vozidel je
 
 Dobrý výkup nabízí výkup vozidel z domu, přičemž víte předem kolik za vaše auto dostanete a termínem i místem prodeje se vám plně přizpůsobí. Navíc si pro auto přijedou a veškerou administrativu vyřídí za vás. Je tedy jen na vašem rozhodnutí, kdy budete chtít auto prodat. 
 
-
+![](/blog/img/interiér3.jpg)
 
 ## **Proč zvolit Dobrý výkup - online výkup vozidel?**
 
@@ -124,6 +126,8 @@ Dobrý výkup nabízí výkup vozidel z domu, přičemž víte předem kolik za 
 **2.  Rychlost a pohodlí:** Prodat auto online, je nejrychlejší způsob jak prodat auto. Auto můžete vyplněním online formuláře na stránkách [www.dobryvykup.cz](http://www.dobryvykup.cz) nebo telefonicky. Cenu za auto vám sdělí předem a již se jen domlouváte na termínu prodeje. Následně si pro auto přijedou, zaplatí vám dohodnutou cenu a vše máte do hodiny na místě vyřízeno.
 
 **3.  Profesionální přístup:** Dlouholeté zkušenosti v oboru výkupu vozidel, otevřený a lidský přístup, to je Dobrý výkup. Jsou to srdcaři a jsou připraveni vám s prodejem auta poradit a vysvětlit vše co budete potřebovat. Veškerá podpora a poradenství s prodejem auta je zde samozřejmá a nabízí profesionální služby výkupu aut. Vašemu auto jsou připraveni dát druhou šanci, tak aby ještě někomu jinému dělalo radost. 
+
+![](/blog/img/info-icon.png)
 
 ## Jak prodat auto přes Dobrý Výkup?
 
@@ -135,17 +139,19 @@ Dobrý výkup nabízí výkup vozidel z domu, přičemž víte předem kolik za 
 
 **4.  Proces prodeje:** Po krátké prohlídce auta s vámi vypíší potřebné smlouvy a peníze obdržíte ihned na ruku, nebo převodem na účet, tak jak si budete přát. Následně si auto odváží a veškeré další administrativní úkony zařídí za vás. Tím pádem máte vše vyřízeno a dále již o nic dalšího nemusíte starat.
 
+![](/blog/img/sell-5301472_1920.jpg)
+
 ## Výhody prodeje auta přes Dobrý Výkup
 
-* Férová cena: Naše ceny vycházejí z reálné tržní hodnoty a jsou naprosto transparentní.
-* Rychlost a efektivita: Proces výkupu auta je rychlý, pro auto si přijedou a při jedné návštěvě máte vše vyřízeno.
-* Lidský přístup: Upřímnost, lidský přístup a profesionalita. Jsou vždy připraveni vám poradit a poskytnout podporu při prodeji auta.
-* Bezpečnost: Všechny procesy a dokumenty jsou dle platné legislativy a celý prodej auta je tak naprosto bezpečný.
-* Otevřenost: Recenze a zkušenosti s výkupem auta hovoří za vše, na stránkách Dobrého výkupu je transparentně popsán celý proces prodeje auta a pohled na celou věc jak ze strany zákazníka, tak ze strany Dobrého výkupu. Dobrý výkup si zakládá na dobrém jménu, což podtrhují doporučení a recenze spokojených zákazníků.
+* **Férová cena:** Naše ceny vycházejí z reálné tržní hodnoty a jsou naprosto transparentní.
+* **Rychlost a efektivita:** Proces výkupu auta je rychlý, pro auto si přijedou a při jedné návštěvě máte vše vyřízeno.
+* **Lidský přístup:** Upřímnost, lidský přístup a profesionalita. Jsou vždy připraveni vám poradit a poskytnout podporu při prodeji auta.
+* **Bezpečnost:** Všechny procesy a dokumenty jsou dle platné legislativy a celý prodej auta je tak naprosto bezpečný.
+* **Otevřenost:** Recenze a zkušenosti s výkupem auta hovoří za vše, na stránkách Dobrého výkupu je transparentně popsán celý proces prodeje auta a pohled na celou věc jak ze strany zákazníka, tak ze strany Dobrého výkupu. Dobrý výkup si zakládá na dobrém jménu, což podtrhují doporučení a recenze spokojených zákazníků.
 
-Prodat auto nemusí být složitý a stresující proces. Díky službám [Dobrý výkup](https://www.dobryvykup.cz/) můžete prodat své auto rychle, férově a bez starostí. Profesionální služby a lidský přístup vám zajistí klidný a bezproblémový prodej auta.
+Prodat auto nemusí být složitý a stresující proces. Díky službám [Dobrého výkupu](https://www.dobryvykup.cz/) můžete prodat své auto rychle, férově a bez starostí. Profesionální služby a lidský přístup vám zajistí klidný a bezproblémový prodej auta.
 
-<!--StartFragment-->
+![](/blog/img/obrázek1.jpg)
 
 Dobrý Výkup - váš spolehlivý partner při prodeji auta.
 
@@ -154,13 +160,9 @@ Služba je naprosto transparentní a jak přesně Dobrý výkup funguje, již by
 Nebo nám rovnou zavolejte!
 
 1.     Nabízíme ocenění vozidla zdarma!
-
 2.     GARANTUJEME CENU!
-
 3.     Vyřídíme vše, co je třeba k přepisu vozidla.
-
 4.     PENÍZE IHNED V HOTOVOSTI!
-
 5.     Přebíráme za Vás záruky za vozidlo.
 
 Zavolejte nám, nebo prodejte auto ihned [zde](https://www.dobryvykup.cz/#bottom).
@@ -170,7 +172,5 @@ Přečtěte si recenze, které o nás napsali naši spokojení zákazníci na st
 Těšíme se na Váš zájem o výkup auta! :-)
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfsCaV855faJBnyub6LBebju8H2AkH43o2bPTNQNDiyV5WIWQRSaCFXEmfxR6k0DsZ1tCrp18Kiy_y8IKAm9ZVvU8gqrH4VcsulBc5BPiGGcfTX-QEYSv-LM9Yx38OUHGVS9s8rietskm0b0XHrv-wHy8w?key=CTtjTztM_zXrFBim7Tw3AA)
-
-
 
 <!--EndFragment-->
