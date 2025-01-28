@@ -11,6 +11,8 @@ Pokud zvažujete výkup auta v Brně a okolí, jste na správné adrese. Služb
 
 V tomto článku se podíváme na to, jak náš proces funguje, co říkají naši zákazníci a proč jsme jedinečnou službou pro výkup aut nejen v Brně, ale po celé České republice.
 
+![prodam auto](/blog/img/autíčko-a-kalkulačka.jpg)
+
 ## **Jak funguje výkup auta v Brně s Dobrým výkupem?**
 
 Celý proces výkupu auta s naší službou je maximálně zjednodušený. Aby jste se ušetřili nekalých praktik autobazarů a léček podvodníků, zapomeňte na prodej auta na vlastní pěst. **Dobrý výkup** vám nabízí pohodlný a bezpečný způsob, jak auto prodat odkudkoliv z pohodlí vašeho domova. Jak to celé funguje?
@@ -30,6 +32,8 @@ Zákazníci často zmiňují, že výkup auta s námi je nejen rychlý, ale tak�
 *„Není to tak dlouho, tak jsem byl vyřizovat výkup auta u jedné rodiny již po třetí. Mezi některými zákazníky jsme si již vybudovali důvěru natolik, že se na nás obracejí opakovaně. Oceňují náš lidský přístup a to že se na nás mohou spolehnout. Hlavně to že si vše řekneme předem a na rovinu. Potom je samotný výkup auta již taková malá příjemná návštěva při které prodají auto a mají vše bez starostí vyřízeno. Snažím se podělit o své dlouholeté zkušenosti a kdykoliv rád poradím. Stává se, že když potřebují radu z oboru, tak mi volají. Nikdy je neodmítám, jsem profesionál a naše služby nekončí prodejem, ale budujeme si důvěru mezi zákazníky. U nás je to vždy o vzájemné spokojenosti, lidském přístupu a to z nás dělá jedinečnou službu.“*\
  **Říká pan Sedláček, zakladatel Dobrého výkupu.**         
 
+![](/blog/img/icoico80.jpg)
+
 ## **Proč si vybrat Dobrý výkup pro výkup auta?**
 
 * **Rychlost a efektivita:** Výkup auta probíhá online, takže ušetříte čas, který by jste jinak strávili běháním po autobazarech, inzerováním a zbytečnými prohlídkami.
@@ -44,6 +48,8 @@ Pokud se ptáte „**prodám auto**“, tak u nás najdete nejlepší způsob, j
 Není to jen výkup aut v Brně, co nás dělá výjimečnými. Naše služba funguje po celé České republice a poskytujeme našim zákazníkům stejný pohodlný proces i v jiných městech jako **Praha**, **Ostrava**, **Hradec Králové a dálší**. Naší prioritou je uspokojit potřeby každého zákazníka, ať už se nachází v centru města, nebo na vesnici.
 
 Pokud si nejste jisti, jak postupovat při prodeji auta, doporučujeme si přečíst náš článek o tom, jak **připravit auto k prodeji**. Také zde najdete **praktické rady**, jak správně ocenit vůz a vyhnout se chybám, které mohou ovlivnit jeho prodejní cenu.
+
+![](/blog/img/info-icon.png)
 
 # **Proč zvolit Dobrý výkup?**
 
