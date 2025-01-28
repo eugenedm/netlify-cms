@@ -11,7 +11,7 @@ Pokud zvažujete výkup auta v Brně a okolí, jste na správné adrese. Služb
 
 V tomto článku se podíváme na to, jak náš proces funguje, co říkají naši zákazníci a proč jsme jedinečnou službou pro výkup aut nejen v Brně, ale po celé České republice.
 
-![prodam auto](/blog/img/autíčko-a-kalkulačka.jpg)
+![prodám auto](/blog/img/autíčko-a-kalkulačka.jpg)
 
 ## **Jak funguje výkup auta v Brně s Dobrým výkupem?**
 
@@ -22,6 +22,8 @@ Celý proces výkupu auta s naší službou je maximálně zjednodušený. Aby j
 3. **Prodej auta bez stresu:** Rozhodnutí i termín je na vás. Přijedeme přímo k vám a celý prodej zrealizujeme v jedné návštěvě. Žádné dlouhé čekání a vše máte na místě do hodinky vyřízeno.
 4. **Platba ihned:** Při převzetí vozidla dostanete peníze okamžitě v hotovosti, nebo na váš účet. Veškerou administrativu vyřídíme za vás a auto si ihned po zaplacení odvezeme.
 5. **Služba je transparentní:** Předem víte jak bude prodej auta probíhat, kolik za auto dostanete, místo i čas prodeje si určíte a detaily prodeje si můžete dohodnout předem.
+
+![výkup aut brno](/blog/img/skoda-fabia-2000-2007-2.png)
 
 ## **Co říkají naši zákazníci?**
 
