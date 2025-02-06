@@ -22,7 +22,7 @@ Nejoblíbenější službou mobilního výkupu vozidel je služba Dobrý výkup.
 
 ## *Vše vyřídí za vás a fungují 7 dní v týdnu*
 
-Jednoduše stačí vašeho plechového miláčka nabídnout po telefonu, nebo [ZDE](https://www.dobryvykup.cz/) prostřednictvím online formuláře. Cenu za váš vůz znáte předem, pro vozidlo si přijedou tehdy, kdy se to hodí vám. Celý proces výkupu trvá přibližně 40 minut, vozidlo na místě zaplatí a následně si ho i odvezou. Veškeré formality spojené s přepisem vozidla vyřídí za vás a vy tak nemusíte nic vyřizovat. Celý proces výkupu se přizpůsobí vašim potřebám, místu, i termínem. Vy tak víte předem, jak vše bude probíhat.
+Jednoduše stačí vašeho plechového miláčka nabídnout po telefonu, nebo [ZDE](https://www.dobryvykup.cz/) prostřednictvím online formuláře. Cenu za váš vůz znáte předem, pro vozidlo si přijedou tehdy, kdy se to hodí vám. Celý proces výkupu trvá přibližně 40 minut, vozidlo na místě zaplatí a následně si ho i odvezou. Veškeré formality spojené s přepisem vozidla vyřídí za vás a vy tak nemusíte nic vyřizovat. Celý proces výkupu se přizpůsobí vašim potřebám, místu, i termínem. Vy tak víte předem, jak vše bude probíhat a kolik za vaše auto dostanete.
 
 **Služba je naprosto transparentní a jak přesně Dobrý výkup funguje, si můžete přečíst krok po kroku v předchozím článku [ZDE](https://www.dobryvykup.cz/blog/2021/09/jak-prob%C3%ADh%C3%A1-samotn%C3%BD-v%C3%BDkup-aut-s-dobr%C3%BDm-v%C3%BDkupem).**  
 
