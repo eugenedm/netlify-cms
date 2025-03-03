@@ -30,7 +30,7 @@ Prodej automobilu může být náročný proces, který zahrnuje několik kroků
 
 **Prodej auta prostřednictvím mobilního výkupu přináší řadu výhod:**
 
-* **Ocenění auta:** Společnosti jako [Dobrý výkup.cz](http://dobryvykup.cz)  nabízí ocenění vozidla zdarma, což umožňuje prodávajícímu získat představu o reálné ceně.
+* **Ocenění auta:** Služba jako [Dobrý výkup.cz](http://dobryvykup.cz)  nabízí ocenění vozidla zdarma, což umožňuje prodávajícímu získat představu o reálné ceně.
 * **Efektivita a pohodlí:** Celý prodej proběhne v jedné návštěvě během jednoho dne, bez nutnosti přípravy vozidla na prodej, nebo návštěvy STK.
 * **Rychlý prodej:** Termín a místo prodeje je jen na vás. Samotný výkup vozidla včetně vypsání smluv a platby zabere na místě přibližně 45 minut.  
 * **Bezpečná platba:** Platba je realizována ihned při podpisu smlouvy, v hotovosti, nebo okamžitým převodem na účet, podle přání zákazníka. To eliminuje riziko neuhrazení kupní ceny.
