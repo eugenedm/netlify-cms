@@ -5,7 +5,7 @@ description: Jak rychle a bezpečně prodat auto online
 twitter_image: /blog/img/car-ad3.jpg
 date: 2025-06-09T08:16:47.370Z
 ---
-![Výkup aut](/blog/img/carmoney3.jpg)
+![Výkup aut](/blog/img/blog.png)
 
 # výkup od Dobrého výkupu bez starostí
 
@@ -31,7 +31,7 @@ Tradiční prodej auta přes inzerát nebo bazar bývá zdlouhavý, náročný a
 
 **Jednoduše!** - Máme minimální náklady, zázemí servisu a auta si odvážíme po vlastní ose. Díky tomu že jsme rodinná firma ve vlastních prostorách můžeme nabídnout ty nejlepší ceny za výkup vozidel, rychlé férové a seriózní jednání s okamžitou platbou na místě. Zakládáme si na důvěře, jednáme čestně, otevřeně a narovinu. Jméno máme jenom jedno a dostatečně si to uvědomujeme. Máme mnoho spokojených zákazníku kteří využívají nás výkup aut opakovaně a to je pro nás ta nejlepší odměna. Mimochodem, naše recenze a zkušenosti s výkupem vozidel hovoří za nás.   
 
-![Výkup aut recenze](/blog/img/obrázek1.jpg)
+![Výkup aut recenze](/blog/img/300x300x100x0_f2152988_01.jpg)
 
 ## 🧭 Jak to celé funguje? Jednoduše ve 3 krocích
 
@@ -52,6 +52,8 @@ Na základě údajů a aktuální situace na trhu vám nabídneme reálnou výku
 Po domluvě termínu za vámi přijedeme na místo a v čas, který vám bude nejvíce vyhovovat. Na místě proběhne běžná kontrola že je vše jak bylo řečeno a nic nechybí. Vypíšeme kupní smlouvu a vy dostanete peníze – hotově nebo na účet. Následně si auto odvážíme a vše ostatní zařídíme za vás. Pro vás je celý proces prodeje auta uzavřen. Celý výkup auta zabere na místě průměrně 40 minut vašeho času.
 
 🚗 Výkup přímo u vás doma nebo v práci, ať jste kdekoli v Česku.
+
+![Autovýkup](/blog/img/obrázek1.jpg)
 
 - - -
 
