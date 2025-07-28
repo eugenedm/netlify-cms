@@ -7,8 +7,6 @@ date: 2025-07-28T06:54:02.593Z
 ---
 #  Jak zjistit cenu a prodat auto?
 
-
-
 Hledáte výkup ojetých aut online v České republice? Zde vám poradíme jak prodat auto rychle za nejlepší cenu a to z pohodlí domova.
 
  Dobrý výkup nabízí rychlý online odhad zdarma, garantovanou cenu, okamžitou platbu a vyřízení veškerého papírování za vás. Vše do 24 hodin a kdekoliv ČR.  
@@ -49,23 +47,25 @@ Jak přesně výkup auta funguje si můžete přečíst krok po kroku v předcho
 * Ti, kdo potřebují zaručené peníze ihned a nemají čas nebo chuť podávat inzeráty
 * Majitelé i starších aut, nebo vozidel v leasingu
 
-
-
   - - -
-
-
 
 ## Nejčastější dotazy (FAQ) 
 
 **Co znamená „výkup ojetých aut online“?**\
 Jedná se o jednoduchý proces online: odhadu ceny vozu přes webový formulář až po výkup platbu a převzetí u vás doma – vše bez nutnosti kamkoliv jezdit.
 
+![autovýkup](/blog/img/certificat-79x929.jpg)
+
 \
 **Jak rychle poznám, kolik za auto dostanu?**\
 Odhad ceny obdržíte během pár minut telefonicky nebo emailem. Kompletní výkup je realizován běžně do 24 hodin, nebo dle potřeb zákazníka.
 
+![výkop vozidel](/blog/img/certificat-79x929.jpg)
+
 **Vykupujete i nepojízdná vozidla nebo auta bez STK?**\
 Výkoupíme pojízdná vozidla i bez STK, mírné vady nebo vady na kráse nevadí. Bouraná a nepojízdná vozidla nevykupujeme.
+
+![výkup aut z domu](/blog/img/certificat-79x929.jpg)
 
 **Platíte ihned a bez starostí?**\
 Peníze jsou vyplaceny na místě – hotově nebo převodem na účet. Veškerou administrativu spojenou s prodejem i převodem vyřídíme my.
@@ -74,14 +74,12 @@ Peníze jsou vyplaceny na místě – hotově nebo převodem na účet. Veškero
 
 Více si můžete přečíst v předchozím článku [“Jak prodat staré auto bez starostí”](https://www.dobryvykup.cz/blog/2025/04/jak-prodat-star%C3%A9-auto-rychle-a-bez-starost%C3%AD)
 
-
-
 \
 Chcete znát cenu svého auta? Napište něco o svém autě na stránkách [Dobrý výkup](https://www.dobryvykup.cz/#bottom) a zjistěte cenu svého auta hned.
 
 - - -
 
-## 🎯 Zde si přečtěte jak funguje výkup auta ve vašem kraji  
+## 🎯 Zde si přečtěte jak funguje výkup auta ve vašem kraji 
 
 ### \-﻿ [Nejlepší výkup vozidel Praha a Středočeský kraj](https://www.dobryvykup.cz/blog/2024/01/v%C3%BDkup-aut-praha-recenze-a-zku%C5%A1enosti)
 
@@ -91,8 +89,6 @@ Chcete znát cenu svého auta? Napište něco o svém autě na stránkách [Dobr
 
 ### \- [Recenze a zkušenosti - výkup aut Zlín](https://www.dobryvykup.cz/blog/2025/02/recenze-a-zku%C5%A1enosti-v%C3%BDkup-aut-zl%C3%ADn)
 
-
-
 A další jako výkup aut celá ČR naleznete na stránkách [www.dobryvykup.cz](http://www.dobryvykup.cz) v sekci [Články](https://www.dobryvykup.cz/blog/).
 
 ![nejlepší výkup vozidel](/blog/img/obrázek1.jpg)
@@ -100,8 +96,6 @@ A další jako výkup aut celá ČR naleznete na stránkách [www.dobryvykup.cz]
 Hledáte výkup ojetých aut online v České republice? Dobrý výkup nabízí zdarma online ocenění vozu, garantovanou cenu, platbu na místě, vyřízení prodeje u vás doma  — a to vše do 24 hodin.
 
 Služba je naprosto transparentní a jak přesně Dobrý výkup funguje, si můžete přečíst krok po kroku v předchozím článku [ZDE](https://www.dobryvykup.cz/blog/2021/09/jak-prob%C3%ADh%C3%A1-samotn%C3%BD-v%C3%BDkup-aut-s-dobr%C3%BDm-v%C3%BDkupem).  
-
-
 
 **Nebo nám rovnou zavolejte!**
 
@@ -114,8 +108,6 @@ Služba je naprosto transparentní a jak přesně Dobrý výkup funguje, si mů�
 **4.     PENÍZE IHNED V HOTOVOSTI!**
 
 **5.     Přebíráme za Vás záruky za vozidlo.**
-
-
 
 Zavolejte nám, nebo prodejte auto ihned [zde](https://www.dobryvykup.cz/#bottom).
 
