@@ -7,8 +7,6 @@ date: 2025-09-02T07:42:13.191Z
 ---
 ## Co je to “Garance ceny” a jak u nás funguje pevná nabídka bez smlouvání.
 
-
-
 * Po vyplnění poptávky vám dáme pevnou cenu a při jedné návštěvě vše vyřešíme a ihned platíme.
 * Vykupujeme pouze funkční vozy; díky tomu je návštěva krátká a nabídka férová.
 * Jasně říkáme, kdy se cena může lišit (výjimečné situace) a jak se na výkup připravit.
@@ -28,7 +26,7 @@ Dobrý výkup je mobilní výkup vozidel po celé ČR. Přijedeme za vámi, doml
 
   ![výkup aut recenze](/blog/img/certificat-79x929.jpg)
 
-**Aby byla garance férová pro obě strany, cenu můžeme upravit jen v situacích, které zásadně mění hodnotu vozu, např.:**
+## **Aby byla garance férová pro obě strany, cenu můžeme upravit jen v situacích, které zásadně mění hodnotu vozu, např.:**
 
 * Skrytá závada bránící běžnému provozu (nutnost investovat do opravy),
 * Neúplné příslušenství nebo poškození s nímž nebylo počítáno.(bylo zamlčeno)
@@ -65,7 +63,7 @@ Za funkční považujeme vůz, který normálně startuje a je pojízdný, bez z
 * Nejsme autobazar, nevystavujeme vaše auto někde za plotem. Máme zázemí rodinného servisu, autu dáme potřebnou péči a snažíme se pro něj najít vhodného zákazníka nebo rodinu v rámci našich poptávek.
 * Online „kalkulačky“ často slouží jen k získání kontaktu a nalákání; my raději dáváme reálnou cenu dopředu a držíme ji.
 
-  ![Výkup vozidel](/blog/img/carmoney.jpg)
+  ![Výkup vozidel](/blog/img/car-finance-4516072_1920.jpg)
 
 ## Dobrý výkup vs. ostatní (rychlé srovnání)
 
@@ -108,15 +106,13 @@ Ano, pomůžeme s vyplacením a převodem, aby vše proběhlo hladce.
 
 > ## Zde si přečtěte jak funguje výkup auta ve vašem kraji 
 
-##  [Nejlepší výkup vozidel Praha a Středočeský kraj](https://www.dobryvykup.cz/blog/2024/01/v%C3%BDkup-aut-praha-recenze-a-zku%C5%A1enosti)
+## [Nejlepší výkup vozidel Praha a Středočeský kraj](https://www.dobryvykup.cz/blog/2024/01/v%C3%BDkup-aut-praha-recenze-a-zku%C5%A1enosti)
 
 ## [Výkup aut Brno a Jihomoravský kraj](https://www.dobryvykup.cz/blog/2025/01/v%C3%BDkup-aut-brno)
 
 ## [Výkup aut Ostrava - Recenze](https://www.dobryvykup.cz/blog/2025/04/v%C3%BDkup-aut-ostrava-recenze-a-zku%C5%A1enosti)
 
 ## [Recenze a zkušenosti - výkup aut Zlín](https://www.dobryvykup.cz/blog/2025/02/recenze-a-zku%C5%A1enosti-v%C3%BDkup-aut-zl%C3%ADn)
-
-
 
 A další jako výkup aut celá ČR naleznete na stránkách [www.dobryvykup.cz](http://www.dobryvykup.cz) v sekci [Články](https://www.dobryvykup.cz/blog/).
 
@@ -130,15 +126,11 @@ Služba je naprosto transparentní a jak přesně Dobrý výkup funguje, si mů�
 
 Nebo nám rovnou zavolejte!
 
-1.     Nabízíme ocenění vozidla zdarma!
-
-2.     GARANTUJEME CENU!
-
-3.     Vyřídíme vše, co je třeba k přepisu vozidla.
-
-4.     PENÍZE IHNED V HOTOVOSTI!
-
-5.     Přebíráme za Vás záruky za vozidlo.
+1.  **   Nabízíme ocenění vozidla zdarma!**
+2.  **   GARANTUJEME CENU!**
+3.  **   Vyřídíme vše, co je třeba k přepisu vozidla.**
+4.  **   PENÍZE IHNED V HOTOVOSTI!**
+5.  **   Přebíráme za Vás záruky za vozidlo.**
 
 Zavolejte nám, nebo prodejte auto ihned [zde](https://www.dobryvykup.cz/#bottom).
 
