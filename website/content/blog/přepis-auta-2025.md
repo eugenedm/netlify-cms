@@ -80,7 +80,7 @@ Nebo můžete využít přímého výkupu auta na stránkách [DobrýVýkup.cz](
 
 ![prodej auta návod](/blog/img/flatnet-79x929.jpg)
 
-## 7. Přehled potřebných dokladů k přepisu - Checklist.
+## 7. Přehled potřebných dokladů k přepisu (Checklist)
 
 * Občanky prodávajícího + kupujícího (příp. úředně ověřená plná moc)
 * Malý/velký technický průkaz (příp. oba doklady)
