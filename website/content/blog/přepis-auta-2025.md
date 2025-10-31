@@ -89,7 +89,7 @@ Nebo můžete využít přímého výkupu auta na stránkách [DobrýVýkup.cz](
 * Správní poplatek 800 Kč, nebo 600 Kč při podání online
 * Žádost o změnu vlastníka vyplněna online, nebo osobně na úřadě
 
-  ![prodej auta z dědictví](/blog/img/dvlogo1.png)
+  ![jak prodat vozidlo z dědictví](/blog/img/info-icon.png)
 
 ## 8. Závěr
 
@@ -103,4 +103,4 @@ Chcete vyřídit výkup + přepis?
 
 Klikněte na tlačítko **[„Získejte ihned nabídku“](https://www.dobryvykup.cz/#bottom)** nebo zavolejte na telefon **733 106 918** a zjistěte cenu vašeho auta.
 
-![prodej vozidla z dědictví](/blog/img/car-ad3.jpg)
+![prodej auta z dědictví](/blog/img/car-ad3.jpg)
