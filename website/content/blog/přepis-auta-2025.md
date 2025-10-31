@@ -86,7 +86,7 @@ Nebo můžete využít přímého výkupu auta na stránkách [DobrýVýkup.cz](
 * Malý/velký technický průkaz (příp. oba doklady)
 * Pojištění vozidla (zelená karta se již fyzicky nosit nemusí)
 * Platná STK nebo evidenční kontrola (fyzicky se protokol předkládat nemusí)
-* Správní poplatek 800 Kč, nebo 600 Kč při podání online..
+* Správní poplatek 800 Kč, nebo 600 Kč při podání online
 * Žádost o změnu vlastníka vyplněna online, nebo osobně na úřadě
 
   ![prodej auta z dědictví](/blog/img/dvlogo1.png)
