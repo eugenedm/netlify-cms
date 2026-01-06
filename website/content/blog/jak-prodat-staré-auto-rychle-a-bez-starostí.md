@@ -1,7 +1,7 @@
 ---
 title: Jak prodat staré auto rychle a bez starostí
-author: Eliška
-description: Návod jak prodat auto
+author: Eliška Šimková
+description: Návod jak nejlépe prodat auto
 twitter_image: /blog/img/car-ad3.jpg
 date: 2025-04-17T09:28:47.405Z
 ---
