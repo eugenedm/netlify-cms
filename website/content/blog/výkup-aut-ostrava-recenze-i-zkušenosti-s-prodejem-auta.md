@@ -1,7 +1,8 @@
 ---
 title: Výkup aut Ostrava - recenze i zkušenosti s prodejem auta
-author: Adam
-description: Nejlepší výkup aut Ostrava, Opava, Frýdek Místek i Havířov
+author: Adam Pokorný
+description: Nejlepší výkup aut Ostrava, Opava, Frýdek Místek i Havířov. Výkup
+  vozidel z domu s platbou ihned na místě.
 meta_description: Nejlepší výkup aut Ostrava, Opava, Frýdek Místek i Havířov
 twitter_image: /blog/img/car-ad3.jpg
 date: 2024-01-16T14:01:53.944Z
