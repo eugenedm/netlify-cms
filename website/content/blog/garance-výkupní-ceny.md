@@ -1,9 +1,9 @@
 ---
-title: Garance výkupní ceny
+title: Garance výkupní ceny pouze u Dobrého výkupu
 author: Adam Pokorný
-description: Jak funguje pevná nabídka – Dobrý výkup
+description: Jak funguje pevná nabídka výkupní ceny – Dobrý výkup
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-12-09T08:42:13.191Z
+date: 2026-01-03T08:42:13.191Z
 ---
 ## Co je to “Garance ceny” a jak u nás funguje pevná nabídka bez smlouvání.
 
