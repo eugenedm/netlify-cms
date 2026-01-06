@@ -1,9 +1,9 @@
 ---
-title: Přepis auta 2025
-author: Eliška
+title: Přepis auta - průvodce pro rok 2026
+author: Eliška Šimková
 description: Kompletní návod krok za krokem
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-10-31T07:51:38.206Z
+date: 2026-01-04T07:51:38.206Z
 ---
 # Kompletní návod krok za krokem
 
@@ -15,7 +15,7 @@ Co potřebujete vědět, jaké jsou změny, kolik stojí přepis auta a jak to z
 
 Při prodeji nebo výkupu auta se mění vlastník vozidla a je nutné zapsat nového majitele v registru a tím provést úřední změnu majitele. Pokud tento krok odložíte, hrozí nejen pokuta až 50 000 Kč, ale také riziko, že budete dál odpovídat za vozidlo, které už fakticky nevlastníte. 
 
-## 2. Co je nového v roce 2025
+## 2. Co je nového v roce 2026
 
 * Platnost evidenční kontroly se prodlouží ze 1 roku na 2 roky, tím se usnadní některé pře­pisy.(pokud má auto platnou STK, evidenční kontrola již není potřeba)
 * Přepis lze podat i online přes Portál dopravy.
@@ -93,11 +93,11 @@ Nebo můžete využít přímého výkupu auta na stránkách [DobrýVýkup.cz](
 
 ## 8. Závěr
 
-Přepis vozidla v roce 2025 není komplikovaný, když víte, co dělat. Díky změnám v legislativě je celý proces rychlejší a digitálnější. Přesto ale riziko nesprávného postupu stále existuje  a právě tady přichází prostor pro Dobrý výkup: nabízíme výkup auta s kompletním přepisem za vás. Vyplatí se to, když chcete dobře prodat auto a hledáte jednoduchost, rychlost a minimální starosti.
+Přepis vozidla v roce 2026 není komplikovaný, když víte, co dělat. Díky změnám v legislativě je celý proces rychlejší a digitálnější. Přesto ale riziko nesprávného postupu stále existuje  a právě tady přichází prostor pro Dobrý výkup: nabízíme výkup auta s kompletním přepisem za vás. Vyplatí se to, když chcete dobře prodat auto a hledáte jednoduchost, rychlost a minimální starosti.
 
 Dobrý výkup je nejlépe hodnocený výkup vozidel a recenze od skutečných uživatelů si můžete přečíst na stránkách [Dobrého výkupu](http://www.dobryvykup.cz).
 
-**Co neposkytujeme:** (Nejčastější chyby) Zájemce“ volá výkup, ale hledá opravnu, nebo ekologickou likvidaci. Dobrý výkup **neposkytuje ekolikvidaci a vykupuje pouze funkční provozuschopná vozidla** nejčastěji od roku 2002 až 2025 a novější.
+**Co neposkytujeme:** (Nejčastější chyby) Zájemce“ volá výkup, ale hledá opravnu, nebo ekologickou likvidaci. Dobrý výkup **neposkytuje ekolikvidaci a vykupuje pouze funkční provozuschopná vozidla** nejčastěji od roku 2005 až do současnosti.
 
 Chcete vyřídit výkup + přepis? 
 
