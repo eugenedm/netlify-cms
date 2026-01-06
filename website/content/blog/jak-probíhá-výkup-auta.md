@@ -1,9 +1,9 @@
 ---
 title: "Jak probíhá výkup auta? "
-author: Eliška
+author: Adam Pokorný
 description: Jak probíhá výkup auta?
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-06-25T07:41:35.105Z
+date: 2025-09-30T07:41:35.105Z
 ---
 ![Jak probíhá výkup auta](/blog/img/renault-clio-otazníky.png)
 
