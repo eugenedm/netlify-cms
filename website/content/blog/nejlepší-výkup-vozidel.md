@@ -1,6 +1,6 @@
 ---
 title: Nejlepší výkup vozidel
-author: Adam
+author: Adam Pokorný
 description: Návod jak dobře prodat auto
 meta_description: >-
   Nejlepší výkup vozidel
