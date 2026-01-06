@@ -1,6 +1,6 @@
 ---
 title: Jak nejlépe prodat staré auto
-author: Adam
+author: Adam Pokorný
 description: Jak dobře prodám auto
 twitter_image: /blog/img/car-ad3.jpg
 date: 2023-04-11T09:40:20.971Z
