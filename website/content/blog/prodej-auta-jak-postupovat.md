@@ -1,7 +1,7 @@
 ---
 title: Prodej auta, jak postupovat
-author: Adam
-description: Jak prodat auto postup a rizika při prodeji
+author: Adam Pokorný
+description: Jak prodat auto postup a rizika při prodeji vozidel
 twitter_image: /blog/img/car-ad3.jpg
 date: 2025-03-03T11:23:55.057Z
 ---
