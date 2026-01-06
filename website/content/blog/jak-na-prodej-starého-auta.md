@@ -1,7 +1,7 @@
 ---
 title: Jak na prodej starého auta
-author: Eliška
-description: aneb „Chci prodat auto“
+author: Eliška Šimková
+description: "aneb „Chci prodat auto“ "
 twitter_image: /blog/img/car-ad3.jpg
 date: 2023-03-02T09:44:25.748Z
 ---
