@@ -1,7 +1,7 @@
 ---
 title: Výkup aut Praha, recenze a zkušenosti
-author: Adam
-description: Nejlepší výkup vozidel Praha a Středočeský kraj
+author: Adam Pokorný
+description: Nejlepší výkup vozidel Praha a Středočeský kraj. Výkup aut z domu Praha a okolí
 meta_description: Nejlepší výkup vozidel Praha a středočeský kraj
 twitter_image: /blog/img/car-ad3.jpg
 date: 2024-01-15T09:08:41.409Z
