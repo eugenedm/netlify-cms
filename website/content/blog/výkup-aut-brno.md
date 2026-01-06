@@ -1,9 +1,10 @@
 ---
 title: Výkup aut Brno
-author: Eliška
+author: Eliška Šimková
 description: Jak online výkup aut funguje a proč je tak oblíbený po celé ČR?
+  Transparentní a rychlý výkup vozidel v Brně.
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-01-28T11:03:34.194Z
+date: 2026-01-02T11:03:34.194Z
 ---
 # **Jak online výkup aut funguje a proč je tak oblíbený po celé ČR?**
 
