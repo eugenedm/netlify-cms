@@ -95,10 +95,30 @@ Cena vašeho vozu se odvíjí od několika faktorů:
 
 - - -
 
+## 💰 C﻿o vykupujeme a co nevykupujeme
+
+**Výkup auta online je vhodný zejména pro majitele:**
+
+* funkčních ojetých vozidel
+* aut po běžném opotřebení případně s mírnými vadami
+* vozidel určených k dalšímu provozu
+* osobních automobilů bez právních vad
+
+**Naopak není určen pro:**
+
+* autovraky a auta s vážnými vadami
+* vozidla k ekologické likvidaci
+* nepojízdná nebo havarovaná auta která se nevyplatí opravovat
+
+- - -
+
 ## 💬 Často kladené dotazy - FAQ
 
 ❓ Jak rychle proběhne výkup auta?\
 Ve většině případů přibližně 40 minut až hodinu na místě.
+
+❓ Vykupujete i nepojízdná auta?\
+ Ne, zaměřujeme se výhradě na funkční vozidla.
 
 ❓ Musím jezdit do pobočky?\
 Ne, přijedeme za vámi kamkoliv po České republice a auto si odvezeme.
