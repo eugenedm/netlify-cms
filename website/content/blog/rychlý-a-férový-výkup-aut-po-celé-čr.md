@@ -1,7 +1,7 @@
 ---
 title: Rychlý a férový výkup aut po celé ČR
-author: Adam
-description: Online výkup aut z pohodlí domova
+author: Adam Pokorný
+description: Online výkup aut z pohodlí domova. Peníze ihned a vše vyřídí za vás.
 meta_description: >-
   ## Online výkup aut z pohodlí domova
 
@@ -137,7 +137,7 @@ meta_description: >-
 
   Chcete prodat své auto rychle a bez starostí? Navštivte [www.dobryvykup.cz](https://www.dobryvykup.cz/) a zjistěte, jak snadné to může být.
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-05-21T08:08:28.443Z
+date: 2025-06-20T22:00:00.000Z
 ---
 ## Online výkup aut z pohodlí domova
 
@@ -151,7 +151,7 @@ _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Služba je navržena pro maximální pohodlí zákazníka. Prodej auta vyřídíte v jedné návštěvě, včetně předání a platby. Následně si auto odvážíme a veškeré další formality vyřídíme za vás. Jednoduše řečeno, nemusíte nikam jezdit – vše vyřídíme online a přímo u vás doma. Nabízíme férové ceny, rychlou domluvu a profesionální přístup. Zde vám sdělíme, jak výkup auta funguje krok po kroku. 
 
-![jak prodat auto](/blog/img/obrázek-hledající-pán-bez-loga.png)
+![jak prodat auto](/blog/img/info-icon.png)
 
 ## Postup výkupu:
 
@@ -161,7 +161,7 @@ _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 4. ### Prodej auta – Na místě následuje rychlá kontrola že je vše jak bylo řečeno a nic nám k nechybí. peníze získáváte ihned v hotovosti nebo okamžitým převodem po podpisu smlouvy.
 5. ### Do 40 minut je vše hotovo – Po zaplacení si auto odvážíme a vše ostatní už vyřídíme za vás. Tím je pro vás celý prodej auta vyřízen.
 
-![nejlepší výkup vozidel](/blog/img/muži-si-předávají-klíče.png)
+![nejlepší výkup vozidel](/blog/img/malé-money.jpg)
 
 ### Pro koho je Dobrý výkup ideální?
 
