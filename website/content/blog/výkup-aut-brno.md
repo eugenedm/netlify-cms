@@ -12,8 +12,6 @@ date: 2026-01-02T11:03:34.194Z
 
 Pokud zvažujete výkup auta v Brně a okolí, jste na správné adrese. Služba Dobrý výkup je jedinečná služba pro online výkup vozidel, která vám umožní prodat své auto jednoduše, rychle a s maximálním pohodlím. Nabízíme férový přístup, rychlý a transparentní proces pro všechny, kteří se rozhodli prodat auto.
 
-
-
 V tomto článku se podíváme na to, jak náš proces funguje, co říkají naši zákazníci a proč jsme jedinečnou službou pro výkup aut nejen v Brně, ale po celé České republice.
 
 ![prodám auto](/blog/img/autíčko-a-kalkulačka.jpg)
@@ -30,15 +28,37 @@ Celý proces výkupu auta s naší službou je maximálně zjednodušený. Aby j
 
 ![výkup aut brno](/blog/img/skoda-fabia-2000-2007-2.png)
 
+
+
+## **C﻿o vykupujeme a co ne?**
+
+**V﻿ykupujeme v Brně převážně:**
+
+\- F﻿unkční a pojizndá ojetá auta již od roku 2004 až do současnosti.
+
+**C﻿o nevadí:**
+
+\-﻿ Mírná vada, opotřebení nebo neplatná STK.  
+
+**C﻿o nevykupujeme:**
+
+\- ﻿Nevykupujeme vraky, nepojízdná auta a auta k likvidaci.
+
+_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
 ## **Co říkají naši zákazníci?**
 
 Recenze a zkušenosti našich zákazníků jsou pro nás tou nejlepší odměnou. Mnozí z nich oceňují náš lidský přístup a fakt, že jim nabízíme rychlé a transparentní řešení pro prodej auta.
 
 **Recenze zákazníků - Výkup aut Brno**
 
-Pan Jiiří F., Brno - Bohunice uvedl: " *Perfektní a naprosto profesionální přístup. Na rozdíl od jiných „profesionálů na auta“, pan Sedláček je férový člověk. Vstřícné a rychlé jednání, mohu jen vřele doporučit.* ”  Výkup auta Škoda Superb Combi.
+**Monika S., Brno - Trnitá:** "Kdyby tady byli možnost dávat hvězdičky, tak dám 10 z 10. Nikdy jsem se nesetkala s tak úžasným člověkem. Musim pochválit pana Sedláčka za lidský přístup a výbornou radu. Hodně nam pomohl a za to mu neskutečně dekuji. Opravdu recenze sedí." Výkup auta VW Touran.
 
-**Další ověřené recenze na výkup auta Olomouc, Uničov, Přerov a celá ČR, najdete na stránkách [www.dobryvykup.cz](http://www.dobryvykup.cz).**
+**Jiiří F., Brno - Bohunice:** " *Perfektní a naprosto profesionální přístup. Na rozdíl od jiných „profesionálů na auta“, pan Sedláček je férový člověk. Vstřícné a rychlé jednání, mohu jen vřele doporučit.* ”  Výkup auta Škoda Superb Combi.
+
+**Další ověřené recenze na výkup auta Brno, ale i Olomouc, Uničov, Zlín, Ostrava, Přerov a celá ČR, najdete na stránkách [www.dobryvykup.cz](http://www.dobryvykup.cz).**
 
 ![Prodám auto Brno](/blog/img/info-icon.png)
 
