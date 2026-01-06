@@ -1,7 +1,7 @@
 ---
 title: Výkup aut za hotové je finanční injekce v nelehké době
-author: Eliška
-description: Prodejem auta ušetříte
+author: Eliška Šimková
+description: Prodejem auta ušetříte starosti, čas i peníze.
 meta_description: >+
   Výkup aut za hotové je finanční injekce v nelehké době
 
