@@ -53,7 +53,7 @@ Po prohlídce proběhne prodej auta na místě v jedné návštěvě a peníze o
 
 1. Předem znáte cenu za vaše auto která je garantovaná.
 2. Přijedeme za vámi po celé ČR ve vámi zvolený termín.
-3. Podepsání smluv, okamžitá platba v hotovosti nebo převodem.
+3. Peníze vyplácíme ihned po podpisu smlouvy hotově nebo převodem.
 4. S autem odjíždíme a veškeré další papírování vyřídíme za vás. 
 
 - - -
