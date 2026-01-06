@@ -104,7 +104,7 @@ Cena vašeho vozu se odvíjí od několika faktorů:
 * vozidel určených k dalšímu provozu
 * osobních automobilů bez právních vad
 
-**P:ro koho není vhodný a co nevykupujeme**
+**Pro koho není vhodný a co nevykupujeme**
 
 * autovraky a auta s vážnou závadou
 
@@ -114,10 +114,32 @@ Cena vašeho vozu se odvíjí od několika faktorů:
 
 
 
+Vykupujeme **pouze funkční vozidla** určená k dalšímu provozu – neprovádíme likvidace ani výkup autovraků.
 
-
-**Pokud chcete zjistit orientační cenu vašeho auta, můžete využít [nezávazný formulář výkupu.](https://www.dobryvykup.cz/#bottom)**\
+Pokud chcete zjistit orientační cenu vašeho auta, můžete využít** [nezávazný formulář výkupu.](https://www.dobryvykup.cz/#bottom)**\
 Vyplnění zabere méně než 2 minuty.
+
+_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## S﻿rovnávací tabulka: Výkup auta vs. jiné možnosti prodeje.
+
+| Možnost | Rychlost | Riziko | Cena | Starosti |
+| ------- | -------- | ------ | ---- | -------- |
+
+|                   |      |       |        |           |
+| ----------------- | ---- | ----- | ------ | --------- |
+| Výkup auta online | ⭐⭐⭐  | Nízké | Reálná | Minimální |
+
+|           |     |         |       |          |
+| --------- | --- | ------- | ----- | -------- |
+| Autobazar | ⭐⭐  | Střední | Nízká | S﻿tředni |
+
+|           |      |        |         |       |
+| --------- | ---- | ------ | ------- | ----- |
+| I﻿nzerce  | ⭐    | Vysoké | Nejistá | Velké |
+
+|     |
+| --- |
 
 - - -
 
