@@ -1,9 +1,10 @@
 ---
 title: Jak prodat auto rychle a výhodně?
-author: Adam
-description: S Dobrým výkupem to zvládnete z pohodlí domova
+author: Adam Pokorný
+description: S Dobrým výkupem to zvládnete z pohodlí domova. Výkup auta rychle a
+  za férovou cenu.
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-02-03T13:39:15.060Z
+date: 2025-03-02T23:00:00.000Z
 ---
 
 
