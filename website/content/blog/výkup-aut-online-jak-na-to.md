@@ -1,7 +1,7 @@
 ---
 title: "Výkup aut online: Jak na to?"
-author: Eliška
-description: Proč je nejlepší Dobrý výkup
+author: Eliška Šimková
+description: Proč je nejlepší Dobrý výkup pro výkup aut z domu.
 twitter_image: /blog/img/obrázek1.jpg
 date: 2024-07-31T09:28:09.889Z
 ---
