@@ -1,7 +1,8 @@
 ---
 title: Výkup aut v hotovosti vám pomůže v nelehké době
-author: Adam
-description: Jak prodat auto rychle a jednoduše
+author: Adam Pokorný
+description: Jak prodat auto rychle a jednoduše a z pohodlí domova. Výkup aut
+  ihned za hotové.
 meta_description: >
   Jak prodat auto rychle a jednoduše?
 
