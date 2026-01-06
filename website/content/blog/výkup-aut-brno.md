@@ -38,7 +38,7 @@ Celý proces výkupu auta s naší službou je maximálně zjednodušený. Aby j
 
 **C﻿o nevadí:**
 
-\-﻿ Mírná vada, opotřebení nebo neplatná STK.  
+\-﻿ Mírná vada, běžné opotřebení, nebo neplatná STK nevadí.
 
 **C﻿o nevykupujeme:**
 
