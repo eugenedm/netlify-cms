@@ -133,7 +133,7 @@ O﻿ přepis se starat nemusíte, vše vyřídíme za vás.
 
 **\- Vykupujete i havarované / nepojízdné auta?**
 
-N﻿e, obrate se na nejbližší vrakoviště.
+N﻿e. Specializujeme se pouze na funkční a pojízdná vozidla. 
 
 **\- Je výkup závazný po odeslání formuláře?** 
 
