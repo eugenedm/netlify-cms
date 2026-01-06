@@ -46,7 +46,7 @@ V Brně jezdíme každý den běžně do částí jako **Královo Pole, Lesná, 
 
 **C﻿o nevykupujeme:**
 
-\- ﻿Nevykupujeme vraky, nepojízdná auta, auta k likvidaci a na díly.
+\- ﻿Nevykupujeme vraky, nevykupujeme nepojízdná auta, nevykupujeme havarovaná auta.
 
 _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
