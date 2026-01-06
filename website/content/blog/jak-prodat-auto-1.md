@@ -1,6 +1,6 @@
 ---
 title: Jak prodat auto
-author: Adam
+author: Adam Pokorný
 description: |+
   Jak nejlépe prodat auto
 
