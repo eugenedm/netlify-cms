@@ -1,9 +1,9 @@
 ---
 title: Výkup aut Uherské Hradiště - Recenze a zkušenosti
-author: Eliška
+author: Eliška Šimková
 description: Jak bezpečně a rychle prodat auto v Uherském Hradišti a okolí
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-02-07T09:47:51.272Z
+date: 2025-03-06T23:00:00.000Z
 ---
 ## Jak bezpečně a rychle prodat auto v Uherském Hradišti a okolí
 
