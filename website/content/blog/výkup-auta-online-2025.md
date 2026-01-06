@@ -104,11 +104,20 @@ Cena vašeho vozu se odvíjí od několika faktorů:
 * vozidel určených k dalšímu provozu
 * osobních automobilů bez právních vad
 
-**Naopak není určen pro:**
+**P:ro koho není vhodný a co nevykupujeme**
 
-* autovraky a auta s vážnými vadami
+* autovraky a auta s vážnou závadou
+
 * vozidla k ekologické likvidaci
-* nepojízdná nebo havarovaná auta která se nevyplatí opravovat
+
+* nepojízdná nebo havarovaná auta
+
+
+
+
+
+**Pokud chcete zjistit orientační cenu vašeho auta, můžete využít [nezávazný formulář výkupu.](https://www.dobryvykup.cz/#bottom)**\
+Vyplnění zabere méně než 2 minuty.
 
 - - -
 
