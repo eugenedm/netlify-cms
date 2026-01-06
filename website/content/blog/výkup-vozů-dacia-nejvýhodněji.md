@@ -1,7 +1,8 @@
 ---
 title: Výkup vozů Dacia nejvýhodněji
-author: Eliška
-description: Nejlepší Dacia výkup v ČR
+author: Eliška Šimková
+description: Nejlepší Dacia výkup v ČR, rychlý a bezpečný prodej s okamžitou
+  platbou na místě.
 twitter_image: /blog/img/car-ad3.jpg
 date: 2024-01-15T10:40:25.922Z
 ---
