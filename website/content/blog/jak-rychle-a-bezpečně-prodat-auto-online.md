@@ -1,9 +1,9 @@
 ---
 title: Jak rychle a bezpečně prodat auto online
-author: Adam
-description: Jak rychle a bezpečně prodat auto online
+author: Eliška Šimková
+description: Peníze za výkup auta ihned a vše vyřídí za vás.
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-06-09T08:16:47.370Z
+date: 2025-08-27T22:00:00.000Z
 ---
 ![Výkup aut](/blog/img/blog.png)
 
