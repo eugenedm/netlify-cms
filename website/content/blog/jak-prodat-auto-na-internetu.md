@@ -1,6 +1,6 @@
 ---
 title: Jak prodat auto na internetu
-author: Adam
+author: Adam Pokorný
 description: Jak nejlépe prodat auto online a rychle
 meta_description: ""
 twitter_image: /blog/img/car-ad3.jpg
