@@ -1,6 +1,6 @@
 ---
 title: Výkup auta online 2026 - Prodejte auto rychle a za hotové
-author: Veronika Šimečková
+author: Eliška Šimková
 description: Online výkup auta v roce 2026. Pošlete nabídku, domluvíme cenu a
   peníze dostanete ihned. Bez bazaru, bez čekání, bez rizika.
 twitter_image: /blog/img/car-ad3.jpg
