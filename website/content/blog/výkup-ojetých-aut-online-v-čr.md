@@ -35,7 +35,7 @@ Jak přesně výkup auta funguje si můžete přečíst krok po kroku v předcho
 
 * Garance ceny: Cena je garantovaná a nemění se po prohlídce
 * Rychlý proces – 40 minut na místě, z pohodlí vašeho domova nebo kdekoliv v ČR
-* Výkup jakéhokoliv stáří vozidla: Výkup pojízdných vozidel běžně od roku 2004 - 2025 a novější, v leasingu, i s mírnou vadou nebo nedostatky. Více [zde](https://www.dobryvykup.cz/blog/2025/07/nejlep%C5%A1%C3%AD-v%C3%BDkup-aut-online?utm_source=chatgpt.com).
+* Výkup jakéhokoliv stáří vozidla: Výkup pojízdných vozidel běžně již od roku 2004 - až do současnosti, v leasingu, i s mírnou vadou nebo nedostatky. Více [zde](https://www.dobryvykup.cz/blog/2025/07/nejlep%C5%A1%C3%AD-v%C3%BDkup-aut-online?utm_source=chatgpt.com).
 * Peníze ihned: hotově nebo převodem ihned na místě během předání.
 * Profesionalita a transparentnost: recenze a zkušenosti zákazníků, seriózní jednání. Recenze a hodnocení zákazníků si můžete přečíst [zde](https://www.dobryvykup.cz/blog/2022/09/v%C3%BDkup-aut-zku%C5%A1enosti-a-recenze).
 
