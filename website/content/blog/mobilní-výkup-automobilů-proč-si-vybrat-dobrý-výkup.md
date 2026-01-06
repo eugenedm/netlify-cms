@@ -1,6 +1,6 @@
 ---
 title: Nejlepší výkup automobilů je online
-author: Adam
+author: Adam Pokorný
 description: Výkup aut a recenze skutečných majitelů
 twitter_image: /blog/img/car-ad3.jpg
 date: 2024-08-04T12:24:23.025Z
