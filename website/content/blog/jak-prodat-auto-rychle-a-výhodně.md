@@ -1,6 +1,6 @@
 ---
 title: Jak prodat auto rychle a výhodně
-author: Eliška
+author: Eliška Šimková
 description: Pro ty kdo nechtějí prodávat, ale chtějí prodat auto
 meta_description: >+
   Pro ty kdo nechtějí prodávat, ale chtějí prodat auto
