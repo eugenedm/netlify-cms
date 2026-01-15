@@ -1,6 +1,6 @@
 ---
 title: Výkup aut VW a Škoda
-author: Adam
+author: Adam Pokorný
 description: Výkup aut VW a Škoda snadno a rychle
 meta_description: >+
   Výkup VW rychle a za nejlepší cenu
