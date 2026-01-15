@@ -1,6 +1,6 @@
 ---
 title: Výkup aut zkušenosti a recenze
-author: Eliška
+author: Eliška Šimková
 description: Dobrý výkup recenze zákazníků
 meta_description: Výkup aut zkušenosti a recenze
 twitter_image: /blog/img/car-ad3.jpg
