@@ -1,6 +1,6 @@
 ---
 title: "    Jak probíhá samotný výkup aut s Dobrým výkupem?"
-author: Markéta M.
+author: Markéta Mazancová
 description: Výkup aut Brno
 twitter_image: /blog/img/car-ad3.jpg
 date: 2021-09-20T14:59:40.489Z
