@@ -1,6 +1,6 @@
 ---
 title: Výkup aut je cesta jak prodat auto rychle a za hotové
-author: Adam
+author: Adam Pokorný
 description: Jak bezpečně prodat auto
 twitter_image: /blog/img/obrázek1.jpg
 date: 2022-09-01T09:08:37.230Z
