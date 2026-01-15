@@ -1,6 +1,6 @@
 ---
 title: Výkup Škoda rychle a za nejlepší cenu
-author: Adam
+author: Adam Pokorný
 description: |
   Výkup Škoda rychle a za nejlepší cenu.
   Dejte vaší Škodovce šanci posloužit ještě někomu jinému
