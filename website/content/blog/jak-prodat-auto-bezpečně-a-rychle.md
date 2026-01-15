@@ -1,6 +1,6 @@
 ---
 title: Jak prodat auto bezpečně a rychle
-author: Adam
+author: Adam Pokorný
 description: Prodej auta svépomocí, nemusí být dobrá volba.
 twitter_image: /blog/img/car-ad3.jpg
 date: 2022-03-11T09:07:30.099Z
