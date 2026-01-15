@@ -1,6 +1,6 @@
 ---
 title: Kalkulačka na výkup aut a tabulková hodnota vozidla
-author: Adam
+author: Adam Pokorný
 description: Tabulková hodnota vozidla bez cenzury
 meta_description: |
   Kalkulačka na výkup aut není reálná cena vozu
