@@ -1,6 +1,6 @@
 ---
 title: Investovat do auta před prodejem není nutné
-author: Adam
+author: Adam Pokorný
 description: Nevyhazujte peníze oknem
 twitter_image: /blog/img/car-ad3.jpg
 date: 2022-09-19T09:44:34.213Z
