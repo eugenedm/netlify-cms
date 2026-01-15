@@ -1,6 +1,6 @@
 ---
 title: Výkup aut je nejlepší cesta jak bezpečně prodat vaše auto
-author: Adam
+author: Adam Pokorný
 description: Výkup aut je nejlepší cesta jak bezpečně prodat vaše auto
 twitter_image: /blog/img/car-ad3.jpg
 date: 2023-01-06T11:12:16.211Z
