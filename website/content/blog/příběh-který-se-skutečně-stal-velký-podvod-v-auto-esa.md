@@ -1,6 +1,6 @@
 ---
 title: "Příběh, který se skutečně stal: velký podvod v Auto ESA"
-author: Markéta M.
+author: Markéta Mazancová
 description: Auto ESA recenze a zkušenosti.
 meta_description: Auto ESA recenze a zkušenosti.
 twitter_image: /blog/img/velký-podvod.png
