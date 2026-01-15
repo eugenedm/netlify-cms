@@ -1,6 +1,6 @@
 ---
 title: Jakou cenu má moje auto?
-author: Eliška
+author: Eliška Šimková
 description: Cena auta nemusí být vždy reálná
 meta_description: Cena auta nemusí být vždy reálná
 twitter_image: /blog/img/car-ad3.jpg
