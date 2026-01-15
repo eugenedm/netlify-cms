@@ -1,6 +1,6 @@
 ---
 title: Výkup vozů Škoda nejvýhodněji
-author: Adam
+author: Adam Pokorný
 description: Nejlepší Škoda výkup v ČR
 twitter_image: /blog/img/car-ad3.jpg
 date: 2021-10-10T18:52:01.047Z
