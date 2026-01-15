@@ -1,6 +1,6 @@
 ---
 title: Pozor na rizika při prodeji vozu na inzerát!
-author: Markéta M.
+author: Markéta Mazancová
 description: Prodej vozu přes inzerát.
 twitter_image: /blog/img/car-ad3.jpg
 date: 2021-08-31T07:37:23.466Z
