@@ -1,6 +1,6 @@
 ---
 title: Výkup auta nebo komisní prodej?
-author: Eliška
+author: Eliška Šimková
 description: Rozdíl mezi výkupem auta a komisním prodejem.
 twitter_image: /blog/img/obrázek1.jpg
 date: 2022-08-01T17:20:21.545Z
