@@ -1,6 +1,6 @@
 ---
 title: Nekalé praktiky autobazarů jsou i po desetiletích stejné
-author: Markéta M.
+author: Markéta Mazancová
 description: Na autě za 125 tisíc autobazar vydělá až 50 tisíc!
 twitter_image: /blog/img/picture1.png
 date: 2021-07-15T05:51:09.565Z
