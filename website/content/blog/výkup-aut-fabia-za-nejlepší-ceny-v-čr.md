@@ -1,6 +1,6 @@
 ---
 title: Výkup aut Fabia za nejlepší ceny v ČR
-author: Eliška
+author: Eliška Šimková
 description: Prodejte svoji Fabii bezpečně a nejvýhodněji v ČR
 meta_description: Prodejte svoji Fabii bezpečně a nejvýhodněji v ČR
 twitter_image: /blog/img/car-ad3.jpg
