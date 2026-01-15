@@ -1,6 +1,6 @@
 ---
 title: Mobilní výkup - jak prodat auto
-author: Markéta M.
+author: Markéta Mazancová
 description: Mobilní výkup = rychlý prodej auta za maximum ceny
 twitter_image: /blog/img/tab.bmp
 date: 2021-06-07T12:27:24.594Z
