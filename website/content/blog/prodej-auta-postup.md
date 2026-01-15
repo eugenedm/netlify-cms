@@ -1,6 +1,6 @@
 ---
 title: Prodej auta - postup
-author: Klára S.
+author: Klára Stárková
 description: Jak prodat auto bezpečně a rychle
 twitter_image: /blog/img/obrázek1.jpg
 date: 2022-07-10T08:27:13.570Z
