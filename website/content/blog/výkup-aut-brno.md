@@ -4,7 +4,7 @@ author: Eliška Šimková
 description: Jak online výkup aut funguje a proč je v Brně tak oblíbený? Férový
   a rychlý výkup vozidel v Brně s okamžitou platbou.
 twitter_image: /blog/img/car-ad3.jpg
-date: 2026-01-06T11:03:34.194Z
+date: 2025-01-27T23:00:00.000Z
 ---
 # **Jak online výkup aut funguje a proč je v Brně tak oblíbený?**
 
