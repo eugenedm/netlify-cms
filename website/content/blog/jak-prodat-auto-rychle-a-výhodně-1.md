@@ -4,7 +4,7 @@ author: Adam Pokorný
 description: S Dobrým výkupem to zvládnete z pohodlí domova. Výkup auta rychle a
   za férovou cenu.
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-03-02T23:00:00.000Z
+date: 2025-03-01T23:00:00.000Z
 ---
 
 
