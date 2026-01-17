@@ -3,7 +3,7 @@ title: Výkup aut Olomouc, recenze a zkušenosti
 author: Eliška Šimková
 description: Jak bezpečně a rychle prodat auto Olomouc a okolí
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-04-05T22:00:00.000Z
+date: 2025-02-05T23:00:00.000Z
 ---
 ## Jak bezpečně a rychle prodat auto Olomouc a okolí
 
