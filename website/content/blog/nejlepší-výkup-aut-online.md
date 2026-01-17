@@ -3,7 +3,7 @@ title: Nejlepší výkup aut online?
 author: Eliška Šimková
 description: Návod jak získat nejlepší cenu za své vozidlo rychle, jednoduše a bez starostí
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-10-15T11:26:58.034Z
+date: 2025-07-09T22:00:00.000Z
 ---
 **Návod jak získat nejlepší cenu za své vozidlo rychle, jednoduše a bez starostí.**
 
