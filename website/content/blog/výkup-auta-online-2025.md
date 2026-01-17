@@ -4,7 +4,7 @@ author: Eliška Šimková
 description: Online výkup auta v roce 2026. Pošlete nabídku, domluvíme cenu a
   peníze dostanete ihned. Bez bazaru, bez čekání, bez rizika.
 twitter_image: /blog/img/car-ad3.jpg
-date: 2026-01-05T23:00:00.000Z
+date: 2025-11-03T23:00:00.000Z
 ---
 # Jak prodat vůz rychle, bezpečně a za hotové
 
