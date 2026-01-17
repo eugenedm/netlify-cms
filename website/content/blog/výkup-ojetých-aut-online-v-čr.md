@@ -3,7 +3,7 @@ title: Výkup ojetých aut online v ČR
 author: Adam Pokorný
 description: Jak zjistit cenu a prodat auto bez starostí.
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-10-28T07:54:02.593Z
+date: 2025-07-27T22:00:00.000Z
 ---
 #  Jak zjistit cenu a prodat auto?
 
