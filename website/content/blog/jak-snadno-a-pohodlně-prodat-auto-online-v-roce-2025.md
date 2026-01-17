@@ -5,7 +5,7 @@ description: Moderní způsob, jak získat rychlou a férovou cenu za výkup aut
   Výkup vozidel z domu za hotové.
 meta_description: ""
 twitter_image: /blog/img/car-ad3.jpg
-date: 2026-01-06T09:38:27.635Z
+date: 2025-06-03T22:00:00.000Z
 ---
 Moderní způsob, jak získat rychlou a férovou cenu za výkup auta.
 
