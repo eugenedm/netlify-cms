@@ -3,7 +3,7 @@ title: Jak rychle a výhodně prodat auto
 author: Adam Pokorný
 description: Kompletní průvodce výkupem automobilů
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-07-05T22:00:00.000Z
+date: 2025-02-05T23:00:00.000Z
 ---
 
 
