@@ -137,7 +137,7 @@ meta_description: >-
 
   Chcete prodat své auto rychle a bez starostí? Navštivte [www.dobryvykup.cz](https://www.dobryvykup.cz/) a zjistěte, jak snadné to může být.
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-06-20T22:00:00.000Z
+date: 2025-05-20T22:00:00.000Z
 ---
 ## Online výkup aut z pohodlí domova
 
