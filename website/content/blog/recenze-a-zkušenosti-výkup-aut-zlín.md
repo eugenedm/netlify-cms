@@ -4,7 +4,7 @@ author: Eliška Šimková
 description: Jak bezpečně a rychle prodat auto ve Zlíně a okolí. Výkup vozidel z
   domu Zlín a okolí.
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-08-21T07:31:51.635Z
+date: 2025-02-06T23:00:00.000Z
 ---
 
 
