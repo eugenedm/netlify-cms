@@ -3,7 +3,7 @@ title: Výkup aut Ostrava - Recenze a zkušenosti
 author: Eliška Šimková
 description: Jak prodat auto rychle, výkup aut Ostrava a Moravskoslezký kraj
 twitter_image: /blog/img/car-ad3.jpg
-date: 2025-05-06T22:00:00.000Z
+date: 2025-04-06T22:00:00.000Z
 ---
 ![](/blog/img/ostrava.jpeg)
 
