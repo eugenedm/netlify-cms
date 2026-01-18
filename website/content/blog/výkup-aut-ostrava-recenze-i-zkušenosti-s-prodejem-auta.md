@@ -5,7 +5,7 @@ description: Nejlepší výkup aut Ostrava, Opava, Frýdek Místek i Havířov. 
   vozidel z domu s platbou ihned na místě.
 meta_description: Nejlepší výkup aut Ostrava, Opava, Frýdek Místek i Havířov
 twitter_image: /blog/img/car-ad3.jpg
-date: 2024-04-06T22:00:00.000Z
+date: 2024-01-15T23:00:00.000Z
 ---
 
 
