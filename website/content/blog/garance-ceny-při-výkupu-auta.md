@@ -14,7 +14,7 @@ Prodat auto není pro většinu lidí každodenní záležitost.\
 **Právě proto u nás funguje garance ceny.**\
 Jednoduše, srozumitelně a férově.
 
-![nejlepší výkup vozidel](/blog/img/červená-fabia-graf.jpeg)
+![Nejlepší výkup vozidel](/blog/img/červená-fabia-graf.jpeg)
 
 ## Co u nás znamená garance ceny
 
