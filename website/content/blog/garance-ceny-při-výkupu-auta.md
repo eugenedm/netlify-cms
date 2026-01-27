@@ -6,7 +6,7 @@ meta_description: Garance ceny při výkupu auta
 twitter_image: /blog/img/car-ad3.jpg
 date: 2026-01-26T14:01:44.618Z
 ---
-# Jak garance ceny funguje 
+# Jak garance ceny funguje
 
 Prodat auto není pro většinu lidí každodenní záležitost.\
 Často se setkáváme s obavami, že se cena na místě změní, že přijde nepříjemné smlouvání, nebo že se celý proces zbytečně protahuje.
@@ -14,7 +14,7 @@ Prodat auto není pro většinu lidí každodenní záležitost.\
 **Právě proto u nás funguje garance ceny.**\
 Jednoduše, srozumitelně a férově.
 
-![nejlepší výkup vozidel](/blog/img/pečeť-garance-ceny.jpeg)
+![nejlepší výkup vozidel](/blog/img/auto-financing-2157347_960_720.jpg)
 
 ## Co u nás znamená garance ceny
 
@@ -87,8 +87,6 @@ Na místě se už nic nedomlouvá ani neřeší pod tlakem.
 
 ![](/blog/img/car-5361190_1920.jpg)
 
-
-
 ## Co se stane, když se na místě objeví problém
 
 ### Vážná závada
@@ -99,8 +97,6 @@ Pokud se objeví vážná závada, kterou jsme předem nemohli zjistit:
 * o ceně nesmlouváme
 * vaše rozhodnutí plně respektujeme
 * poradíme vám co dělat dál
-
-
 
 ### Mírná závada
 
