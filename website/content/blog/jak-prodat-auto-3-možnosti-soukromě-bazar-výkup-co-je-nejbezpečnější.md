@@ -152,7 +152,9 @@ A pro ty, kteří chtějí prodej opravdu vyřešit z domova a rychle, navazuje 
   ## Zkušenosti zákazníků s prodejem auta
 
   **Za kvalitu našeho výkupu nejlépe mluví zkušenosti lidí, kteří přes nás auto skutečně prodali.**\
-  **Zakládáme si na lidském přístupu, klidu a férovém jednání. Bez nátlaku a bez nepříjemných překvapení, jednáme fér a na rovinu.**
+  **Zakládáme si na lidském přístupu, klidu a férovém jednání bez nátlaku. - jednáme vždy na rovinu a bez nepříjemných překvapení.**
+
+
 
   > *„Měla jsem z prodeje auta obavy, ale vše proběhlo klidně a přesně tak, jak bylo domluveno. Nemusela jsem nic řešit a měla jsem jistotu ceny předem. Oceňuji lidský a milý přístup.“*\
   > — zákaznice, Středočeský kraj
