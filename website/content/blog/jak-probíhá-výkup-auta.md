@@ -41,7 +41,7 @@ Na rozdíl od prodeje přes bazar či soukromé inzeráty je to rychlé, bez zby
 
 ### 2. Odhad ceny vozu
 
-* Na základě údajů o vozidle znáte cenu za výkup auta během 15 minut, v případě detailnějšího nacenění auta do pár hodin. Cena, na které se domluvíme předem, platí, pokud se na místě neukáže něco zásadně odlišného. Pro více o tom, jak u nás funguje **garance ceny při výkupu auta**, se podívejte [zde](https://www.dobryvykup.cz/blog/2026/01/garance-ceny-p%C5%99i-v%C3%BDkupu-auta).
+* Na základě údajů o vozidle znáte cenu za výkup auta během 15 minut, v případě detailnějšího nacenění auta do pár hodin. Cena, na které se domluvíme předem, platí, pokud se na místě neukáže něco zásadně odlišného. Pro více o tom, jak funguje **[garance ceny při výkupu auta](https://www.dobryvykup.cz/blog/2026/01/garance-ceny-p%C5%99i-v%C3%BDkupu-auta)**, se podívejte zde.
 
 ### 3. Domluva termínu a místa výkupu
 
