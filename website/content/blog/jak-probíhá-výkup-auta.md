@@ -6,7 +6,7 @@ meta_description: Jak probíhá výkup auta
 twitter_image: /blog/img/car-ad3.jpg
 date: 2025-06-24T22:00:00.000Z
 ---
-![Jak probíhá výkup auta](/blog/img/renault-clio-otazníky.png)
+![Jak probíhá výkup auta](/blog/img/výkup-bankovky-auta.png)
 
 # Výkup vozu, krok za krokem
 
