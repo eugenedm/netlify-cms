@@ -2,6 +2,7 @@
 title: Jak probíhá výkup auta
 author: Adam Pokorný
 description: Jak probíhá výkup auta od A do Z. Kompletní postup při výkupu auta.
+meta_description: Jak probíhá výkup auta
 twitter_image: /blog/img/car-ad3.jpg
 date: 2025-06-24T22:00:00.000Z
 ---
