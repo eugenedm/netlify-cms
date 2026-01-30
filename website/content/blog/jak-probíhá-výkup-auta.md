@@ -72,6 +72,8 @@ Výkup auta trvá průměrně 40 minut na místě, včetně platby a předání.
 * Bezpečnost a právní jistota – smlouvy podle platné legislativy, bez zbytečných rizik která bývají spojená se soukromou inzercí.[](https://www.dobryvykup.cz/blog/2025/02/jak-rychle-a-v%C3%BDhodn%C4%9B-prodat-auto?utm_source=chatgpt.com)  
 * Transparentnost cen – bez skrytých poplatků, cenu na které se domluvíme předem plně respektujeme a je garantovaná.[](https://www.dobryvykup.cz/blog/2024/07/v%C3%BDkup-aut-online-jak-na-to?utm_source=chatgpt.com)  
 
+  Více o procesu online výkupu najdete také v článku **[Výkup auta online 2026 – Prodejte auto rychle a za hotové.](https://www.dobryvykup.cz/blog/2025/11/v%C3%BDkup-auta-online-2025)**
+
 - - -
 
 ## 📋 Co k výkupu auta připravit?
