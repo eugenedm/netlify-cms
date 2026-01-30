@@ -83,7 +83,7 @@ Pokud chcete úplně prakticky vidět postup „krok za krokem“, pomůže i te
 A pro ty, kteří chtějí prodej opravdu vyřešit z domova a rychle, navazuje i návod k online variantě:\
 ➡️ [výkup auta online – jak to funguje krok za krokem](https://www.dobryvykup.cz/blog/2025/11/v%C3%BDkup-auta-online-2025?utm_source=chatgpt.com)
 
-![Garance ceny při výkupu auta – jistota předem dohodnuté ceny](/blog/img/300x300x100x0_f2152988_01.jpg)
+![Výkup auta s garantovanou cenou](/blog/img/300x300x100x0_f2152988_01.jpg)
 
 ## Jakou možnost zvolit?
 
