@@ -28,7 +28,7 @@ Výkup auta znamená, že prodáte svůj vůz odborníkovi, který:
 * zaplatí ihned, buď hotově nebo převodem na místě při převzetí vozidla
 * a auto si odveze a vše vyřídí v jedné návštěvě
 
-Na rozdíl od prodeje přes bazar či soukromé inzeráty je to rychlé, bez zbytečného papírování, bez rizika a s cenou za výkup auta kterou znáte předem. [](https://www.dobryvykup.cz/blog/2025/06/jak-rychle-a-bezpe%C4%8Dn%C4%9B-prodat-auto-online?utm_source=chatgpt.com)
+Na rozdíl od prodeje přes bazar či soukromé inzeráty je to rychlé, bez zbytečného papírování, bez zbytečných rizik spojených s bazarovou inzercí a s cenou za výkup auta kterou znáte předem. [](https://www.dobryvykup.cz/blog/2025/06/jak-rychle-a-bezpe%C4%8Dn%C4%9B-prodat-auto-online?utm_source=chatgpt.com)
 
 ![Nejlepší výkup vozidel](/blog/img/skoda-fabia.png)
 
@@ -41,7 +41,7 @@ Na rozdíl od prodeje přes bazar či soukromé inzeráty je to rychlé, bez zby
 
 ### 2. Odhad ceny vozu
 
-* Na základě údajů o vozidle znáte cenu za výkup auta během 15 minut, v případě detailnějšího nacenění auta do pár hodin. Cena, na které se domluvíme předem, platí, pokud se na místě neukáže něco zásadně odlišného.
+* Na základě údajů o vozidle znáte cenu za výkup auta během 15 minut, v případě detailnějšího nacenění auta do pár hodin. Cena, na které se domluvíme předem, platí, pokud se na místě neukáže něco zásadně odlišného. Pro více o tom, jak u nás funguje **garance ceny při výkupu auta**, se podívejte [zde](https://www.dobryvykup.cz/blog/2026/01/garance-ceny-p%C5%99i-v%C3%BDkupu-auta).
 
 ### 3. Domluva termínu a místa výkupu
 
@@ -49,7 +49,7 @@ Na rozdíl od prodeje přes bazar či soukromé inzeráty je to rychlé, bez zby
 
 ### 4. Kontrola vozu na místě
 
-* Na místě uděláme jen krátkou kontrolu, že vše odpovídá tomu, na čem jsme se domluvili. Následuje sepsání kupní smlouvy, platba a předání auta.
+* Na místě uděláme jen krátkou prohlídku, že je vše jak bylo domluveno. Následuje sepsání kupní smlouvy, platba a předání auta.
 
 ### 5. Platba
 
@@ -67,7 +67,7 @@ Výkup auta trvá průměrně 40 minut na místě, včetně platby a předání.
 
 ## 💡 Proč zvolit výkup auta online?
 
-* Pohodlí a úspora času – nemusíte nikam jezdit ani jednat a dohadovat se s potenciálními kupci o ceně. 
+* Pohodlí a úspora času – nemusíte nikam jezdit ani jednat a dohadovat se s potenciálními kupci o ceně. Celý proces můžete zvládnout z domova, bez stresujících jednání s mnoha zájemci.
 * Rychlost – ocenění i platba mohou proběhnout během do 24 hodin. [](https://www.dobryvykup.cz/blog/2024/08/mobiln%C3%AD-v%C3%BDkup-automobil%C5%AF-pro%C4%8D-si-vybrat-dobr%C3%BD-v%C3%BDkup?utm_source=chatgpt.com)  
 * Bezpečnost a právní jistota – smlouvy podle platné legislativy, bez zbytečných rizik která bývají spojená se soukromou inzercí.[](https://www.dobryvykup.cz/blog/2025/02/jak-rychle-a-v%C3%BDhodn%C4%9B-prodat-auto?utm_source=chatgpt.com)  
 * Transparentnost cen – bez skrytých poplatků, cenu na které se domluvíme předem plně respektujeme a je garantovaná.[](https://www.dobryvykup.cz/blog/2024/07/v%C3%BDkup-aut-online-jak-na-to?utm_source=chatgpt.com)  
@@ -113,9 +113,11 @@ Dobrý výkup je rychlý, pohodlný a bezpečný – online proces, z pohodlí d
 
 **Služba je naprosto transparentní a jak přesně Dobrý výkup funguje, si můžete přečíst krok po kroku v předchozím článku [ZDE](https://www.dobryvykup.cz/blog/2021/09/jak-prob%C3%ADh%C3%A1-samotn%C3%BD-v%C3%BDkup-aut-s-dobr%C3%BDm-v%C3%BDkupem).**  
 
-Nebo nám rovnou zavolejte.
+Nebo nám rovnou zavolejte. Nabízíme bezplatné ocenění vozu a jasnou cenu předem. Veškerou administrativu i přepis zvládneme za vás a peníze dostanete ihned.
 
 Přečtěte si recenze, které o nás napsali naši spokojení zákazníci na stránkách [www.dobryvykup.cz](https://www.dobryvykup.cz/#recenze)
+
+Pokud také zvažujete jiné způsoby prodeje vozidla, podívejte se na náš článek **[Jak prodat auto](https://www.dobryvykup.cz/blog/2026/01/jak-prodat-auto-3-mo%C5%BEnosti-soukrom%C4%9B-bazar-v%C3%BDkup-co-je-nejbezpe%C4%8Dn%C4%9Bj%C5%A1%C3%AD)**.
 
 ![nejlepší výkup aut](/blog/img/car-ad3.jpg)
 
