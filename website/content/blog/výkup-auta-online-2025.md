@@ -97,14 +97,15 @@ Cena vašeho vozu se odvíjí od několika faktorů:
 
 ## 💰 C﻿o vykupujeme a co nevykupujeme
 
-* **Specializujeme se na běžná starší, ale funkční ojetá auta**, která jsou provozuschopná a mají platné doklady.
+* **Specializujeme se na běžná, 1 rok až 20 let staré, ale funkční ojetá auta**, která jsou provozuschopná a mají platné doklady. 
 
   Vykupujeme především:
 
-  * osobní vozy běžných značek (běžně **1 rok až 20 let** staré)
+  * osobní vozy běžných značek
   * auta, která **jezdí a jsou schopná běžného provozu**
+  * vozidla v odpovídajícím stavu vzhledem ke stáří a nájezdu kilometrů
 
-    **Mírné vady nebo nedostatky nevadí**, naším cílem je férový výkup aut, která dávají smysl **pro obě strany** – pro majitele i pro další využití vozidla.
+  Naším cílem je férový výkup aut, která dávají smysl **pro obě strany** – pro majitele i pro další využití vozidla.
 
   Pokud si nejste jistí, zda je vaše auto vhodné k výkupu, **stačí se nám ozvat**. Vše si v klidu projdeme a rádi poradíme, i když se nakonec rozhodnete jinak.
 
