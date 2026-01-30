@@ -90,7 +90,7 @@ Cena vašeho vozu se odvíjí od několika faktorů:
 
 1. Mějte platnou STK a zelenou kartu.
 2. Připravte si technický průkaz, občanský průkaz a servisní záznamy.
-3. Vyfoťte auto (čisté, z více úhlů) – AI nástroj Dobrého výkupu dokáže z fotek určit vizuální stav a dle stavu a historie určit reálnou cenu vašeho auta.
+3. Vyfoťte auto (čisté, z více úhlů) – U Dobrého výkupu dokážou z fotek určit vizuální stav a dle stavu a historie určit reálnou cenu vašeho auta.
 4. Vyplňte formulář → [rychlé ocenění auta online](https://www.dobryvykup.cz#bottom).
 
 - - -
