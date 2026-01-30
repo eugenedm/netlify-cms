@@ -145,8 +145,6 @@ A pro ty, kteří chtějí prodej opravdu vyřešit z domova a rychle, navazuje 
 
   - - -
 
-
-
   ## Zkušenosti zákazníků s prodejem auta
 
   Za kvalitu našeho výkupu nejlépe mluví zkušenosti lidí, kteří přes nás auto skutečně prodali.\
@@ -158,9 +156,9 @@ A pro ty, kteří chtějí prodej opravdu vyřešit z domova a rychle, navazuje 
   > *„Velmi profesionální a zároveň lidské jednání. Vše mi bylo dopředu vysvětleno, nic se na místě neměnilo a peníze jsem dostal ihned. Prodej proběhl bez stresu.“*\
   > — zákazník, Jihomoravský kraj
 
-  Více recenzí od skutečných lidí si můžete přečíst přímo na stránkách **Dobrý výkup** zde: [https://www.dobryvykup.cz/](https://www.dobryvykup.cz/?utm_source=chatgpt.com)
+  Více recenzí od skutečných lidí si můžete přečíst přímo na stránkách Dobrého výkupu zde: [www.dobryvykup.cz/recenze/](https://www.dobryvykup.cz/#recenze)
 
-![](/blog/img/obrázek1.jpg)
+![Pohodlný prodej auta z domova – mobilní výkup](/blog/img/obrázek1.jpg)
 
 Pokud vám to dává smysl, ozvěte se. Rádi vám vše vysvětlíme a s prodejem auta pomůžeme. Rozhodnutí je vždy jen na vás. 
 
@@ -178,6 +176,6 @@ Zavolejte nám, nebo prodejte auto ihned [zde](https://www.dobryvykup.cz/#bottom
 
 Přečtěte si recenze, které o nás napsali naši spokojení zákazníci na stránkách [www.dobryvykup.cz](https://www.dobryvykup.cz/)
 
-
-
 Těšíme se na Váš zájem o výkup auta! :-)
+
+![nejlepší výkup vozidel](/blog/img/car-ad3.jpg)
