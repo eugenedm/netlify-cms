@@ -12,7 +12,7 @@ date: 2026-01-30T08:42:06.237Z
 ---
 ![Rychlý a bezpečný prodej auta bez starostí – mobilní výkup](/blog/img/graf-fabia-doklady-klíče.png)
 
-# Jak prodat auto: přehled 3 možností, výhod a rizik
+## Jak prodat auto: přehled 3 možností, výhod a rizik
 
 Prodej auta většinou neřešíme často. O to víc je důležité vybrat si způsob, který bude bezpečný, srozumitelný a bez zbytečného stresu. Pokud hledáte dotazy typu jak prodat auto, prodat auto rychle, prodej auta bez starostí nebo výkup auta vs prodej, tady najdete přehled, který vám pomůže se rozhodnout.
 
@@ -168,18 +168,8 @@ A pro ty, kteří chtějí prodej opravdu vyřešit z domova a rychle, navazuje 
 
 Služba je naprosto transparentní a jak přesně Dobrý výkup funguje, si můžete přečíst krok po kroku v předchozím článku.  
 
-Nebo nám rovnou zavolejte!
+Nebo nám rovnou zavolejte, ocenění vozidla je zdarma a žádné skryté poplatky u nás nenajdete. 
 
-1.     Nabízíme ocenění vozidla zdarma!
-2.     GARANTUJEME CENU!
-3.     Vyřídíme vše, co je třeba k přepisu vozidla.
-4.     PENÍZE IHNED V HOTOVOSTI!
-5.     Přebíráme za Vás záruky za vozidlo.
-
-Zavolejte nám, nebo prodejte auto ihned [zde](https://www.dobryvykup.cz/#bottom).
-
-Přečtěte si recenze, které o nás napsali naši spokojení zákazníci na stránkách [www.dobryvykup.cz](https://www.dobryvykup.cz/)
-
-Těšíme se na Váš zájem o výkup auta! :-)
+Těšíme se na váš zájem o výkup auta! :-)
 
 ![nejlepší výkup vozidel](/blog/img/car-ad3.jpg)
