@@ -20,8 +20,6 @@ Níže jsou 3 nejčastější cesty, jak se dnes prodává auto v Česku – vč
 
 ![Moderní ojetá auta vhodná pro rychlý a férový výkup](/blog/img/yaris-a-sharan.png)
 
-
-
 ## 1) Prodej auta soukromě (přes inzerát)
 
 Soukromý prodej znamená, že si vše řešíte sami – přípravu, focení, komunikaci, schůzky i papíry.
@@ -85,8 +83,6 @@ Pokud chcete úplně prakticky vidět postup „krok za krokem“, pomůže i te
 A pro ty, kteří chtějí prodej opravdu vyřešit z domova a rychle, navazuje i návod k online variantě:\
 ➡️ [výkup auta online – jak to funguje krok za krokem](https://www.dobryvykup.cz/blog/2025/11/v%C3%BDkup-auta-online-2025?utm_source=chatgpt.com)
 
-
-
 ![Garance ceny při výkupu auta – jistota předem dohodnuté ceny](/blog/img/300x300x100x0_f2152988_01.jpg)
 
 ## Jakou možnost zvolit?
@@ -94,8 +90,6 @@ A pro ty, kteří chtějí prodej opravdu vyřešit z domova a rychle, navazuje 
 * Pokud máte čas a chuť vše řešit sami, může dávat smysl soukromý prodej.
 * Pokud chcete část práce přenechat někomu jinému, existuje komisní prodej – je ale dobré počítat s tím, že některé věci pak nemáte plně pod kontrolou.
 * Pokud chcete klid, jasný postup a rychlé uzavření prodeje bez stresu, bývá pro většinu lidí nejpohodlnější mobilní výkup.
-
-
 
   ![Garance ceny při výkupu auta – jistota předem dohodnuté ceny](/blog/img/pečeť-100x100.jpeg)
 
@@ -170,7 +164,7 @@ A pro ty, kteří chtějí prodej opravdu vyřešit z domova a rychle, navazuje 
 
 ![Pohodlný prodej auta z domova – mobilní výkup](/blog/img/obrázek1.jpg)
 
-Pokud vám to dává smysl, ozvěte se. Rádi vám vše vysvětlíme a s prodejem auta pomůžeme. Rozhodnutí je vždy jen na vás. 
+**Pokud vám to dává smysl, ozvěte se. Rádi vám vše vysvětlíme a s prodejem auta pomůžeme. Rozhodnutí je vždy jen na vás.** 
 
 Služba je naprosto transparentní a jak přesně Dobrý výkup funguje, si můžete přečíst krok po kroku v předchozím článku.  
 
