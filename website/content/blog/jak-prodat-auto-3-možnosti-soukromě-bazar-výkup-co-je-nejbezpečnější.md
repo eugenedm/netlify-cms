@@ -147,18 +147,22 @@ A pro ty, kteří chtějí prodej opravdu vyřešit z domova a rychle, navazuje 
 
   Obvykle stačí technický průkaz, občanský průkaz, klíče od vozidla a případné příslušenství. Pokud něco chybí, vše si předem v klidu projdeme.
 
-  - - -
+  ![Jak nejlépe prodat auto ](/blog/img/certificat-79x929.jpg)
 
   ## Zkušenosti zákazníků s prodejem auta
 
-  Za kvalitu našeho výkupu nejlépe mluví zkušenosti lidí, kteří přes nás auto skutečně prodali.\
-  Zakládáme si na lidském přístupu, klidu a férovém jednání – bez nátlaku a bez nepříjemných překvapení.
+  **Za kvalitu našeho výkupu nejlépe mluví zkušenosti lidí, kteří přes nás auto skutečně prodali.**\
+  **Zakládáme si na lidském přístupu, klidu a férovém jednání. Bez nátlaku a bez nepříjemných překvapení, jednáme fér a na rovinu.**
 
   > *„Měla jsem z prodeje auta obavy, ale vše proběhlo klidně a přesně tak, jak bylo domluveno. Nemusela jsem nic řešit a měla jsem jistotu ceny předem. Oceňuji lidský a milý přístup.“*\
   > — zákaznice, Středočeský kraj
   >
+  > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+  >
   > *„Velmi profesionální a zároveň lidské jednání. Vše mi bylo dopředu vysvětleno, nic se na místě neměnilo a peníze jsem dostal ihned. Prodej proběhl bez stresu.“*\
   > — zákazník, Jihomoravský kraj
+  >
+  > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
   Více recenzí od skutečných lidí si můžete přečíst přímo na stránkách Dobrého výkupu zde: [www.dobryvykup.cz/recenze/](https://www.dobryvykup.cz/#recenze)
 
