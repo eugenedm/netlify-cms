@@ -47,7 +47,7 @@ Po prohlídce proběhne prodej auta na místě v jedné návštěvě a peníze o
 
 - - -
 
-## Rychlý přehled jak funguje výkup auta online v roce 2026 
+## Rychlý přehled jak funguje výkup auta online v roce 2026
 
 ### Jak probíhá výkup auta z domu 2026 (ve zkratce a aktuálně)
 
@@ -97,24 +97,16 @@ Cena vašeho vozu se odvíjí od několika faktorů:
 
 ## 💰 C﻿o vykupujeme a co nevykupujeme
 
-**Výkup auta online je vhodný zejména pro majitele:**
+* **Specializujeme se na běžná starší, ale funkční ojetá auta**, která jsou provozuschopná a mají platné doklady.
 
-* funkčních ojetých vozidel
-* aut po běžném opotřebení případně s mírnými vadami
-* vozidel určených k dalšímu provozu
-* osobních automobilů bez právních vad
+  Vykupujeme především:
 
-**Pro koho není vhodný a co nevykupujeme**
+  * osobní vozy běžných značek (běžně **1 rok až 20 let** staré)
+  * auta, která **jezdí a jsou schopná běžného provozu**
 
-* autovraky a auta s vážnou závadou
+    **Mírné vady nebo nedostatky nevadí**, naším cílem je férový výkup aut, která dávají smysl **pro obě strany** – pro majitele i pro další využití vozidla.
 
-* vozidla k ekologické likvidaci
-
-* nepojízdná nebo havarovaná auta
-
-
-
-Vykupujeme **pouze funkční vozidla** určená k dalšímu provozu – neprovádíme likvidace ani výkup autovraků.
+  Pokud si nejste jistí, zda je vaše auto vhodné k výkupu, **stačí se nám ozvat**. Vše si v klidu projdeme a rádi poradíme, i když se nakonec rozhodnete jinak.
 
 Pokud chcete zjistit orientační cenu vašeho auta, můžete využít** [nezávazný formulář výkupu.](https://www.dobryvykup.cz/#bottom)**\
 Vyplnění zabere méně než 2 minuty.
@@ -126,17 +118,17 @@ _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 | Možnost | Rychlost | Riziko | Cena | Starosti |
 | ------- | -------- | ------ | ---- | -------- |
 
-|                   |      |       |        |           |
-| ----------------- | ---- | ----- | ------ | --------- |
-| Výkup auta online | ⭐⭐⭐  | Nízké | Reálná | Minimální |
+|                   |     |       |        |           |
+| ----------------- | --- | ----- | ------ | --------- |
+| Výkup auta online | ⭐⭐⭐ | Nízké | Reálná | Minimální |
 
 |           |     |         |       |          |
 | --------- | --- | ------- | ----- | -------- |
 | Autobazar | ⭐⭐  | Střední | Nízká | S﻿tředni |
 
-|           |      |        |         |       |
-| --------- | ---- | ------ | ------- | ----- |
-| I﻿nzerce  | ⭐    | Vysoké | Nejistá | Velké |
+|          |     |        |         |       |
+| -------- | --- | ------ | ------- | ----- |
+| I﻿nzerce | ⭐   | Vysoké | Nejistá | Velké |
 
 |     |
 | --- |
