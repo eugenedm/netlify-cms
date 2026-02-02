@@ -144,3 +144,5 @@ Pokud budete chtít, rádi vám vše vysvětlíme, odpovíme na otázky a pomů�
 Nebo nám rovnou zavolejte. Nabízíme bezplatné ocenění vozu a jasnou cenu předem. Veškerou administrativu i přepis zvládneme za vás a peníze dostanete ihned.
 
 Přečtěte si i recenze, které o nás napsali naši spokojení zákazníci na stránkách [www.dobryvykup.cz](https://www.dobryvykup.cz/#recenze)
+
+![Mobilní výkup auta z domu po celé ČR – rychlý, férový prodej auta s garancí ceny a okamžitou platbou](/blog/img/chatgpt-image-2.-2.-2026-14_15_06.png)
