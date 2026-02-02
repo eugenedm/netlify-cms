@@ -133,7 +133,7 @@ Ve většině případů ne. Stav auta je lepší popsat pravdivě předem a ne�
 
 Samotné předání auta a vyřízení formalit obvykle zabere desítky minut, ne celý den.
 
-![nejlepší výkup vozidel, nejlepší zkušenosti a recenze na výkup auta.](/blog/img/obrázek1.jpg)
+![nejlepší výkup vozidel, nejlepší zkušenosti a recenze na výkup auta.](/blog/img/info-icon.png)
 
 ## Závěrem: rozhodnutí má být klidné
 
