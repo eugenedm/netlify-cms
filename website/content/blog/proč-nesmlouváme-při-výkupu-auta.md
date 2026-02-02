@@ -31,7 +31,7 @@ Pro prodávajícího to znamená:
 * obavy, zda říká „správně“ ano nebo ne,
 * a často i nepříjemný pocit, že musí obhajovat vlastní auto.
 
-My věříme, že **prodej auta nemá být psychologická hra**. Ale jistý krok a posun v životě dál.
+My věříme, že prodej auta **nemá být psychologická hra**, ale klidný a jistý krok, po kterém máte vše vyřešené.
 
 ![Férový výkup auta bez smlouvání – jasná cena, rychlá platba a profesionální přístup](/blog/img/certificat-79x929.jpg)
 
