@@ -119,13 +119,13 @@ Ano, cenu znáte předem a vaše rozhodnutí plně respektujeme.
 Nesmlouvání není slabost.\
 Je to způsob, jak zachovat klid, respekt, úctu a důvěru při prodeji auta.
 
+Pokud zvažujete všechny možnosti prodeje, může vám pomoci i náš přehledný článek [**Jak prodat auto**.](https://www.dobryvykup.cz/blog/2024/09/jak-prodat-auto-1)
+
 Pokud hledáte řešení, kde přesně víte, na čem jste, a nechcete zažívat nátlak nebo nepříjemná jednání, rádi vám celý postup v klidu vysvětlíme. Rozhodnutí je vždy jen na vás.
-
-
 
 **Pokud vám to dává smysl, ozvěte se. Rádi vám vše vysvětlíme a s prodejem vašeho auta rádi pomůžeme.**
 
-Služba je naprosto transparentní a jak přesně Dobrý výkup funguje, si můžete přečíst krok po kroku v předchozím článku [ZDE](https://www.dobryvykup.cz/blog/2021/09/jak-prob%C3%ADh%C3%A1-samotn%C3%BD-v%C3%BDkup-aut-s-dobr%C3%BDm-v%C3%BDkupem).  
+Služba je naprosto transparentní a jak přesně Dobrý výkup funguje, si můžete přečíst krok po kroku v předchozím článku [Jak probíhá samotný výkup auta s Dobrým výkupem.](https://www.dobryvykup.cz/blog/2021/09/jak-prob%C3%ADh%C3%A1-samotn%C3%BD-v%C3%BDkup-aut-s-dobr%C3%BDm-v%C3%BDkupem)
 
 Nebo nám rovnou zavolejte. Nabízíme bezplatné ocenění vozu a jasnou cenu předem. Veškerou administrativu i přepis zvládneme za vás a peníze dostanete ihned.
 
