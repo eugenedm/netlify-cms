@@ -4,13 +4,15 @@ author: Adam Pokorný
 description: Proč při výkupu auta nesmlouváme? Vysvětlujeme férový přístup,
   garanci ceny a důvody, proč má být prodej auta klidný, přehledný a bez
   nátlaku.
-meta_description: Proč nesmlouváme při výkupu auta
+meta_description: Proč při výkupu auta nesmlouváme? Vysvětlujeme férový přístup,
+  garanci ceny a důvody, proč má být prodej auta klidný, přehledný a bez
+  nátlaku.
 twitter_image: /blog/img/chatgpt-image-2.-2.-2026-14_15_06.png
 date: 2026-02-02T14:38:33.199Z
 ---
 ![Výkup auta bez smlouvání s garancí ceny – férový a bezpečný prodej auta bez nátlaku](/blog/img/garance-a-corolla.png)
 
-## Proč při výkupu auta nesmlouváme? Vysvětlujeme férový přístup, garanci ceny a důvody, proč má být prodej auta klidný, přehledný a bez nátlaku.
+**Proč při výkupu auta nesmlouváme? Vysvětlujeme férový přístup, garanci ceny a důvody, proč má být prodej auta klidný, přehledný a bez nátlaku.**
 
 Smlouvání je u prodeje auta pro mnoho lidí nepříjemná zkušenost. Často znamená tlak, nejistotu a pocit, že člověk musí něco „uhádat“, aby nepřišel o peníze. My jsme se proto rozhodli jít jinou cestou.
 
