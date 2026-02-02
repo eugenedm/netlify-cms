@@ -47,8 +47,6 @@ Díky tomu:
 
 Pokud vás zajímá, jak přesně funguje cena, na které se domluvíme předem, podrobně to vysvětlujeme v článku o [garanci ceny při výkupu auta.](https://www.dobryvykup.cz/blog/2026/01/garance-ceny-p%C5%99i-v%C3%BDkupu-auta)
 
-- - -
-
 ## Nesmlouvání znamená respekt k rozhodnutí prodávajícího
 
 Prodej auta je vždy rozhodnutí majitele. Nechceme nikoho tlačit do situace, kdy musí jednat pod tlakem nebo se obhajovat.
@@ -125,7 +123,7 @@ Pokud hledáte řešení, kde přesně víte, na čem jste, a nechcete zažívat
 
 
 
-**Pokud vám to dává smysl, ozvěte se. Rádi vám vše vysvětlíme a s prodejem vašeho plechového miláčka pomůžeme.**
+**Pokud vám to dává smysl, ozvěte se. Rádi vám vše vysvětlíme a s prodejem vašeho auta rádi pomůžeme.**
 
 Služba je naprosto transparentní a jak přesně Dobrý výkup funguje, si můžete přečíst krok po kroku v předchozím článku [ZDE](https://www.dobryvykup.cz/blog/2021/09/jak-prob%C3%ADh%C3%A1-samotn%C3%BD-v%C3%BDkup-aut-s-dobr%C3%BDm-v%C3%BDkupem).  
 
