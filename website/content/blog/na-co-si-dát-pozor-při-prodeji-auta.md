@@ -7,7 +7,7 @@ description: Na co si dát pozor při prodeji auta? Přehledně a srozumitelně
 twitter_image: /blog/img/car-ad3.jpg
 date: 2026-02-02T11:15:13.190Z
 ---
-![Jak probíhá bezpečný prodej auta s jasnou cenou a bez stresu](/blog/img/chatgpt-image-2.-2.-2026-12_45_24.png)
+![Jak probíhá bezpečný prodej auta s jasnou cenou a bez stresu](/blog/img/výkup-auta.png)
 
 ## Na co si dát pozor při prodeji auta? Zde přehledně a srozumitelně vysvětlujeme nejčastější rizika, chyby a situace, které se při prodeji auta mohou stát – bez strašení a bez stresu.
 
@@ -17,13 +17,11 @@ Tenhle článek nemá nikoho strašit ani do ničeho tlačit. Je tu proto, aby v
 
 ![Na co si dát pozor při prodeji auta a jak se vyhnout zbytečným problémům](/blog/img/info-icon.png)
 
-##  Proč je dobré být při prodeji auta obezřetní
+## Proč je dobré být při prodeji auta obezřetní
 
 Prodej auta není jen „předání klíčků“. Je to právní a finanční úkon, který má dopad i do budoucna. Většina problémů, se kterými se lidé potýkají, nevzniká ze špatného úmyslu, ale z nejasností a neznalosti prodávajícího.
 
 Když víte, co si pohlídat, můžete se nepříjemnostem vyhnout a mít jistotu, že je vše vyřešeno bezpečně a správně.
-
-
 
 ## Nejčastější situace, na které si dát pozor
 
@@ -41,9 +39,7 @@ Pokud vás zajímá, jak funguje cena, na které se domluvíte předem a která 
 
 - - -
 
-![Férový a přehledný postup při prodeji auta bez nátlaku](/blog/img/chatgpt-image-2.-2.-2026-12_58_10.png)
-
-###  
+![Férový a přehledný postup při prodeji auta bez nátlaku](/blog/img/výkup-auta2.png)
 
 ### Tlak na rychlé rozhodnutí
 
@@ -96,7 +92,7 @@ Bez ohledu na to, jaký způsob prodeje zvolíte, existuje několik signálů, k
 
 Pokud vás zajímá celý proces podrobně krok za krokem, najdete ho v článku [Jak probíhá výkup auta.](https://www.dobryvykup.cz/blog/2025/06/jak-prob%C3%ADh%C3%A1-v%C3%BDkup-auta)
 
-![](/blog/img/chatgpt-image-2.-2.-2026-13_13_13.png)
+![Férový a bezpečný prodej auta bez stresu – přehledný postup a jasná domluva](/blog/img/výkup-auta-3.png)
 
 ## Kdy dává smysl zvolit výkup auta
 
@@ -133,7 +129,7 @@ Ve většině případů ne. Stav auta je lepší popsat pravdivě předem a ne�
 
 Samotné předání auta a vyřízení formalit obvykle zabere desítky minut, ne celý den.
 
-![nejlepší výkup vozidel, nejlepší zkušenosti a recenze na výkup auta.](/blog/img/info-icon.png)
+![nejlepší výkup vozidel, nejlepší zkušenosti a recenze na výkup auta.](/blog/img/unbannner.png)
 
 ## Závěrem: rozhodnutí má být klidné
 
@@ -145,4 +141,4 @@ Nebo nám rovnou zavolejte. Nabízíme bezplatné ocenění vozu a jasnou cenu p
 
 Přečtěte si i recenze, které o nás napsali naši spokojení zákazníci na stránkách [www.dobryvykup.cz](https://www.dobryvykup.cz/#recenze)
 
-![Mobilní výkup auta z domu po celé ČR – rychlý, férový prodej auta s garancí ceny a okamžitou platbou](/blog/img/chatgpt-image-2.-2.-2026-14_15_06.png)
+![Mobilní výkup auta z domu po celé ČR – rychlý, férový prodej auta s garancí ceny a okamžitou platbou](/blog/img/bannner-blog.png)
