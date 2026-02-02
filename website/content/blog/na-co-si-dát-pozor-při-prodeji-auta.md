@@ -23,7 +23,7 @@ Prodej auta není jen „předání klíčků“. Je to právní a finanční ú
 
 Když víte, co si pohlídat, můžete se nepříjemnostem vyhnout a mít jistotu, že je vše vyřešeno bezpečně a správně.
 
-- - -
+
 
 ## Nejčastější situace, na které si dát pozor
 
@@ -40,6 +40,10 @@ Je vždy lepší:
 Pokud vás zajímá, jak funguje cena, na které se domluvíte předem a která se na místě nemění, může vám pomoci článek o [garanci ceny při výkupu auta](https://www.dobryvykup.cz/blog/2026/01/garance-ceny-p%C5%99i-v%C3%BDkupu-auta).
 
 - - -
+
+![Férový a přehledný postup při prodeji auta bez nátlaku](/blog/img/chatgpt-image-2.-2.-2026-12_58_10.png)
+
+###  
 
 ### Tlak na rychlé rozhodnutí
 
@@ -78,7 +82,7 @@ Prodej auta přes inzerát často znamená:
 
 Pro mnoho lidí je to psychicky náročné. Naopak jednání s jedním konkrétním člověkem, který vše vysvětlí a provede celým procesem, přináší výrazně větší klid.
 
-- - -
+![Klidné a bezpečné dokončení prodeje auta s okamžitou platbou](/blog/img/certificat-79x929.jpg)
 
 ## Jak poznat férový a bezpečný způsob prodeje auta
 
@@ -92,7 +96,7 @@ Bez ohledu na to, jaký způsob prodeje zvolíte, existuje několik signálů, k
 
 Pokud vás zajímá celý proces podrobně krok za krokem, najdete ho v článku [Jak probíhá výkup auta.](https://www.dobryvykup.cz/blog/2025/06/jak-prob%C3%ADh%C3%A1-v%C3%BDkup-auta)
 
-- - -
+![](/blog/img/chatgpt-image-2.-2.-2026-13_13_13.png)
 
 ## Kdy dává smysl zvolit výkup auta
 
