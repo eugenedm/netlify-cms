@@ -21,7 +21,7 @@ A má to velmi konkrétní důvody.
 
 ![Garance ceny při výkupu auta – předem domluvená cena, která platí i na místě](/blog/img/info-icon.png)
 
-## Smlouvání vytváří stres, neúctu a nejistotu
+## Smlouvání vytváří stres a nejistotu
 
 Při klasickém výkupu nebo v autobazaru se cena často řeší až na místě. To, co zaznělo předem, se může změnit podle situace, nálady nebo tlaku na rychlé rozhodnutí a to dokonce i na poslední chvíli před podpisem smluv.
 
