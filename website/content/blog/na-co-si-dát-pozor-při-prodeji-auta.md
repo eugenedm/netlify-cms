@@ -7,13 +7,11 @@ description: Na co si dát pozor při prodeji auta? Přehledně a srozumitelně
 twitter_image: /blog/img/car-ad3.jpg
 date: 2026-02-02T11:15:13.190Z
 ---
-![]()
+![Jak probíhá bezpečný prodej auta s jasnou cenou a bez stresu](/blog/img/shake-hand-3677534_1920.jpg)
 
 ## Na co si dát pozor při prodeji auta? Zde přehledně a srozumitelně vysvětlujeme nejčastější rizika, chyby a situace, které se při prodeji auta mohou stát – bez strašení a bez stresu.
 
 Prodej auta je pro většinu lidí velký krok. Nejde jen o peníze, ale také o odpovědnost, správné vyřízení dokladů a pocit jistoty, že je vše v pořádku. Pokud víte, na co si dát pozor, může být celý prodej klidný a bez zbytečného stresu.
-
-
 
 Tenhle článek nemá nikoho strašit ani do ničeho tlačit. Je tu proto, aby vám pomohl se zorientovat a rozhodnout se, tak aby vám to dávalo smysl.
 
