@@ -8,7 +8,7 @@ meta_description: Proč nesmlouváme při výkupu auta
 twitter_image: /blog/img/chatgpt-image-2.-2.-2026-14_15_06.png
 date: 2026-02-02T14:38:33.199Z
 ---
-![](/blog/img/unbannner.png)
+![Výkup auta bez smlouvání s garancí ceny – férový a bezpečný prodej auta bez nátlaku](/blog/img/garance-a-corolla.png)
 
 ## Proč při výkupu auta nesmlouváme? Vysvětlujeme férový přístup, garanci ceny a důvody, proč má být prodej auta klidný, přehledný a bez nátlaku.
 
@@ -17,7 +17,7 @@ Smlouvání je u prodeje auta pro mnoho lidí nepříjemná zkušenost. Často z
 Nesmlouváme.\
 A má to velmi konkrétní důvody.
 
-![](/blog/img/info-icon.png)
+![Garance ceny při výkupu auta – předem domluvená cena, která platí i na místě](/blog/img/info-icon.png)
 
 ## Smlouvání vytváří stres, neúctu a nejistotu
 
@@ -31,9 +31,7 @@ Pro prodávajícího to znamená:
 
 My věříme, že **prodej auta nemá být psychologická hra**. Ale jistý krok a posun v životě dál.
 
-
-
-![](/blog/img/certificat-79x929.jpg)
+![Férový výkup auta bez smlouvání – jasná cena, rychlá platba a profesionální přístup](/blog/img/certificat-79x929.jpg)
 
 ## Cena má být jasná ještě před setkáním
 
@@ -61,7 +59,7 @@ Proto:
 
 Rozhodnutí má dávat smysl pro obě strany, jinak pro nás obchod nemá význam. Možná také proto máme tolik pozitivních recenzí od lidí, kteří přes naši službu auto již prodali. Zkušenosti majitelů s výkupem auta přes Dobrý výkup si můžete přečíst [zde.](https://www.dobryvykup.cz/#recenze)
 
-![](/blog/img/pečeť-100x100.jpeg)
+![Bezpečný prodej auta s výkupem z domu – žádné dohadování o ceně, žádný stres](/blog/img/zelená-fajka-a-corolla.png)
 
 ## Kdy se může stát, že auto nakonec nekoupíme
 
@@ -98,7 +96,7 @@ Férový výkup bez smlouvání má několik jasných znaků:
 
 Pokud chcete vidět celý postup krok za krokem, najdete ho v článku [Jak probíhá výkup auta.](https://www.dobryvykup.cz/blog/2025/06/jak-prob%C3%ADh%C3%A1-v%C3%BDkup-auta)
 
-![](/blog/img/unbannner.png)
+![Rychlý výkup auta z domu bez smlouvání – cena domluvená předem, platba ihned](/blog/img/unbannner.png)
 
 ## Nejčastější otázky ke smlouvání při výkupu auta
 
@@ -114,7 +112,7 @@ Vše řešíme otevřeně, předem a ceny jsou vždy aktuální s ohledem na hod
 
 Ano, cenu znáte předem a vaše rozhodnutí plně respektujeme.
 
-- - -
+![Moderní výkup auta bez bazaru a bez smlouvání – férové řešení pro prodej auta](/blog/img/info-icon.png)
 
 ## Závěrem
 
@@ -123,7 +121,7 @@ Je to způsob, jak zachovat klid, respekt, úctu a důvěru při prodeji auta.
 
 Pokud hledáte řešení, kde přesně víte, na čem jste, a nechcete zažívat nátlak nebo nepříjemná jednání, rádi vám celý postup v klidu vysvětlíme. Rozhodnutí je vždy jen na vás.
 
-- - -
+
 
 **Pokud vám to dává smysl, ozvěte se. Rádi vám vše vysvětlíme a s prodejem vašeho plechového miláčka pomůžeme.**
 
