@@ -160,8 +160,8 @@ Když je celý proces nastavený správně, může být **během jedné návšt�
 
 Peníze dostanete na místě, přepis je vyřešený a vy máte jasno v jediné věci:
 
-**Ano – tím je to pro vás uzavřené.**\
-**A nic už dělat nemusíte.**
+**Ano – tím je to pro vás vše uzavřené a vyřízené.**\
+**Nic víc už nemusíte dělat a o nic už se nemusíte starat.**
 
 *"Pokud vám takový způsob prodeje auta dává smysl, rádi vám vše nezávazně vysvětlíme a pomůžeme najít řešení, které bude vyhovovat právě vám."*
 
