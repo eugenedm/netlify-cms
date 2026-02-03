@@ -166,7 +166,7 @@ A pro ty, kteří chtějí prodej opravdu vyřešit z domova a rychle, navazuje 
 
   Více recenzí od skutečných lidí si můžete přečíst přímo na stránkách Dobrého výkupu zde: [www.dobryvykup.cz/recenze/](https://www.dobryvykup.cz/#recenze)
 
-![Pohodlný prodej auta z domova – mobilní výkup](/blog/img/obrázek1.jpg)
+![Pohodlný prodej auta z domova – mobilní výkup ojetých aut](/blog/img/obrázek1.jpg)
 
 **Pokud vám to dává smysl, ozvěte se. Rádi vám vše vysvětlíme a s prodejem auta pomůžeme. Rozhodnutí je vždy jen na vás.** 
 
