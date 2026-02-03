@@ -147,7 +147,7 @@ A pro ty, kteří chtějí prodej opravdu vyřešit z domova a rychle, navazuje 
 
   Obvykle stačí technický průkaz, občanský průkaz, klíče od vozidla a případné příslušenství. Pokud něco chybí, vše si předem v klidu projdeme.
 
-  ![Jak nejlépe prodat auto ](/blog/img/certificat-79x929.jpg)
+  ![Návod Jak nejlépe prodat auto  ](/blog/img/certificat-79x929.jpg)
 
   ## Zkušenosti zákazníků s prodejem auta
 
