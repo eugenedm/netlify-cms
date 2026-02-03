@@ -154,8 +154,6 @@ A pro ty, kteří chtějí prodej opravdu vyřešit z domova a rychle, navazuje 
   **Za kvalitu našeho výkupu nejlépe mluví zkušenosti lidí, kteří přes nás auto skutečně prodali.**\
   **Zakládáme si na lidském přístupu, klidu a férovém jednání bez nátlaku. - jednáme vždy na rovinu a bez nepříjemných překvapení.**
 
-
-
   > *„Měla jsem z prodeje auta obavy, ale vše proběhlo klidně a přesně tak, jak bylo domluveno. Nemusela jsem nic řešit a měla jsem jistotu ceny předem. Oceňuji lidský a milý přístup.“*\
   > — zákaznice, Středočeský kraj
   >
@@ -178,4 +176,4 @@ Nebo nám rovnou zavolejte, ocenění vozidla je zdarma a žádné skryté popla
 
 Těšíme se na váš zájem o výkup auta! :-)
 
-![nejlepší výkup vozidel](/blog/img/car-ad3.jpg)
+![Mobilní výkup vozidel, výkup aut z domu s platbou ihned hotově nebo převodem na účet](/blog/img/bannner-blog.png)
