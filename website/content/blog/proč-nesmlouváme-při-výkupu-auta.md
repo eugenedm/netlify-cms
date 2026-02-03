@@ -57,7 +57,7 @@ Proto:
 * respektujeme, pokud si to chcete rozmyslet,
 * a netlačíme na vás.
 
-Rozhodnutí má dávat smysl pro obě strany, jinak pro nás obchod nemá význam. Možná také proto máme tolik pozitivních recenzí od lidí, kteří přes naši službu auto již prodali. Zkušenosti majitelů s výkupem auta přes Dobrý výkup si můžete přečíst [zde.](https://www.dobryvykup.cz/#recenze)
+Rozhodnutí má dávat smysl pro obě strany, jinak pro nás obchod nemá význam. Možná také proto máme tolik pozitivních recenzí od lidí, kteří přes naši službu auto již prodali. Zkušenosti majitelů s výkupem auta přes Dobrý výkup si můžete přečíst zde na [Výkup aut recenze.](https://www.dobryvykup.cz/#recenze)
 
 ![Bezpečný prodej auta s výkupem z domu – žádné dohadování o ceně, žádný stres](/blog/img/zelená-fajka-a-corolla.png)
 
