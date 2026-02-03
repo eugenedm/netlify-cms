@@ -27,6 +27,8 @@ V tomto článku vám přehledně vysvětlíme:
 
 Pokud teprve zvažujete, jak prodat auto bez stresu a zbytečných komplikací, připravili jsme přehled všech možností prodeje a jejich výhod i rizik v samostatném článku.
 
+![Výkup auta s kompletním vyřízením přepisu a úředních formalit – prodej auta bez stresu](/blog/img/info-icon.png)
+
 ## Proč je správný přepis auta tak důležitý
 
 Dokud není auto oficiálně přepsané, **odpovědnost zůstává na původním majiteli.**\
