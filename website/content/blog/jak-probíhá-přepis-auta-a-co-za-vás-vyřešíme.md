@@ -144,6 +144,9 @@ I to je součástí toho, že pro vás máme celý prodej auta opravdu uzavřen�
 **Je plná moc povinná pro předání auta?**\
 *Ne. Plná moc není podmínkou předání vozidla a lze ji dodat i dodatečně.*
 
+**Mohu si po přepisu ještě ověřit, že přepis proběhl?**\
+*Ano. Přepis lze ověřit na registru vozidel i online přes Portál občana. Pokud si přejete, rádi vám s ověřením pomůžeme.*
+
 **Jak poznám, že je auto skutečně přepsané?**\
 *Zákazník dostává zpětnou vazbu podle svého přání – emailem, zprávou nebo telefonicky, včetně kopií dokladů. Přepis si může ověřit také na registru vozidel nebo na Portálu občana.*
 
