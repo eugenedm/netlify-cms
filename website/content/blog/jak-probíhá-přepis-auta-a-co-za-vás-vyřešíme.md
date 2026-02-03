@@ -11,6 +11,8 @@ date: 2026-02-03T17:05:16.893Z
 ---
 **Jak probíhá přepis auta při prodeji? Vysvětlujeme přehledně, co vás čeká a co za vás vyřešíme. Rychle, bezpečně a s pocitem, že je vše uzavřené.**
 
+![Prodej auta s vyřízením přepisu a dokumentů – výkup auta bez starostí a s pocitem, že je vše uzavřené](/blog/img/přepis-auta-dobrý-výkup.png)
+
 Pro mnoho lidí je přepis auta tou největší neznámou při prodeji.\
 Nevědí, kam jít, co vyřídit, co hlídat – a hlavně se bojí, aby po prodeji nenesli za auto dál odpovědnost.
 
