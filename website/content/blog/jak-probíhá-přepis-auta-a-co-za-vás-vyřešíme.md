@@ -9,8 +9,6 @@ meta_description: Jak probíhá přepis auta při prodeji? Přehledně vysvětlu
 twitter_image: /blog/img/bannner-blog.png
 date: 2026-02-03T17:05:16.893Z
 ---
-
-
 **Jak probíhá přepis auta při prodeji? Vysvětlujeme přehledně, co vás čeká a co za vás vyřešíme. Rychle, bezpečně a s pocitem, že je vše uzavřené.**
 
 Pro mnoho lidí je přepis auta tou největší neznámou při prodeji.\
@@ -45,8 +43,6 @@ Jakmile je hotový, **nemusíte už nic řešit.**
 
 Pokud teprve zvažujete, [jak prodat auto bez stresu a zbytečných komplikací](https://www.dobryvykup.cz/blog/2026/01/jak-prodat-auto-3-mo%C5%BEnosti-soukrom%C4%9B-bazar-v%C3%BDkup-co-je-nejbezpe%C4%8Dn%C4%9Bj%C5%A1%C3%AD), připravili jsme přehled všech možností prodeje a jejich výhod i rizik v samostatném článku.
 
-
-
 ## Jak probíhá přepis auta při běžném prodeji
 
 Při soukromém prodeji nebo prodeji přes bazar často musí prodávající:
@@ -55,8 +51,6 @@ Při soukromém prodeji nebo prodeji přes bazar často musí prodávající:
 * hlídat termíny,
 * jet na úřad,
 * řešit plné moci, ověřování a formuláře.
-
-
 
 ## Jak probíhá přepis auta při výkupu u nás
 
@@ -71,8 +65,6 @@ Zákazník:
 * nikam nejezdí,
 * nic nesleduje,
 * a o přepis se vůbec nemusí starat.
-
-
 
 ## Jaké možnosti přepisu si můžete vybrat
 
@@ -115,8 +107,6 @@ U starších lidí je běžné, že:
 
 I v těchto případech vše řešíme tak, aby **nemuseli nic zařizovat sami.**
 
-
-
 ## Specifické situace, se kterými si umíme poradit
 
 Při výkupu aut se běžně setkáváme i s méně standardními případy:
@@ -128,8 +118,6 @@ Při výkupu aut se běžně setkáváme i s méně standardními případy:
 
 Ke každé situaci máme přizpůsobený postup i dokumenty, aby byl přepis **bezpečný a správně provedený.**
 
-
-
 ## Kdy máte po prodeji auta opravdu klid
 
 Ještě jedna věc, na kterou se lidé často ptají:
@@ -140,8 +128,6 @@ S tím si nemusíte lámat hlavu.\
 V den prodeje vozidlo přebíráme a pojišťujeme my, takže si můžete své pojištění zrušit. Pojišťovna vám následně vrátí přeplatek pojistného – **včetně havarijního pojištění, pokud ho máte.**
 
 I to je součástí toho, že pro vás máme celý prodej auta opravdu uzavřený.
-
-
 
 ## Nejčastější otázky k přepisu auta (FAQ)
 
@@ -160,8 +146,6 @@ I to je součástí toho, že pro vás máme celý prodej auta opravdu uzavřen�
 **Co když je auto z dědictví nebo psané na dvě osoby?**\
 *I tyto situace běžně řešíme. Ke každému případu máme přizpůsobený postup, aby byl převod proveden správně a bezpečně.*
 
-
-
 ## Závěrem
 
 Prodej auta nemusí znamenat týdny nejistoty, papírování a stresu.\
@@ -174,4 +158,4 @@ Peníze dostanete na místě, přepis je vyřešený a vy máte jasno v jediné 
 
 *"Pokud vám takový způsob prodeje auta dává smysl, rádi vám vše nezávazně vysvětlíme a pomůžeme najít řešení, které bude vyhovovat právě vám."*
 
-![Jak funguje přepis po výkupu auta s Dobrým výkupem.](/blog/img/bannner-blog.png)
+![Férový výkup auta z domu – rychlé vyřešení prodeje auta s garancí ceny po celé ČR](/blog/img/bannner-blog.png)
