@@ -7,7 +7,9 @@ date: 2025-09-01T22:00:00.000Z
 ---
 **Aktuální a kompletní informace k tématu garance ceny najdete v našem hlavním článku:** [Garance ceny při výkupu auta – jak to funguje u nás](https://www.dobryvykup.cz/blog/2026/01/garance-ceny-p%C5%99i-v%C3%BDkupu-auta)
 
-Co je to **“Garance ceny”** a jak u nás funguje pevná nabídka bez smlouvání.
+Tento článek slouží jako doplňující vysvětlení a regionální zkušenosti z praxe.
+
+**Co je to “Garance ceny” a jak u nás funguje pevná nabídka bez smlouvání.**
 
 Po vyplnění poptávky vám dáme pevnou cenu a při jedné návštěvě vše vyřešíme a ihned platíme.
 
@@ -129,11 +131,11 @@ Služba je naprosto transparentní a jak přesně Dobrý výkup funguje, si mů�
 
 Nebo nám rovnou zavolejte!
 
-1.   **  Nabízíme ocenění vozidla zdarma!**
-2.   **  GARANTUJEME CENU!**
-3.   **  Vyřídíme vše, co je třeba k přepisu vozidla.**
-4.   **  PENÍZE IHNED V HOTOVOSTI!**
-5.   **  Přebíráme za Vás záruky za vozidlo.**
+1.    ** Nabízíme ocenění vozidla zdarma!**
+2.    ** GARANTUJEME CENU!**
+3.    ** Vyřídíme vše, co je třeba k přepisu vozidla.**
+4.    ** PENÍZE IHNED V HOTOVOSTI!**
+5.    ** Přebíráme za Vás záruky za vozidlo.**
 
 Zavolejte nám, nebo prodejte auto ihned [zde](https://www.dobryvykup.cz/#bottom).
 
