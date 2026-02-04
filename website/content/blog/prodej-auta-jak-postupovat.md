@@ -1,10 +1,14 @@
 ---
-title: Prodej auta, jak postupovat
+title: Prodej ojetého auta krok za krokem – na co si dát pozor
 author: Adam Pokorný
 description: Jak prodat auto postup a rizika při prodeji vozidel
 twitter_image: /blog/img/car-ad3.jpg
 date: 2025-03-03T11:23:55.057Z
 ---
+**Prodej ojetého auta krok za krokem**
+
+Pokud hledáte přehled všech možností, jak prodat ojeté auto a rozhodnout se bez stresu, připravili jsme k tomu hlavního průvodce, který shrnuje celý proces přehledně na jednom místě. To, [jak prodat ojeté auto bez stresu](https://www.dobryvykup.cz/blog/2026/01/jak-prodat-auto-3-mo%C5%BEnosti-soukrom%C4%9B-bazar-v%C3%BDkup-co-je-nejbezpe%C4%8Dn%C4%9Bj%C5%A1%C3%AD) si můžete také přečíst v tomto článku.
+
 Jednou přijde den kdy si řeknete prodám auto a koupím nové. Pokud však nemáte zkušenosti z prodejem auta, můžou na vás při prodeji čekat různé nástrahy. Zde vám nastíníme jaké nástrahy při prodeji auta hrozí, jak funguje prodej auta a také poradíme, jak prodat auto bez starostí.
 
 ![výkup aut zkušenosti](/blog/img/info-icon.png)
