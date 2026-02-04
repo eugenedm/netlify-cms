@@ -5,6 +5,10 @@ description: Výkup aut Brno
 twitter_image: /blog/img/car-ad3.jpg
 date: 2021-09-20T14:59:40.489Z
 ---
+**Základní a aktuální přehled celého výkupu auta najdete v našem hlavním článku:** [Jak probíhá výkup auta při jedné návštěvě](https://www.dobryvykup.cz/blog/2025/06/jak-prob%C3%ADh%C3%A1-v%C3%BDkup-auta)
+
+Tento článek jde více do detailu jednotlivých kroků výkupu.
+
 *" Zde příklad: výkup aut Brno "*
 
 ### Kdy přijedeme? Kde se setkáme? Co všechno na vozidle kontrolujeme? Jaké parametry jsou pro výkup rozhodující? Kolik času zabere samotný akt výkupu? Jak vyřizujeme papíry? Kdo z nás na výkup dorazí? Proč se jedná o nejlepší cestu, jak prodat auto? A co dalšího potřebujete vědět? V následujícím článku vám představíme, jak výkup probíhá v praxi.
