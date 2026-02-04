@@ -10,7 +10,7 @@ meta_description: "Jak prodat auto bez stresu? Porovnání 3 možností: soukrom
 twitter_image: /blog/img/car-ad3.jpg
 date: 2026-01-30T08:42:06.237Z
 ---
-![Rychlý a bezpečný prodej auta bez starostí – mobilní výkup](/blog/img/graf-fabia-doklady-klíče.png)
+![Rychlý a bezpečný prodej auta bez starostí – mobilní výkup](/blog/img/graf-fabia-doklady-bankovky-klíče.png)
 
 # Jak prodat ojeté auto, 3 možnosti, které dávají smysl
 
