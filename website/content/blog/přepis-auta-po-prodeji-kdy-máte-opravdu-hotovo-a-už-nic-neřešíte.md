@@ -1,14 +1,16 @@
 ---
 title: "Přepis auta po prodeji: kdy máte opravdu hotovo a už nic neřešíte"
 author: Adam Pokorný
-description: Podrobný přehled jak funguje prodej a přepis auta u Dobrého výkupu
-meta_description: Podrobný přehled jak funguje prodej a přepis auta u Dobrého výkupu
+description: Přepis auta po prodeji krok za krokem. Jasný postup, žádné
+  povinnosti po předání auta, pojištění na nás a peníze ihned.
+meta_description: Přepis auta po prodeji krok za krokem. Jasný postup, žádné
+  povinnosti po předání auta, pojištění na nás a peníze ihned.
 twitter_image: /blog/img/car-ad3.jpg
 date: 2026-02-06T10:50:35.028Z
 ---
-![Nejlepší výkup vozidel se postará i o přepis auta a pojištění.](/blog/img/unbannner.png)
+![Výkup vozidel který se postará i o přepis auta a pojištění.](/blog/img/unbannner.png)
 
-**Podrobný přehled jak funguje prodej a přepis auta u Dobrého výkupu**
+**V tomto článku popisujeme přepis auta po prodeji krok za krokem. Jasný postup, žádné povinnosti po předání auta, pojištění na nás a peníze ihned.** 
 
 Prodat auto neznamená jen předat klíčky a dostat peníze. U Dobrého výkupu máte jasný přehled o celém prodeji a přepisu vozidla.\
 Pro mnoho lidí přichází až potom ta největší nejistota:
@@ -135,4 +137,4 @@ Pokud vám to dává smysl, rádi vám vše předem vysvětlíme a s prodejem au
 
 Nebo nám rovnou zavolejte  🙂
 
-![Výkup auta recenze a zkušenosti zákazníků, jak poznat nejlepší výkup auta. ](/blog/img/bannner-blog.png)
+![Výkup auta recenze a zkušenosti zákazníků, jak poznat kvalitní a spolehlivý výkup auta. ](/blog/img/bannner-blog.png)
