@@ -6,6 +6,8 @@ meta_description: Podrobný přehled jak funguje prodej a přepis auta u Dobréh
 twitter_image: /blog/img/car-ad3.jpg
 date: 2026-02-06T10:50:35.028Z
 ---
+![Nejlepší výkup vozidel se postará i o přepis auta a pojištění.](/blog/img/unbannner.png)
+
 **Podrobný přehled jak funguje prodej a přepis auta u Dobrého výkupu**
 
 Prodat auto neznamená jen předat klíčky a dostat peníze. U Dobrého výkupu máte jasný přehled o celém prodeji a přepisu vozidla.\
