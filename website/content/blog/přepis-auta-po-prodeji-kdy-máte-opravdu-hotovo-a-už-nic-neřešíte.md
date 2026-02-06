@@ -34,12 +34,12 @@ Forma přepisu se vždy řeší **dopředu**, aby měl zákazník jasno, co ho �
 
 Celý průběh výkupu auta – od první domluvy až po předání auta a peněz při jedné návštěvě popisujeme přehledně v hlavním článku zde:
 
-[Jak probíhá výkup auta při jedné návštěvě](https://www.dobryvykup.cz/blog/jak-probiha-vykup-auta)
+[Jak probíhá výkup auta při jedné návštěvě](https://www.dobryvykup.cz/blog/2025/06/jak-prob%C3%ADh%C3%A1-v%C3%BDkup-auta)
 
 ## Jak to funguje u nás
 
 Cena, na které se domluvíme předem, platí. Pokud vás zajímá, jak funguje **garance ceny při výkupu auta** a proč u nás cenu na místě neměníme, vysvětlujeme to podrobně zde:\
-[Garance ceny při výkupu auta – jak to funguje u nás](https://www.dobryvykup.cz/blog/garance-ceny)
+[Garance ceny při výkupu auta – jak to funguje u nás](https://www.dobryvykup.cz/blog/2025/09/garance-v%C3%BDkupn%C3%AD-ceny)
 
 Celý proces máme nastavený tak, aby byl:
 
@@ -102,7 +102,7 @@ Ne. Přepis řešíme tak, aby to pro vás bylo co nejjednodušší.
 
 Pokud máte obavy spojené s prodejem auta a chcete mít jistotu, že vše proběhne bezpečně a bez stresu, shrnuli jsme celý postup prodeje přehledně zde:
 
-[Bezpečný prodej auta bez stresu](https://www.dobryvykup.cz/blog/bezpecny-prodej-auta)
+Bezpečný prodej auta bez stresu
 
 ## Pro koho je tento způsob ideální
 
