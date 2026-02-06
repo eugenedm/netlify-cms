@@ -18,8 +18,6 @@ Pro mnoho lidí přichází až potom ta největší nejistota:
 
 Právě proto je důležité vědět, **kdy je prodej auta skutečně uzavřený** – a **kdy už nemáte žádné další povinnosti.**
 
- 
-
 ## Jak probíhá přepis auta po prodeji
 
 Přepis auta může mít několik podob. Neexistuje jen jeden jediný postup a vždy záleží na tom, co vám vyhovuje.
@@ -38,14 +36,10 @@ Celý průběh výkupu auta – od první domluvy až po předání auta a peně
 
 [Jak probíhá výkup auta při jedné návštěvě](https://www.dobryvykup.cz/blog/jak-probiha-vykup-auta)
 
- 
-
 ## Jak to funguje u nás
 
 Cena, na které se domluvíme předem, platí. Pokud vás zajímá, jak funguje **garance ceny při výkupu auta** a proč u nás cenu na místě neměníme, vysvětlujeme to podrobně zde:\
 [Garance ceny při výkupu auta – jak to funguje u nás](https://www.dobryvykup.cz/blog/garance-ceny)
-
-
 
 Celý proces máme nastavený tak, aby byl:
 
@@ -62,8 +56,6 @@ V praxi to znamená:
 
 Na místě se nic nedohaduje ani nemění.\
 Vše, co je potřeba, je známé dopředu.
-
- 
 
 ## Pojištění auta v den předání – klíčový moment
 
@@ -82,8 +74,6 @@ Díky tomu:
 Tohle je přesně ten okamžik, kdy většina lidí říká:\
 **„Mám hotovo, rychle a bez starostí.“**
 
- 
-
 ## Co když přepis neproběhne hned na místě
 
 Častá obava je, že pokud se přepis nevyřeší okamžitě, může vzniknout problém.
@@ -95,8 +85,6 @@ Důležité je vědět, že:
 * přepis má jasně daný postup a termíny.
 
 Zákazník tak není v nejistotě a nemusí nic hlídat.
-
- 
 
 ## Nejčastější otázky po prodeji auta
 
@@ -115,8 +103,6 @@ Ne. Přepis řešíme tak, aby to pro vás bylo co nejjednodušší.
 Pokud máte obavy spojené s prodejem auta a chcete mít jistotu, že vše proběhne bezpečně a bez stresu, shrnuli jsme celý postup prodeje přehledně zde:
 
 [Bezpečný prodej auta bez stresu](https://www.dobryvykup.cz/blog/bezpecny-prodej-auta)
-
-
 
 ## Pro koho je tento způsob ideální
 
@@ -147,4 +133,4 @@ Pokud vám to dává smysl, rádi vám vše předem vysvětlíme a s prodejem au
 
 Nebo nám rovnou zavolejte  🙂
 
-![](/blog/img/bannner-blog.png)
+![Výkup auta recenze a zkušenosti zákazníků, jak poznat nejlepší výkup auta. ](/blog/img/bannner-blog.png)
