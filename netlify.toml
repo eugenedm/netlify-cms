@@ -12,7 +12,7 @@
   #ignore = "git diff --quiet HEAD^ HEAD sub_dir/"
   
   [build.environment]
-    YARN_FLAGS = "--frozen-lockfile"
+    NODE_VERSION = "18"
     YARN_VERSION = "1.22.4"
 
 

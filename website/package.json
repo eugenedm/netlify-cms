@@ -44,9 +44,11 @@
     "react-github-btn": "^1.1.1",
     "react-helmet": "^6.0.0",
     "react-markdown": "^5.0.0",
+    "sharp": "^0.32.6",
     "smooth-scroll": "^16.1.2"
   },
   "devDependencies": {
+    "@types/react": "^17.0.0",
     "babel-plugin-prismjs": "^2.0.1",
     "babel-preset-gatsby": "^1.0.0",
     "eslint": "^7.4.0",
