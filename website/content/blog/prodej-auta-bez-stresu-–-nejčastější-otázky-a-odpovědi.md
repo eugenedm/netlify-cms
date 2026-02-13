@@ -164,9 +164,11 @@ Ne. Vše vám srozumitelně vysvětlíme.
 
 ## 🔹 Praktické otázky
 
+Zde najdete nejčastější otázky ohledně prodeje auta bez stresu – jsou zde stručné a jasné odpovědi.
+
 ### 27. Jaké doklady potřebuji?
 
-Občanský průkaz, technický průkaz a klíče od auta.
+Občanský průkaz a technický průkaz od auta.
 
 ### 28. Co když něco nemám?
 
