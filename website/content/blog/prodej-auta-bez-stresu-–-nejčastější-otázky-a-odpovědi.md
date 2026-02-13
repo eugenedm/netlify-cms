@@ -182,9 +182,20 @@ Ano. Kdykoliv nám zavolejte nebo napište.
 
 To je v pořádku, rádi poradíme. Rozhodnutí je vždy jen na vás.
 
-- - -
-
 ![Klidný a férový výkup auta bez smlouvání, bez tlaku a s lidským přístupem](/blog/img/tabulka-pro-článek-výkup-aut-online-jak-na-to-31.7.2024.jpg)
+
+
+
+## Stručně: co znamená prodej auta bez stresu
+
+* Cena domluvená předem platí
+* Žádné smlouvání
+* Platba ihned
+* Po předání auta už nic neřešíte
+
+
+
+- - -
 
 Zkušenosti lidí, kteří s námi auto prodali, si můžete přečíst přímo na našem webu. Jsou to reálné recenze od skutečných zákazníků: [Recenze zákazníků Dobrého výkupu](https://www.dobryvykup.cz/#recenze)
 
