@@ -16,8 +16,6 @@ Největší problém často není samotné auto, ale chyby, které lidé udělaj
 
 Pokud prodáváte auto poprvé nebo jen zřídka, je přirozené mít obavy. Tento přehled vám pomůže vyhnout se nejčastějším chybám a prodat auto bezpečně.
 
-
-
 ![Jak prodat auto na bezpečně internetu. 7 chyb kterým se vyvyrovat.](/blog/img/škoda-interiér.jpg)
 
 ## 1. Stanovíte cenu bez ověření reality
@@ -26,10 +24,6 @@ Mnoho lidí nastaví cenu podle pocitu nebo podle jednoho inzerátu na internetu
 
 Jak se vyhnout této chybě:\
 Nechte si cenu nezávazně ověřit. Znalost reálné hodnoty vám dá jistotu a klid při rozhodování. Jak se určuje reálná hodnota auta se dozvíte v předchozím článku: [Jakou cenu má moje auto.](https://www.dobryvykup.cz/blog/2022/10/jakou-cenu-m%C3%A1-moje-auto)
-
-
-
-
 
 ## 2. Podceníte vyjednávání o ceně
 
@@ -81,8 +75,6 @@ Zvažte, co je pro vás důležitější – maximální cena za cenu vysokého 
 
 Jak probíhá výkup při jedné návštěvě, již bylo popsáno v článku: [Jak probíhá výkup auta.](https://www.dobryvykup.cz/blog/2025/06/jak-prob%C3%ADh%C3%A1-v%C3%BDkup-auta)
 
-
-
 ## 7. Podceníte vlastní pocit
 
 Možná nejdůležitější bod.\
@@ -127,9 +119,55 @@ Ne. Rozhodnutí je vždy na vás. Seriozní služba vám dá vždy čas na rozmy
 
 - - -
 
-
-
 ![Návod na prodej auta](/blog/img/300x300x100x0_f2152988_01.jpg)
+
+## Nejčastější chyby při prodeji auta – přehledně a jednoduše
+
+**1. Chyba: Stanovíte cenu bez ověření reality**\
+Co hrozí: Auto se dlouho neprodá nebo budete nuceni výrazně slevit a prodávat pod cenou.\
+Řešení: Nechte si cenu seriózně ocenit podle skutečného trhu od odborníků.
+
+- - -
+
+**2. Chyba: Necháte se dotlačit ke slevě při osobní schůzce**\
+Co hrozí: Cena je na místě snížena pod tlakem.\
+Řešení: Domluvte si cenu předem a vyberte řešení, kde se o ceně nesmlouvá.
+
+- - -
+
+**3. Chyba: Prodáte auto anonymní osobě**\
+Co hrozí: Riziko podvodu nebo komplikací s převodem.\
+Řešení: Ověřujte recenze, transparentnost a jasný předem dohodnutý postup.
+
+- - -
+
+**4. Chyba: Nevyřešíte přepis vozidla ihned**\
+Co hrozí: Pokuty, problémy s odpovědností za vozidlo.\
+Řešení: Přepis řešte při samotném předání auta.
+
+- - -
+
+**5. Chyba: Zrušíte pojištění příliš brzy nebo pozdě**\
+Co hrozí: Zbytečné platby nebo právní riziko.\
+Řešení: Povinné ručení zrušte až po potvrzeném převodu na nového majitele.
+
+- - -
+
+**6. Chyba: Rozhodnete se rychle a pod tlakem**\
+Co hrozí: Pocit nejistoty nebo špatného rozhodnutí, již zpětně nejdou napravit.\
+Řešení: Rozhodujte se až ve chvíli, kdy máte všechny informace.
+
+- - -
+
+**7. Chyba: Podceníte vlastní čas a energii**\
+Co hrozí: Týdny telefonátů, schůzek a vyjednávání a nepříjemného smlouvání.\
+Řešení: Zvažte řešení, kde je celý prodej vyřešen při jedné návštěvě.
+
+
+
+
+
+![Jaké chyby mohu udělat při prodeji auta přes internet, 7 nejčastějších chyb a jejich řešení.](/blog/img/flatnet-79x929.jpg)
 
 ## Prodej auta nemusí být stresující
 
@@ -142,8 +180,6 @@ Pro mnoho lidí je nejdůležitější mít po prodeji klid a jistotu, že mají
 Pokud si chcete vše nejprve nezávazně ověřit, můžete se rozhodnout se až poté, co budete mít všechny informace.
 
 - - -
-
-
 
 Pokud zvažujete všechny možnosti prodeje, může vám pomoci i náš přehledný článek [Jak prodat auto.](https://www.dobryvykup.cz/blog/2024/09/jak-prodat-auto-1)
 
