@@ -1,7 +1,7 @@
 ---
 title: 7 nejčastějších chyb při prodeji auta (a jak se jim vyhnout)
 author: Adam Pokorný
-description: Poradíme, na co si dát pozor, jak se nenechat tlačit ke slevě a jak
+description: Poradíme na co si dát pozor, jak se nenechat tlačit ke slevě, jak
   prodat auto bezpečně, bez stresu a bez zkušeností.
 meta_description: 7 nejčastějších chyb při prodeji auta. Poradíme, na co si dát
   pozor, jak se nenechat tlačit ke slevě a jak prodat auto bezpečně, bez stresu
