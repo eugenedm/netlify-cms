@@ -106,7 +106,7 @@ Stačí se zaměřit na:
 
 Recenze zákazníků najdete zde: [Dobý výkup - Recenze](https://www.dobryvykup.cz/#recenze)
 
-![Garance ceny při výkupu auta u dobrého výkupu](/blog/img/pečeť.png)
+![Garance ceny při výkupu auta u dobrého výkupu](/blog/img/pečeť11.png)
 
 
 
