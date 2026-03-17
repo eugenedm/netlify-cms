@@ -20,8 +20,6 @@ Mnoho lidí dnes řeší stejnou otázku:\
 
 Pokud si nejste jistí, je to naprosto v pořádku. Tento článek vám pomůže poznat rozdíl mezi férovou nabídkou a situací, kdy je lepší říct ne.
 
-
-
 ## Dobrá nabídka není vždy ta nejvyšší
 
 Na první pohled může nejvyšší cena vypadat jako nejlepší volba.\
@@ -87,8 +85,6 @@ Zpozorněte, pokud:
 * kupující mlží a vy se cítíte nepříjemně
 * něco vám „nesedí“, ale neumíte to přesně pojmenovat (intuice je důležitá)
 
-
-
 V takovou chvíli je v pořádku říct:
 
 👉 „Potřebuji si to promyslet.“
@@ -110,7 +106,9 @@ Stačí se zaměřit na:
 
 Recenze zákazníků najdete zde: [Dobý výkup - Recenze](https://www.dobryvykup.cz/#recenze)
 
-- - -
+![Garance ceny při výkupu auta u dobrého výkupu](/blog/img/pečeť.png)
+
+
 
 ## Nejčastější otázky před rozhodnutím
 
