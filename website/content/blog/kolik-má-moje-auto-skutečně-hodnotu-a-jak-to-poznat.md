@@ -38,6 +38,8 @@ To znamená:
 
 👉 cena na internetu ≠ cena, za kterou auto opravdu prodáte
 
+![Jak zjistit reálnou hodnotu auta na trhu – rozdíl mezi inzerovanou cenou a skutečnou prodejní cenou](/blog/img/info-icon.png)
+
 ## Co skutečně určuje hodnotu vašeho auta
 
 Hodnota auta nevzniká náhodně.\
