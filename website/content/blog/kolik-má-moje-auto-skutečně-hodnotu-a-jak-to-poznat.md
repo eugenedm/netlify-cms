@@ -12,6 +12,8 @@ date: 2026-04-06T16:30:46.047Z
 ---
 **Nevíte, kolik má vaše auto skutečně hodnotu? Ukážeme vám, proč se auta často prodávají pod cenou a jak nastavit cenu správně, abyste neprodělali.**
 
+![Kolik má moje auto skutečně hodnotu – jak správně určit cenu auta a vyhnout se zbytečným slevám při prodeji](/blog/img/modrý-yaris-graf-doklady.png)
+
 Zjistit cenu auta není tak jednoduché, jak se může zdát.\
 Mnoho lidí má o hodnotě svého vozu jinou představu než je realita.
 
@@ -89,7 +91,9 @@ Například:
 **3. „Zkusím to dát výš a uvidím“**\
 → výsledkem je ztráta času a tlak na slevu, týdny někdy i měsíce čekání a slevování 
 
-- - -
+
+
+![Návod jak zjistit cenu auta a jakou má auto hodnotu.](/blog/img/flatnet-79x929.jpg)
 
 ## Jak zjistit reálnou cenu auta (správný postup)
 
@@ -184,7 +188,7 @@ Pokud čekání znamená nejistotu, vyjednávání a stres, nemusí to být vžd
 Pokud cena odpovídá trhu a podmínkám prodeje, není pod cenou.\
 Důležité je, zda vám dává smysl, auto za tuto cenu prodat.
 
-![]()
+![Jak prodat auto za správnou cenu – reálná hodnota auta a bezpečný prodej bez vyjednávání](/blog/img/modrá-toyota-yaris-peněženka-.png)
 
 ## Největší chyba při prodeji auta
 
