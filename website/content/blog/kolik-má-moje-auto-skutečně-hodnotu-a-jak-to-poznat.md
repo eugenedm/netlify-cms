@@ -12,8 +12,6 @@ date: 2026-04-06T16:30:46.047Z
 ---
 **Nevíte, kolik má vaše auto skutečně hodnotu? Ukážeme vám, proč se auta často prodávají pod cenou a jak nastavit cenu správně, abyste neprodělali.**
 
-
-
 Zjistit cenu auta není tak jednoduché, jak se může zdát.\
 Mnoho lidí má o hodnotě svého vozu jinou představu než je realita.
 
@@ -22,7 +20,7 @@ A právě tady vznikají nejčastější chyby.
 Pokud chcete auto prodat dobře, nepotřebujete znát „nejvyšší cenu“.\
 Potřebujete znát aktuální a **skutečnou hodnotu auta.**
 
-- - -
+![Jak zjistit reálnou hodnotu auta na trhu – rozdíl mezi inzerovanou cenou a skutečnou prodejní cenou](/blog/img/info-icon.png)
 
 ## Skutečná hodnota auta není to, co vidíte v inzerci
 
@@ -40,8 +38,6 @@ To znamená:
 
 👉 cena na internetu ≠ cena, za kterou auto opravdu prodáte
 
-
-
 ## Co skutečně určuje hodnotu vašeho auta
 
 Hodnota auta nevzniká náhodně.\
@@ -56,8 +52,6 @@ Nejdůležitější jsou:
 * značka a model
 * výbava
 * příslušenství
-
-
 
 Ale tohle ví každý.
 
@@ -77,8 +71,6 @@ Například:
 * při prodeji přes bazar bývá cena nižší kvůli marži autobazaru
 * při inzerci dochází ke slevám při jednání a fyzických prohlídkách zájemců
 * při výkupu je cena stabilní, ale bez vyjednávání a v reálném čase
-
-
 
 ## 3 nejčastější omyly při určování ceny auta
 
@@ -101,8 +93,6 @@ Například:
 
 Pokud chcete znát skutečnou hodnotu, držte se tohoto postupu:
 
-
-
 ### 1. Porovnejte podobná auta
 
 Najděte auta:
@@ -115,8 +105,6 @@ Ale pamatujte:
 
 👉 berte ceny jako orientační, ne konečné
 
- 
-
 ### 2. Zohledněte reálný stav
 
 Upřímně si odpovězte:
@@ -127,8 +115,6 @@ Upřímně si odpovězte:
 
 Tohle má větší vliv než si lidé myslí.
 
-
-
 ### 3. Ověřte cenu nezávisle
 
 Existují nástroje, které počítají cenu podle trhu a historie vozidel.
@@ -136,8 +122,6 @@ Existují nástroje, které počítají cenu podle trhu a historie vozidel.
 Například ocenění podle VIN vychází z reálných prodejních dat, ne jen z inzerce
 
 To je výrazně přesnější než odhad „od oka“
-
-
 
 ### 4. Zeptejte se na konkrétní nabídku
 
@@ -241,8 +225,6 @@ Postupně:
 * reagujete na tlak zájemců
 
 A dostáváte se do tzv. **spirály slev.**
-
-
 
 - - -
 
