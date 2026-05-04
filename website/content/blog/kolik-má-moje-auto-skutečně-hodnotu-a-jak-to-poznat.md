@@ -287,7 +287,7 @@ Jde o výsledek a klid mít vše vyřešeno
 
 ![Graf vývoje ceny auta při prodeji – spirála slev vs férová výkupní cena, jak správně určit hodnotu auta a neprodělat při prodeji](/blog/img/graf-spirála-slev-automobilu.png "Graf poklesu ceny auta při prodeji v čase – jak se vyhnout spirále slev a stanovit správnou cenu")
 
-## Závěr
+Jak ukazuje graf vývoje ceny auta, při špatném nastavení ceny na začátku často vzniká tzv. spirála slev. Auto se prodává déle, jeho cena postupně klesá a výsledná prodejní cena bývá nižší, než kdyby bylo správně naceněno hned na začátku.
 
 Prodej auta není jen o tom získat co nejvyšší cenu.
 
@@ -297,7 +297,11 @@ Je o tom:
 * za jakých podmínek
 * a s jakým výsledkem
 
-![Rozhodovací mapa prodeje auta – jak vybrat mezi výkupem auta a prodejem svépomocí podle rychlosti, ceny a jistoty bez stresu](/blog/img/rozhodovací-mapa-zákazníka-při-prodeji-auta.png "Co je lepší, výkup vozidel nebo prodej přes inzerát.")
+  _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+![Rozhodovací mapa prodeje auta – jak vybrat mezi výkupem auta a prodejem svépomocí podle rychlosti, ceny a jistoty bez stresu](/blog/img/rozhodovací-mapa-zákazníka-při-prodeji-auta.png "Mapa jak vybrat správný způsob prodeje auta.")
+
+Tato rozhodovací mapa ukazuje, jak si vybrat správný způsob prodeje auta podle toho, zda preferujete rychlost, jistotu nebo maximální cenu.
 
 **Pokud si chcete cenu vašeho auta nezávazně ověřit a mít jasno, jakou má skutečnou hodnotu, můžete se kdykoliv ozvat.\
 Rádi vám vše vysvětlíme a rozhodnutí necháme jen na vás.**
