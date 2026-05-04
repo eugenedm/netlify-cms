@@ -297,6 +297,8 @@ Je o tom:
 * za jakých podmínek
 * a s jakým výsledkem
 
+![Rozhodovací mapa prodeje auta – jak vybrat mezi výkupem auta a prodejem svépomocí podle rychlosti, ceny a jistoty bez stresu](/blog/img/rozhodovací-mapa-zákazníka-při-prodeji-auta.png "Co je lepší, výkup vozidel nebo prodej přes inzerát.")
+
 **Pokud si chcete cenu vašeho auta nezávazně ověřit a mít jasno, jakou má skutečnou hodnotu, můžete se kdykoliv ozvat.\
 Rádi vám vše vysvětlíme a rozhodnutí necháme jen na vás.**
 
