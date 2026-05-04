@@ -91,8 +91,6 @@ Například:
 **3. „Zkusím to dát výš a uvidím“**\
 → výsledkem je ztráta času a tlak na slevu, týdny někdy i měsíce čekání a slevování 
 
-
-
 ![Návod jak zjistit cenu auta a jakou má auto hodnotu.](/blog/img/flatnet-79x929.jpg)
 
 ## Jak zjistit reálnou cenu auta (správný postup)
@@ -287,7 +285,7 @@ Základem je:
 Nejde jen o cenu\
 Jde o výsledek a klid mít vše vyřešeno
 
-- - -
+![Graf vývoje ceny auta při prodeji – spirála slev vs férová výkupní cena, jak správně určit hodnotu auta a neprodělat při prodeji](/blog/img/graf-spirála-slev-automobilu.png "Graf poklesu ceny auta při prodeji v čase – jak se vyhnout spirále slev a stanovit správnou cenu")
 
 ## Závěr
 
