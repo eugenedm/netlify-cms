@@ -108,6 +108,10 @@ Nemusíte čekat na zájemce.
 
 N﻿emusíte nic zařizovat.
 
+Pokud vás zajímá celý průběh od prvního kontaktu až po převzetí peněz, připravili jsme podrobný návod krok za krokem. 
+
+Přečtěte si vícev článku: **[Jak probíhá výkup auta](https://www.dobryvykup.cz/blog/2025/06/jak-prob%C3%ADh%C3%A1-v%C3%BDkup-auta)**
+
 ![Jak na prodeji auta s potřebnými dokumenty a administrativou spojenou s převodem vozidla](/blog/img/klíčky-auto.jpg)
 
 
@@ -201,7 +205,11 @@ Ne kvůli reklamě.
 
 Ale proto, že zkušenost skutečných zákazníků často řekne více než jakýkoliv marketing.
 
-Skutečné recenze našich zákazníků najdete zde: [Recenze Dobrý výkup](https://www.dobryvykup.cz/#recenze) 
+Jedním z důležitých znaků férového výkupu je také dodržení předem domluvené ceny. Právě proto jsme podrobně popsali, jak funguje naše garance výkupní ceny a proč cenu po příjezdu nesnižujeme bez důvodu. 
+
+Přečtěte si více v článku: **[Jak funguje garance výkupní ceny](https://www.dobryvykup.cz/blog/2025/09/garance-v%C3%BDkupn%C3%AD-ceny)**
+
+Recenze našich zákazníků najdete zde: [Recenze Dobrý výkup](https://www.dobryvykup.cz/#recenze) 
 
 - - -
 
@@ -250,6 +258,10 @@ Srozumitelný.
 Transparentní.
 
 A hlavně — nemusíte nic řešit.
+
+Mnoho lidí při rozhodování řeší také otázku skutečné hodnoty svého auta. Právě správné určení ceny je často rozdíl mezi rychlým prodejem a několikaměsíčním čekáním.
+
+Přečtěte si více: **[Kolik má moje auto skutečně hodnotu (a jak to poznat)](https://www.dobryvykup.cz/blog/2026/04/kolik-m%C3%A1-moje-auto-skute%C4%8Dn%C4%9B-hodnotu-a-jak-to-poznat)**
 
 ![Moderní výkup auta z domu po celé České republice s rychlým vyřízením dokumentů a platbou ihned](/blog/img/jakou-zvolit-cestu-při-prodeji.png)
 
