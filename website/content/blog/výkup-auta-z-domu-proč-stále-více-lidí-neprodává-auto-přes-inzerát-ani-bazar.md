@@ -138,7 +138,7 @@ A vozidlo si odvezeme.
 
 T﻿ím je pro vás vše vyřízeno.
 
-- - -
+![Jak prodat auto - návod](/blog/img/info-icon.png)
 
 ## Nemusíte nic řešit
 
