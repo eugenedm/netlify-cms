@@ -10,7 +10,7 @@ meta_description: Důvěra je při prodeji auta stejně důležitá jako cena. N
 twitter_image: /blog/img/bannner-blog.png
 date: 2026-06-23T10:29:49.842Z
 ---
-![Jak poznat férového kupujícího auta – bezpečný prodej auta založený na důvěře, jasných podmínkách a transparentním postupu](/blog/img/červené-auto-ruce-otazníky.png)
+![Jak poznat férového kupujícího auta – bezpečný prodej auta založený na důvěře, transparentní komunikaci a dodržení domluvených podmínek](/blog/img/červené-auto-ruce-otazníky.png)
 
 **Důvěra je při prodeji auta stejně důležitá jako cena. Naučte se poznat férového kupujícího, vyhodnotit recenze a vybrat si bezpečný způsob prodeje auta.**
 
@@ -52,7 +52,7 @@ Mnoho problémů při prodeji auta nevzniká kvůli ceně.
 
 Vzniká kvůli nedostatku důvěry a nejasným pravidlům při prodeji auta.
 
-![Důvěra při prodeji auta je stejně důležitá jako cena – ilustrační obrázek bezpečného a férového obchodu s automobilem](/blog/img/info-icon.png)
+![Férový kupující auta respektuje domluvu, vysvětlí celý postup prodeje a jedná otevřeně od začátku až do konce](/blog/img/info-icon.png)
 
 ## 7 znaků férového kupujícího auta
 
@@ -145,7 +145,7 @@ Nejedná s vámi pod tlakem.
 
 Respekt je často nejlepší ukazatel toho, jak bude celý obchod probíhat.
 
-![Férový výkup auta s jasně vysvětleným postupem, dokumenty, recenzemi zákazníků a dodržením domluvených podmínek](/blog/img/červené-auto-palec-nahoru.png)
+![Jak vybrat důvěryhodného kupujícího auta – kontrolní seznam bezpečného prodeje vozidla bez zbytečných rizik](/blog/img/červené-auto-palec-nahoru.png)
 
 ## Na co si dát při prodeji auta pozor
 
@@ -201,7 +201,7 @@ Pokud je pro vás důležitější jednoduchost, jistota a jasný postup, budete
 
 Nejdůležitější ale je, abyste po celou dobu věděli, komu své auto svěřujete.
 
-![Jak vybrat důvěryhodného kupujícího auta – kontrolní seznam pro bezpečný prodej vozidla bez zbytečných rizik](/blog/img/certificat-79x929.jpg)
+![Bezpečný prodej auta díky jasnému postupu, ověřeným recenzím, transparentní komunikaci a férovému jednání](/blog/img/certificat-79x929.jpg)
 
 ## Co říkají zkušenosti lidí, kteří auto prodávali
 
@@ -245,7 +245,7 @@ Ne. Cena je důležitá, ale stejně důležitá je důvěra, průběh prodeje a
 
 Když předem víte, jak celý proces proběhne, rozumíte jednotlivým krokům a jednáte s někým, komu důvěřujete a kdykoliv se na něj můžete obrátit.
 
-![Bezpečný prodej auta díky transparentní komunikaci, ověřeným recenzím a jasnému průběhu výkupu vozidla](/blog/img/unbannner.png)
+![Znaky férového kupujícího auta – důvěra, zkušenosti zákazníků, dodržení ceny a bezpečný průběh prodeje vozidla](/blog/img/unbannner.png)
 
 ## Důvěra je při prodeji auta důležitější, než si většina lidí myslí
 
@@ -275,4 +275,4 @@ Stejně důležité bývá vědět, komu své auto svěřujete, jak celý proces
 
 Právě důvěra je totiž něco, co se po podpisu smlouvy zpětně dokoupit nedá.
 
-![Komu při prodeji auta opravdu věřit – ilustrační obrázek férového jednání, dokumentů, ověření kupujícího a bezpečné platby](/blog/img/bannner-blog.png)
+![Komu při prodeji auta opravdu věřit – praktický průvodce výběrem férového kupujícího podle recenzí, zkušeností a transparentního postupu](/blog/img/bannner-blog.png)
