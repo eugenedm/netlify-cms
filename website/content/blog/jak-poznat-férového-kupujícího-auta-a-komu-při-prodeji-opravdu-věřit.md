@@ -77,7 +77,7 @@ Jedním z nejčastějších znaků férového jednání je respekt.
 
 Pokud potřebujete čas na rozmyšlenou, měli byste ho dostat.
 
-Prodej auta je důležité rozhodnutí a kolikrát můžete ukvapeného rozhodnutí litovat.
+Prodej auta je důležité rozhodnutí a ukvapeného rozhodnutí můžete litovat.
 
 Nikdo by vás neměl nutit rozhodnout se během několika minut.
 
@@ -95,6 +95,8 @@ Proto je dobré podívat se:
 
 Právě zkušenosti lidí často odhalí více než jakákoliv dobrá reklama.
 
+Pokud vás zajímá, co lidé při prodeji auta nejčastěji oceňují, přečtěte si také zkušenosti zákazníků a jejich [recenze](https://www.dobryvykup.cz/#recenze).
+
 ### 4. Dodržuje domluvené podmínky
 
 Důvěra vzniká tehdy, když platí to, co bylo domluveno.
@@ -106,6 +108,8 @@ Pokud je domluven termín, měl by být dodržen.
 Pokud je slíben určitý postup, měl by tak skutečně proběhnout.
 
 Právě schopnost dodržet slovo je jedním z nejdůležitějších znaků férového jednání.
+
+O tom, proč je dodržení předem domluvené ceny důležité, jsme podrobně psali také v článku o [garanci výkupní ceny](https://www.dobryvykup.cz/blog/2026/01/garance-ceny-p%C5%99i-v%C3%BDkupu-auta).
 
 ### 5. Nesnaží se vás zmást složitými formulacemi
 
@@ -162,6 +166,12 @@ Například pokud:
 Neznamená to automaticky problém, ale je zde veliká pravděpodobnost, že něco není v pořádku.
 
 Je rozumné být obezřetný.
+
+
+
+### Jak si ověřit důvěryhodnost kupujícího?
+
+> Zkontrolujte recenze, zkušenosti zákazníků, způsob komunikace, transparentnost postupu a to, zda druhá strana dodržuje předem domluvené podmínky.
 
 ## Jak poznat, že po prodeji budete mít klid a vše vyřízeno
 
