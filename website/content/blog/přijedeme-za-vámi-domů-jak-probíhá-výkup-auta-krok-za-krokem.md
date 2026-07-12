@@ -12,7 +12,7 @@ date: 2026-07-12T12:56:04.789Z
 ---
 **Jak probíhá výkup auta z domova? Zjistěte krok za krokem, co vás čeká při první návštěvě, kdo přijede, jak probíhá kontrola auta, kdy dostanete peníze a proč lidé oceňují tento bezpečný způsob prodeje auta.**
 
-![](/blog/img/12.-7.-2026-červené-auto-scala.png)
+![Výkup auta z domova krok za krokem – průběh první návštěvy, kontrola vozu, podpis dokumentů, okamžitá platba a bezpečné předání auta](/blog/img/12.-7.-2026-červené-auto-scala.png)
 
 Představa, že k vám domů přijede člověk, kterého jste nikdy neviděli, aby převzal vaše auto, může přirozeně vyvolávat otázky.
 
@@ -40,7 +40,7 @@ Někteří zákazníci se předem obávají, že:
 
 Právě proto si vše důležité domlouváme a vysvětlujeme předem. Návštěva nemá být zkouška vašich znalostí ani nepříjemné obchodní jednání. Jejím cílem je pouze ověřit, že vozidlo odpovídá informacím, které jsme spolu už řešili, a bezpečně i pohodlně dokončit prodej.
 
-![](/blog/img/info-icon.png)
+![Jak probíhá výkup auta z domova – člověk z Dobrého výkupu přijede na domluvené místo, zkontroluje vůz, vysvětlí celý postup a zajistí bezpečný prodej auta](/blog/img/info-icon.png)
 
 ## Ještě před příjezdem víte, co vás čeká
 
@@ -92,7 +92,7 @@ Přijede:
 
 Můžete se kdykoliv na cokoliv zeptat. Pokud něčemu nerozumíte, vše vám vysvětlí běžným a srozumitelným způsobem.
 
-![](/blog/img/12.-7.-2026-červené-auto-postup1-5.png)
+![Průběh výkupu auta z domova od příjezdu až po předání peněz – jednoduchý a transparentní způsob prodeje auta po celé České republice](/blog/img/12.-7.-2026-červené-auto-postup1-5.png)
 
 ## Jak návštěva začíná
 
@@ -160,7 +160,7 @@ Je naprosto v pořádku, když je při návštěvě přítomen partner, syn, dce
 
 Některým lidem přítomnost blízkého člověka dodává větší jistotu. Nemáme důvod tomu bránit.
 
-![](/blog/img/12.-7.-2026-červené-auto-scala-formulář.png)
+![Infografika průběhu výkupu auta z domova – příjezd, kontrola vozu, krátká projížďka, dokumenty, platba a předání vozidla krok za krokem](/blog/img/12.-7.-2026-červené-auto-scala-formulář.png)
 
 ## Cena je domluvená předem
 
@@ -253,7 +253,7 @@ Nejde o anonymní marketingová tvrzení. Recenze jsou zasílané skutečnými z
 
 [Prohlédnout si skutečné recenze zákazníků Dobrého výkupu](https://www.dobryvykup.cz/#recenze)
 
-![](/blog/img/certificat-79x929.jpg)
+![Bezpečný výkup auta z domova s jasně vysvětleným postupem, kontrolou vozidla, podpisem dokumentů a okamžitou výplatou domluvené ceny](/blog/img/certificat-79x929.jpg)
 
 ## Výkup auta z domova po celé České republice
 
@@ -288,7 +288,7 @@ Ne. Stačí pravdivě sdělit informace, které o autě víte. Technické znalos
 
 To je naprosto v pořádku. Náš kolega z Dobrého výkupu vám vše rád vysvětlí. Nemusíte mít technické znalosti ani zkušenosti s prodejem auta. Pokud si něčím nejste jistí, můžete se kdykoliv zeptat.
 
-![](/blog/img/12.-7.-2026-červené-auto-scala-faq.png)
+![Nejčastější otázky k výkupu auta z domova – praktické odpovědi o průběhu návštěvy, dokumentech, platbě a předání vozidla](/blog/img/12.-7.-2026-červené-auto-scala-faq.png)
 
 ### Musím mít auto umyté?
 
@@ -350,7 +350,7 @@ Ne. Vykupujeme funkční pojízdná vozidla a po předání s autem odjíždíme
 
 Ne. Dobrý výkup se zaměřuje na funkční, pojízdná ojetá vozidla, nikoliv na vraky, likvidaci nebo nepojízdná auta.
 
-![](/blog/img/unbannner.png)
+![Moderní způsob prodeje auta z domova – jedna návštěva, transparentní postup, bezpečné předání vozu a minimum administrativy](/blog/img/unbannner.png)
 
 ## Když předem víte, co se bude dít, návštěva je jednoduchá
 
@@ -377,4 +377,4 @@ Nebo nám rovnou zavolejte  🙂
 
 
 
-![](/blog/img/bannner-blog.png)
+![Prodej auta z domova bez cesty do bazaru – přehledný postup výkupu vozidla, kontrola auta, dokumenty, platba a zkušenosti zákazníků](/blog/img/bannner-blog.png)
