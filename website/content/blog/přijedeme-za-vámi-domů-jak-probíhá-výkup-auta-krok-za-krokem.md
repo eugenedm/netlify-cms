@@ -12,6 +12,8 @@ date: 2026-07-12T12:56:04.789Z
 ---
 **Jak probíhá výkup auta z domova? Zjistěte krok za krokem, co vás čeká při první návštěvě, kdo přijede, jak probíhá kontrola auta, kdy dostanete peníze a proč lidé oceňují tento bezpečný způsob prodeje auta.**
 
+![](/blog/img/12.-7.-2026-červené-auto-scala.png)
+
 Představa, že k vám domů přijede člověk, kterého jste nikdy neviděli, aby převzal vaše auto, může přirozeně vyvolávat otázky.
 
 Kdo přijede?\
@@ -37,6 +39,8 @@ Někteří zákazníci se předem obávají, že:
 * budou nuceni rychle se rozhodnout
 
 Právě proto si vše důležité domlouváme a vysvětlujeme předem. Návštěva nemá být zkouška vašich znalostí ani nepříjemné obchodní jednání. Jejím cílem je pouze ověřit, že vozidlo odpovídá informacím, které jsme spolu už řešili, a bezpečně i pohodlně dokončit prodej.
+
+![](/blog/img/info-icon.png)
 
 ## Ještě před příjezdem víte, co vás čeká
 
@@ -87,6 +91,8 @@ Přijede:
 * převzít vozidlo a odjet s ním a vše vyřídit za vás
 
 Můžete se kdykoliv na cokoliv zeptat. Pokud něčemu nerozumíte, vše vám vysvětlí běžným a srozumitelným způsobem.
+
+![](/blog/img/12.-7.-2026-červené-auto-postup1-5.png)
 
 ## Jak návštěva začíná
 
@@ -153,6 +159,8 @@ Ano.
 Je naprosto v pořádku, když je při návštěvě přítomen partner, syn, dcera, soused nebo jiný člověk, kterému důvěřujete.
 
 Některým lidem přítomnost blízkého člověka dodává větší jistotu. Nemáme důvod tomu bránit.
+
+![](/blog/img/12.-7.-2026-červené-auto-scala-formulář.png)
 
 ## Cena je domluvená předem
 
@@ -245,6 +253,8 @@ Nejde o anonymní marketingová tvrzení. Recenze jsou zasílané skutečnými z
 
 [Prohlédnout si skutečné recenze zákazníků Dobrého výkupu](https://www.dobryvykup.cz/#recenze)
 
+![](/blog/img/certificat-79x929.jpg)
+
 ## Výkup auta z domova po celé České republice
 
 Za zákazníky přijíždíme po celé ČR.
@@ -278,7 +288,7 @@ Ne. Stačí pravdivě sdělit informace, které o autě víte. Technické znalos
 
 To je naprosto v pořádku. Náš kolega z Dobrého výkupu vám vše rád vysvětlí. Nemusíte mít technické znalosti ani zkušenosti s prodejem auta. Pokud si něčím nejste jistí, můžete se kdykoliv zeptat.
 
-
+![](/blog/img/12.-7.-2026-červené-auto-scala-faq.png)
 
 ### Musím mít auto umyté?
 
@@ -339,6 +349,8 @@ Ne. Vykupujeme funkční pojízdná vozidla a po předání s autem odjíždíme
 ### Vykupujete také nepojízdná nebo havarovaná auta?
 
 Ne. Dobrý výkup se zaměřuje na funkční, pojízdná ojetá vozidla, nikoliv na vraky, likvidaci nebo nepojízdná auta.
+
+![](/blog/img/unbannner.png)
 
 ## Když předem víte, co se bude dít, návštěva je jednoduchá
 
