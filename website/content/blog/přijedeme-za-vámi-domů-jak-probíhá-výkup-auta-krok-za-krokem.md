@@ -20,7 +20,7 @@ Co se bude kontrolovat?\
 Musím se vyznat v autech a dokumentech?\
 A začne se na místě znovu jednat o ceně?
 
-Výkup auta z domova je ve skutečnosti velmi jednoduchý. Vše důležité si vysvětlíme předem, člověk z Dobrého výkupu přijede na místo, které si sami určíte, a celý prodej obvykle vyřešíte během jedné krátké návštěvy.
+Výkup auta z domova je ve skutečnosti velmi jednoduchý. Vše důležité si vysvětlíme předem, náš kolega z Dobrého výkupu přijede na místo, které si sami určíte, a celý prodej obvykle vyřešíte během jedné krátké návštěvy.
 
 Nemusíte být odborník na auta. Nemusíte znát postup přepisu ani složitě připravovat dokumenty k prodeji. Od první domluvy víte, kdo přijede, co bude následovat a kdy dostanete peníze.
 
@@ -40,7 +40,7 @@ Právě proto si vše důležité domlouváme a vysvětlujeme předem. Návště
 
 ## Ještě před příjezdem víte, co vás čeká
 
-Než se k vám člověk z Dobrého výkupu vydá pro auto, společně si upřesníme základní informace o vozidle.
+Než se k vám někdo z Dobrého výkupu vydá pro auto, společně si upřesníme základní informace o vozidle.
 
 Obvykle se předem ptáme na tyto informace o autě:
 
@@ -74,7 +74,7 @@ Nemusíte tedy hledat pobočku, objíždět autobazary ani řešit dopravu zpět
 
 ## Kdo k vám přijede
 
-Přijede člověk z Dobrého výkupu, se kterým je návštěva předem domluvená a se kterým vše vyřídíte od A do Z.
+Přijede kolega z Dobrého výkupu, se kterým je návštěva předem domluvená a se kterým vše vyřídíte od A do Z.
 
 Jeho úkolem není hledat způsob, jak vás dostat pod do nepohody. 
 
@@ -170,7 +170,7 @@ Rozhodnutí je vždy na vás, nikdo vás do ničeho nenutí a vše je o vašem r
 
 Dokumenty se řeší až ve chvíli, kdy je vše jasné a s prodejem souhlasíte.
 
-Člověk z Dobrého výkupu vám vysvětlí:
+Náš kolega z Dobrého výkupu vám vysvětlí:
 
 * co podepisujete
 * k čemu jednotlivé dokumenty slouží
@@ -255,7 +255,7 @@ Postup zůstává stejný bez ohledu na místo:
 
 * vše si vysvětlíme předem
 * cenu domluvíme před příjezdem
-* přijede člověk z Dobrého výkupu
+* přijede kolega z Dobrého výkupu
 * návštěva proběhne na místě, které si zvolíte
 * peníze dostanete ihned
 * vše potřebné vysvětlíme a vyřídíme za vás
@@ -273,6 +273,12 @@ Obvykle přijede jeden člověk z Dobrého výkupu. Pokud by měla být situace 
 ### Musím se vyznat v autech?
 
 Ne. Stačí pravdivě sdělit informace, které o autě víte. Technické znalosti od vás nikdo neočekává.
+
+### Co když se během návštěvy na cokoliv zeptám?
+
+To je naprosto v pořádku. Náš kolega z Dobrého výkupu vám vše rád vysvětlí. Nemusíte mít technické znalosti ani zkušenosti s prodejem auta. Pokud si něčím nejste jistí, můžete se kdykoliv zeptat.
+
+
 
 ### Musím mít auto umyté?
 
@@ -344,11 +350,11 @@ Nemusíte mít připravenou odpověď na každou otázku.
 
 Důležité je pouze otevřeně popsat vozidlo a vybrat si způsob prodeje, při kterém víte, kdo přijede, jak bude návštěva probíhat a za jakých podmínek auto prodáte.
 
-Člověk z Dobrého výkupu vám vše vysvětlí, projde s vámi jednotlivé kroky a bude respektovat vaše rozhodnutí.
+Náš kolega z Dobrého výkupu vám rád vše vysvětlí, projde s vámi jednotlivé kroky a bude respektovat vaše rozhodnutí.
 
 Díky tomu už první návštěva nemusí být neznámou situací a hlavně v jedné návštěvě vše vyřídíte od A do Z.
 
-Víte, co vás čeká od příjezdu až po okamžik, kdy člověk z Dobrého výkupu odjíždí s vozidlem a vy máte zaplaceno a vše vyřešeno.
+Víte, co vás čeká od příjezdu až po okamžik, kdy kolega z Dobrého výkupu odjíždí s vozidlem a vy máte zaplaceno a vše vyřešeno.
 
 Vykupujeme auta po celé České republice. Postup je stejný bez ohledu na to, kde se nacházíte – doma, v práci nebo kdekoliv jinde.
 
@@ -356,5 +362,7 @@ Pokud vám to dává smysl, rádi vám vše předem vysvětlíme a s prodejem au
 Rozhodnutí je vždy jen na vás.
 
 Nebo nám rovnou zavolejte  🙂
+
+
 
 ![](/blog/img/bannner-blog.png)
