@@ -20,6 +20,8 @@ Právě proto jsem se rozhodl místo obecného popisu ukázat několik skutečn�
 
 **Lukáš Sedláček, Dobrý výkup**
 
+![Lukáš Sedláček, zakladatel Dobrého výkupu.](/blog/img/icoico80.jpg)
+
 ## Renault Trafic ve Dvoře Králové: i u staršího auta je někdy potřeba přimhouřit oči
 
 Pan Urban nám nabídl svůj **Renault Trafic z roku 2010 s nájezdem přibližně 196 000 km**. Důvod byl úplně obyčejný – pořizoval si nové auto a pro starší už neměl využití.
