@@ -122,7 +122,7 @@ Ve skutečnosti ale nemusíte nic řešit sami.
 
 Přepis vozidla, potřebné dokumenty i další postup vám předem vysvětlíme a společně vše potřebné vyřídíme při předání vozu.
 
-J﻿ak funguje přepis auta si můžete přešíst v článku: [Přepis auta po prodeji.](https://www.dobryvykup.cz/blog/2026/02/p%C5%99epis-auta-po-prodeji-kdy-m%C3%A1te-opravdu-hotovo-a-u%C5%BE-nic-ne%C5%99e%C5%A1%C3%ADte)
+J﻿ak funguje přepis auta si můžete přečíst v článku: [Přepis auta po prodeji.](https://www.dobryvykup.cz/blog/2026/02/p%C5%99epis-auta-po-prodeji-kdy-m%C3%A1te-opravdu-hotovo-a-u%C5%BE-nic-ne%C5%99e%C5%A1%C3%ADte)
 
 - - -
 
