@@ -1,6 +1,6 @@
 ---
 title: "Výkup auta z domu: jak prodat auto pohodlně, bezpečně a bez bazaru"
-author: Adam Pokorný
+author: Lukáš Sedláček
 description: Výkup auta z domu po celé ČR. Prodejte auto pohodlně, bezpečně a
   bazaru. Jasný postup, férové jednání, peníze ihned a vše vyřešené při jedné
   návštěvě.
