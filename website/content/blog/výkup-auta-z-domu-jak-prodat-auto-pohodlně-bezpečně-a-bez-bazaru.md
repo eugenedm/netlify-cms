@@ -12,215 +12,275 @@ date: 2026-05-06T10:49:05.501Z
 ---
 ![Výkup vozidel z domu po celé ČR – pohodlný a bezpečný prodej auta bez cesty do bazaru](/blog/img/skoda-fabia.png "Výkup vozidel z domu po celé ČR")
 
-**Výkup auta z domu po celé ČR. Prodejte auto pohodlně, bezpečně a bez bazaru. Jasný postup, férové jednání, peníze ihned a vše vyřešené při jedné návštěvě.**
+Výkup auta z domu může znít jako jednoduchá služba: domluvíme se po telefonu, přijedeme, auto zkontrolujeme, zaplatíme a odjedeme. Ve skutečnosti je ale každý výkup trochu jiný.
 
-Prodej auta dnes nemusí znamenat objíždění autobazarů, dlouhé čekání, dohadování se o ceně, nebo složité vyjednávání a nejistotu.
+Jednou přijedu pro deset let staré auto, které vypadá přesně jako na fotografiích. Jindy objevím závadu, o které majitel vůbec nevěděl. Někdy je všechno hotové za 35 minut a jindy se zdržíme skoro hodinu, protože si u kávy povídáme s celou rodinou.
 
-Stále více lidí hledá jednodušší řešení.\
-Takové, kde vše vyřeší v jeden den pohodlně z domova, bez zbytečného cestování a s jistotou, že celý prodej proběhne rychle a férově.
+Právě proto jsem se rozhodl místo obecného popisu ukázat několik skutečných výkupů Dobrého výkupu. Bez vymyšlených modelových situací. Jsou to auta, pro která jsem osobně přijel, skutečné okolnosti jejich prodeje a rozhodnutí, která jsem musel na místě udělat.
 
-Právě proto je dnes výkup auta z domu stále oblíbenější.
+**Lukáš Sedláček, Dobrý výkup**
 
-![Jak nejlépe prodat auto bez bazaru](/blog/img/300x300x100x0_f2152988_01.jpg "Jak nejlépe prodat auto")
+## Renault Trafic ve Dvoře Králové: i u staršího auta je někdy potřeba přimhouřit oči
 
-## Co znamená výkup auta z domu
+Pan Urban nám nabídl svůj **Renault Trafic z roku 2010 s nájezdem přibližně 196 000 km**. Důvod byl úplně obyčejný – pořizoval si nové auto a pro starší už neměl využití.
 
-Výkup auta z domu znamená, že nemusíte nikam jezdit.
+Předem mi řekl, že se o Trafic dobře staral a že je na svůj věk v pěkném a udržovaném stavu.
 
-Celý prodej můžete vyřešit:
+Při oceňování na dálku zákazníky vždy prosím o fotografie auta. A říkám jim jednu věc: pokud vidíte promáčklinu, korozi, škrábanec nebo něco poškozeného, klidně mi to vyfoťte. Nevadí mi, že auto nějakou vadu má. Mnohem důležitější pro mě je, abych o ní pokud možno věděl předem a mohl ji zahrnout do ceny.
 
-* doma
-* v práci
-* u garáže
-* nebo kdekoliv, kde vám to vyhovuje
+S panem Urbanem jsme se dohodli na **135 000 Kč**.
 
-Předem se domluví:
+Když jsem přijel do Dvora Králové, Trafic skutečně vypadal pěkně. Hned při první prohlídce jsem si ale všiml dvou věcí, které na fotografiích nebyly dobře vidět – začínající koroze na prahu a rezavého blatníku.
 
-* cena za vaše auto
-* termín a místo předání
-* způsob platby
-* průběh předání v jedné návštěvě 
+A právě tady podle mě nastává chvíle, kdy se ukáže, co znamená garance ceny v praxi.
 
-Díky tomu přesně víte, co vás čeká a celý prodej probíhá jednodušeji.
+Mohl bych říct: „Tady je rez, musíme jít s cenou dolů.“
 
-![Prodej auta bez bazaru](/blog/img/certificat-79x929.jpg)
+Neudělal jsem to.
 
-## Proč lidé nechtějí jezdit do bazaru
+Auto bylo z roku 2010. U šestnáct let staré dodávky prostě nelze očekávat stav nového vozu. Navíc jsem byl přesvědčený, že pan Urban nic nezatajoval. O korozi pravděpodobně jednoduše nevěděl.
 
-Mnoho lidí dnes hledá jiný způsob prodeje auta než klasický autobazar nebo inzerci.
+**Dohodnutých 135 000 Kč proto platilo do koruny.**
 
-Nejčastěji chtějí:
+> „Když vidím, že se mnou člověk jedná otevřeně a drobná vada odpovídá věku auta, nebudu hledat záminku, jak z něj na místě dostat slevu. Starší auto je starší auto a někdy je potřeba přimhouřit oči. Důležité pro mě je rozlišit běžnou vadu od situace, kdy mi někdo zásadní problém záměrně zatají.“
+>
+> **Lukáš Sedláček, Dobrý výkup**
 
-* jasně domluvený postup
-* bezpečné jednání
-* minimum starostí
-* rychlé vyřešení
-* férový přístup
-* jistotu předem domluvené ceny
+Korozi jsme samozřejmě následně museli dát do pořádku. Dokud je ale problém malý, dává mi větší smysl opravit ho včas, aby auto mohlo novému majiteli ještě dlouho sloužit.
 
-Právě proto stále více lidí volí mobilní výkup aut přímo z domu.
+### Z plánovaných 40 minut byla skoro hodina. Kvůli kávě.
 
-- - -
+Samotný výkup mohl být hotový rychleji. Pan Urban mě ale pozval domů na kávu a seznámil mě s rodinou.
 
-## Výkup auta z domu je pohodlnější
+Káva byla výborná, takže jsme nakonec smlouvy podepisovali v příjemném prostředí u stolu. Cenu jsem vyplatil v hotovosti a ještě jsme si stačili popovídat.
 
-Velkou výhodou je hlavně jednoduchost.
+Pan Urban jednal od začátku otevřeně a narovinu. A když se při obchodu potkají dva lidé, kteří k sobě přistupují stejně, většinou jde všechno jednoduše.
 
-Nemusíte:
+O to větší radost jsem měl, když nám následně Urbanovi napsali recenzi. Na webu je zveřejněna u výkupu Renaultu Trafic ve Dvoře Králové.
 
-* zbytečně objíždět autobazary
-* čekat v autobazaru
-* řešit dopravu zpět
-* domlouvat více schůzek a řešit nepříjemné a otravné telefonáty
-* složitě a pod nátlakem vyjednávat o ceně
+> „Auto jsme prodali do dobrých rukou a díky lidem jako je pan Sedláček je prodej jakéhokoliv vozu klidným a pohodovým počinem.“
+>
+> **Štefan a Kateřina Urbanovi, Dvůr Králové nad Labem**
 
-Většina zákazníků oceňuje hlavně to, že vše vyřeší během jedné návštěvy.
+[Přečíst zkušenosti zákazníků Dobrého výkupu](https://www.dobryvykup.cz/?utm_source=chatgpt.com#recenze)
 
-Jak probíhá samotný výkup auta krok za krokem si můžete přečíst v článku: [Jak probíhá výkup auta.](https://www.dobryvykup.cz/blog/2025/06/jak-prob%C3%ADh%C3%A1-v%C3%BDkup-auta)
+Pro mě podobná recenze není jen hezká pochvala. Je to zpětná vazba, že způsob, jakým se snažíme výkup dělat, zákazník skutečně vnímá.
 
 - - -
 
-## Jak probíhá výkup auta z domu
+## Škoda Rapid v Ostravě: majitelka sama nabídla slevu. Odmítl jsem ji.
 
-Celý postup je jednoduchý a probíhá předem domluveným způsobem.
+Úplně jiný výkup mě čekal v **Ostravě-Porubě**.
 
-Nejprve si po telefonu nebo online upřesníme informace o autě.
+Paní Dana prodávala **Škodu Rapid, benzín, rok 2016, s nájezdem pouhých 50 000 km**. Byla první majitelkou a s autem jezdila přibližně jednou týdně.
 
-Poté:
+Končila v práci a odcházela do důchodu. V Ostravě už auto nepotřebovala, a proto se rozhodla ho prodat.
 
-* domluvíme výkupní cenu auta
-* vyberete si místo a čas předání
-* přijedeme za vámi po celé ČR
-* v rychlosti zkontrolujeme že je vše jak bylo řečeno a nic nechybí
-* vypíšeme a podepíšeme smlouvy
-* vyplatíme peníze ihned
+Domluvili jsme se na ceně **200 000 Kč**.
 
-Platbu si můžete vybrat sami:
+Rapid byl opravdu pěkný a na svůj věk měl mimořádně nízký nájezd. Při krátké zkušební jízdě bylo všechno v pořádku. Přesto měl více kosmetických vad, než by člověk při 50 000 kilometrech možná očekával.
 
-* hotově
-* nebo okamžitým převodem
+Auto totiž parkovalo na sídlišti.
 
-- - -
+Drobné oděrky a kosmetická poškození tak nebyly způsobené tím, že by se o něj majitelka nestarala. Byly jednoduše výsledkem let běžného parkování mezi ostatními auty.
 
-## Garance ceny bez smlouvání
+Paní Dana si těch vad byla vědoma a **sama mi nabídla slevu**.
 
-Jedna z největších obav při prodeji auta bývá nejistota kolem ceny.
+Odmítl jsem ji.
 
-Proto je důležité vědět, na čem jste ještě před samotným setkáním.
+Naše nabídka byla podle mě nastavená správně a s běžnou kosmetikou jsme při ocenění počítali. Nebyl proto důvod měnit dohodu jen proto, že jsem při osobní prohlídce dostal možnost zaplatit méně.
 
-Pokud informace o autě odpovídají domluvě, předem domluvenou cenu respektujeme a o ceně dále nesmlouváme.
+> „Když je moje nabídka nastavená správně, nevidím důvod brát zákazníkovi peníze jen proto, že mi sám nabídne slevu. Navíc jsem věděl, že paní odchází do důchodu. Každá koruna pro ni může být důležitější než pro mě. Dohoda byla 200 tisíc a těch 200 tisíc také dostala.“
+>
+> **Lukáš Sedláček**
 
-Jak funguje garance ceny u Dobrého výkupu si můžete přečíst zde: [Garance ceny při výkupu auta.](https://www.dobryvykup.cz/blog/2026/01/garance-ceny-p%C5%99i-v%C3%BDkupu-auta)
+Celá návštěva zabrala přibližně **35 minut** a 200 000 Kč jsem paní poslal **převodem na účet**.
 
-- - -
+Než jsem se stačil vrátit zpátky do firmy, čekala tam na nás její recenze.
 
-## Nemusíte se starat o přepis ani dokumenty
+Paní Dana v ní sama napsala, že vše proběhlo přesně podle předchozí domluvy a ocenila férový přístup, rychlou komunikaci a jasně vysvětlené podmínky. Její recenze je na našem webu stále veřejně dostupná.
 
-Mnoho lidí má obavy z administrativy kolem prodeje auta.
-
-Ve skutečnosti ale nemusíte nic řešit sami.
-
-Přepis vozidla, potřebné dokumenty i další postup vám předem vysvětlíme a společně vše potřebné vyřídíme při předání vozu.
-
-J﻿ak funguje přepis auta si můžete přečíst v článku: [Přepis auta po prodeji.](https://www.dobryvykup.cz/blog/2026/02/p%C5%99epis-auta-po-prodeji-kdy-m%C3%A1te-opravdu-hotovo-a-u%C5%BE-nic-ne%C5%99e%C5%A1%C3%ADte)
+> „Celý proces byl rychlý, bez zbytečného papírování a vše proběhlo přesně tak, jak jsme se předem domluvili.“
+>
+> **Dana M., Ostrava-Poruba – Škoda Rapid**
 
 - - -
 
-## Důvěra je při prodeji auta nejdůležitější
+## Brno-Chrlice: dvě auta z jedné ulice a úplnou náhodou
 
-Při prodeji auta nejde jen o cenu.
+Některé výkupy mají příběh, který bych si těžko vymyslel.
 
-Důležité je hlavně vědět:
+Do **Brna-Chrlic** jsem přijel pro **Hyundai i30 1.6 16V z roku 2014**.
 
-* komu auto prodáváte
-* jak celý prodej proběhne
-* jestli vše odpovídá domluvě
-* a zda se můžete na celý postup spolehnout
+Majitelka měla pěkné auto bez zásadních závad a s pravidelným servisem. Dohodli jsme cenu **130 000 Kč**, kterou jsem jí předem garantoval.
 
-Právě proto si mnoho lidí předem pročítá zkušenosti ostatních zákazníků, kteří už přes Dobrý výkup auto prodávali.
+Přijedu na smluvenou adresu, rozhlédnu se a říkám:
 
-Recenze našich zákazníků najddete zde: [Dobrý výkup - Recenze](https://www.dobryvykup.cz/#recenze)[](https://www.dobryvykup.cz/#recenze)
+„Tady jsem přece už jednou auto kupoval. Ve vedlejším bytovém domě.“
 
-- - -
+Zeptal jsem se paní, jestli se s předchozími zákazníky zná nebo jestli nás dostala na doporučení.
 
-## Přijedeme za vámi po celé České republice
+Ne.
 
-Výkup auta z domu dnes funguje pohodlně po celé ČR.
+Byla to náhoda.
 
-Přijedeme za vámi do:
+Hyundai jsme prohlédli, všechno odpovídalo domluvě a **130 000 Kč platilo**. Přibližně za 40 minut bylo vyřízeno.
 
-* velkých měst
-* menších obcí
-* i mimo běžná centra
+Tím ale příběh neskončil.
 
-Díky tomu nemusíte řešit, kde se firma nachází, kdy má otevřeno, nebo jak daleko to máte.
+### Druhý den zazvonil telefon
 
-- - -
+Ozval se mi manžel zákaznice, od které jsme přibližně před rokem vykupovali auto právě ve stejné ulici.
 
-## Jak poznat férový výkup auta
+Viděl mě předchozí den u sousedního domu.
 
-Férový výkup auta poznáte jednoduše.
+Dostal služební vůz a doma jim zůstala **Kia Ceed SW 1.5 benzín z roku 2024, s nájezdem přibližně 20 000 km**, kterou už nepotřebovali.
 
-Vše důležité víte předem:
+A tak jsme se po roce potkali znovu.
 
-* jaká bude skutečná cena auta
-* jak proběhne předání
-* kdy dostanete peníze
-* jak, kdy a kde se řeší přepis 
-* co bude následovat dál
+Tentokrát ale nastala jiná situace než u předchozích dvou příběhů.
 
-Nikdo vás netlačí do rychlého rozhodnutí a celý postup dává smysl oběma stranám.
+Majitel měl o ceně auta vyšší představu. Kia sice byla velmi mladá, měla málo kilometrů a stále tovární záruku, ale v minulosti prodělala nehodu.
 
-Zde si můžete přečíst: [Jak poznat dobrou nabídku na výkup auta.](https://www.dobryvykup.cz/blog/2026/03/jak-poznat-dobrou-nab%C3%ADdku-na-v%C3%BDkup-auta-a-kdy-rad%C4%9Bji-%C5%99%C3%ADct-ne) 
+Byla odborně opravená, přesto má taková historie na hodnotu auta vliv.
 
-![Prodej auta z domu bez stresu a bez bazaru – férový výkup vozidel s penězi ihned](/blog/img/info-icon.png "Výkup vozidel z domu")
+Proto jsem majiteli **ještě po telefonu před výjezdem vysvětlil, proč jeho představu nedokážu splnit, a nabídku jsme upravili přibližně o 10 000 Kč.**
 
-## Nejčastější otázky
+Teprve když s cenou souhlasil, domluvili jsme výkup.
 
-### Musím s autem někam jezdit?
+Na místě už se nesmlouvalo.
 
-Ne. Ve většině případů přijedeme přímo za vámi po celé ČR a to 7 dní v týdnu.
+> „Garance ceny pro mě neznamená, že musím přijmout jakoukoliv představu prodávajícího. O ceně se klidně bavme předem a řekněme si otevřeně, proč ji vidíme každý jinak. Ale když se potom domluvíme a stav auta odpovídá tomu, co jsme si řekli, nechci přijít na místo a začínat celé vyjednávání znovu.“
+>
+> **Lukáš Sedláček**
 
-- - -
+Miloš Š. následně ve své veřejné recenzi ocenil právě rychlost, férovost, vyřízení dokumentů a skutečnost, že samotný výkup proběhl u něj doma.
 
-### Jak dlouho celý výkup trvá?
+> „Výkup vozidla i podpis potřebných dokumentů proběhl v místě mého bydliště.“
+>
+> **Miloš Š., Brno-Chrlice – Kia Ceed SW**
 
-Obvykle kolem 40 minut podle konkrétní situace.(rychlá prohlídka, platba, předání)
+Tenhle příběh mám rád ještě z jednoho důvodu. Ukazuje, že doporučení nemusí přijít prostřednictvím reklamy nebo internetu. Někdy vás po roce zákazník prostě zahlédne z okna u sousedů a vzpomene si, že s vámi měl dobrou zkušenost.
 
 - - -
 
-### Dostanu peníze ihned?
+## Škoda Fabia ve Frýdku-Místku: kdy jsme cenu na místě opravdu snížili
 
-Ano. Peníze vyplácíme ihned při předání auta, a to hotově nebo okamžitým převodem na účet.
+Nechci, aby tento článek působil tak, že **Dobrý výkup nikdy za žádných okolností cenu nezmění**.
+
+To by nebyla pravda.
+
+Existují situace, kdy se na místě objeví něco, o čem jsme při oceňování nemohli vědět. Rozdíl je v tom, jak se k takové situaci postavíme.
+
+Jedním z takových případů byla starší paní ve **Frýdku-Místku**, která prodávala **Škodu Fabia z roku 2010 s nájezdem přibližně 130 000 km**.
+
+Auto už prakticky nepotřebovala. Po městě používala MHD, platila zbytečně povinné ručení a přes zimu se už autem bála jezdit.
+
+Fabia proto celou zimu stála na veřejném parkovišti před domem.
+
+Když jsem na jaře přijel k výkupu, ukázal se problém.
+
+**Auto nenastartovalo.**
+
+Baterie byla vybitá a vůz se nám podařilo nastartovat až pomocí záložního zdroje. Ukázalo se, že baterie už není v dobrém stavu a bude potřeba ji vyměnit.
+
+S paní jsme se proto domluvili na **snížení ceny o 2 000 Kč**, tedy přibližně o náklad na novou baterii.
+
+Souhlasila.
+
+A přesně tak si představuji situaci, kdy má změna ceny opodstatnění.
+
+Ne vymyšlený škrábanec. Ne hledání deset let staré oděrky pod autem. Ale konkrétní závada, kterou předem nikdo neznal a kterou bude potřeba bezprostředně vyřešit.
+
+> „Paní bylo nepříjemné, že auto nenastartovalo, ale já jsem jí říkal, ať si z toho vůbec nic nedělá. Auto stálo celou zimu, takové věci se stávají. Dáme novou baterii a jede se dál. Nemá smysl někomu něco vyčítat kvůli běžné závadě.“
+>
+> **Lukáš Sedláček**
+
+Kvůli startování se tentokrát návštěva protáhla přibližně na **hodinu**. Smlouvy jsme nakonec podepsali u paní doma a peníze jsem jí vyplatil v hotovosti.
+
+A zase jsme si při tom stačili příjemně popovídat.
+
+Později nám paní Jaroslava napsala:
+
+> „A navíc obrovský bonus... slušnost, empatické jednání, profesionalita.“
+>
+> **Jaroslava P., Frýdek-Místek – Škoda Fabia**
+
+Tuto recenzi jsem ověřil přímo mezi zveřejněnými zkušenostmi zákazníků Dobrého výkupu.
 
 - - -
 
-### Musím řešit přepis auta sám/sama?
+# Co tyto čtyři skutečné výkupy ukazují
 
-Ne. Celý postup vám vysvětlíme a společně vyřešíme potřebné dokumenty a vše vyřídíme.
+Kdybych měl vysvětlit, jak u nás **výkup auta z domu** skutečně funguje, nevysvětloval bych ho reklamním sloganem.
+
+Tyto čtyři případy ho popisují lépe.
+
+**Renault Trafic:** objevili jsme drobnou korozi, kterou majitel předem neuvedl → **cena se nezměnila**.
+
+**Škoda Rapid:** kosmetických vad bylo více a majitelka sama nabídla slevu → **slevu jsme odmítli**.
+
+**Kia Ceed:** věděli jsme předem o havárii → **cenu jsme vyřešili po telefonu před cestou a na místě už platila**.
+
+**Škoda Fabia:** až na místě se objevila nefunkční baterie → **cena se po vzájemné dohodě snížila o konkrétních 2 000 Kč**.
+
+To je podle mě mnohem přesnější vysvětlení naší garance ceny než věta „nikdy nesmlouváme“.
+
+## Kdy tedy Dobrý výkup dodrží domluvenou cenu?
+
+Naše pravidlo je jednoduché:
+
+**Pokud auto odpovídá tomu, co jsme si předem popsali a nafotili, domluvená cena platí.**
+
+Neřešíme každou drobnou oděrku nebo běžné opotřebení odpovídající věku auta. U ojetého vozu s nimi počítáme.
+
+Pokud ale při prohlídce zjistíme **zásadní skutečnost, kterou jsme předem nemohli znát a která má reálný vliv na hodnotu nebo další náklady**, vysvětlíme ji majiteli a společně hledáme férové řešení.
+
+Někdy to může znamenat úpravu ceny.
+
+A někdy raději auto vůbec nevykoupíme.
+
+Rozdíl je v tom, že nechceme přijet s vysokou nabídkou a teprve na místě začít hledat důvody, jak ji dostat dolů.
+
+To není způsob, jakým chci Dobrý výkup dělat.
 
 - - -
 
-### Co když si nejsem s prodejem vozidla jistý/á?
+# Jak výkup auta z domu probíhá
 
-To je naprosto v pořádku. Rozhodnutí je vždy jen na vás.
+Zákazník nám nejprve pošle základní informace o vozidle a fotografie. Čím otevřeněji popíše jeho stav, tím přesněji dokážeme cenu určit ještě před cestou.
+
+Pokud vidíte škrábanec, promáčklinu, korozi nebo jinou závadu, **vyfoťte nám ji**. Není potřeba auto před námi „vylepšovat“.
+
+Následně se domluvíme na ceně, termínu a místě.
+
+Přijedeme k vám, auto krátce prohlédneme a podle potřeby s ním provedeme zkušební jízdu. Pokud všechno odpovídá předchozí domluvě, podepíšeme potřebné dokumenty a peníze vyplatíme **hotově nebo okamžitým převodem**.
+
+Na našem webu uvádíme standardní dobu výkupu do přibližně 45 minut a možnost výjezdu za zákazníkem po celé ČR. Skutečné příklady výše ukazují, že v praxi to může být 35 minut, 40 minut nebo hodina – podle auta, situace a někdy i podle toho, jak dobrá je káva.
 
 - - -
 
-![Jak probíhá výkup auta z domu – bezpečný prodej auta s přepisem a dokumenty vyřešenými při jedné návštěvě](/blog/img/unbannner.png)
+# Výkup aut pro mě není jen o autech
 
-## Prodej auta může být jednoduchý
+Za roky výkupů jsem samozřejmě viděl stovky aut. Novější, starší, perfektní i taková, která potřebovala trochu péče.
 
-Nemusíte jezdit po autobazarech.\
-Nemusíte řešit desítky telefonátů.\
-Nemusíte mít zkušenosti s prodejem auta.
+Ale čím déle tuhle práci dělám, tím víc si uvědomuji, že **výkup auta není jen obchod s autem**.
 
-Pokud vám to dává smysl, ozvěte se. Rádi vám vše vysvětlíme a s prodejem auta pomůžeme. Rozhodnutí je vždy jen na vás. 
+Na druhé straně je člověk.
 
-Služba je naprosto transparentní a jak přesně Dobrý výkup funguje, si můžete přečíst krok po kroku v předchozím článku.  
+Někdo si právě pořídil nové auto. Někdo odchází do důchodu. Někdo už kvůli věku řídit nechce. A někdo dostal služební vůz a druhé auto mu najednou stojí před domem.
 
-Nebo nám rovnou zavolejte, ocenění vozidla je zdarma a žádné skryté poplatky u nás nenajdete.
+Proto nechci, aby Dobrý výkup fungoval stylem „přijet, najít chybu, srazit cenu a odjet“.
 
-Těšíme se na váš zájem o výkup auta! :-)
+Samozřejmě musíme auto správně ocenit. Jsme firma a za případné opravy nebo skryté problémy neseme náklady my.
+
+Ale pořád se dá obchod dělat **slušně, lidsky a tak, aby si oba mohli na konci podat ruku**.
+
+A když potom cestou zpátky zjistím, že mi zákazník ještě dřív, než jsem přijel do firmy, napsal hezkou recenzi, je to pro mě možná větší odměna než samotný obchod.
+
+**Lukáš Sedláček**\
+**Dobrý výkup**
+
+[Zkušenosti zákazníků Dobrého výkupu](https://www.dobryvykup.cz/?utm_source=chatgpt.com#recenze)
 
 ![Pohodlný výkup auta přímo u zákazníka – jednoduchý prodej auta bez inzerce a bez složitého vyjednávání](/blog/img/bannner-blog.png)
