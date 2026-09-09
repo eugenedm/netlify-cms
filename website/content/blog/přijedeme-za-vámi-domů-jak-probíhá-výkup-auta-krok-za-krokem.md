@@ -80,7 +80,7 @@ Nemusíte tedy hledat pobočku, objíždět autobazary ani řešit dopravu zpět
 
 Přijede kolega z Dobrého výkupu, se kterým je návštěva předem domluvená a se kterým vše vyřídíte od A do Z.
 
-Jeho úkolem není hledat způsob, jak vás dostat pod do nepohody. 
+Jeho úkolem není hledat způsob, jak vás dostat do nepohody. 
 
 Přijede:
 
@@ -374,7 +374,5 @@ Pokud vám to dává smysl, rádi vám vše předem vysvětlíme a s prodejem au
 Rozhodnutí je vždy jen na vás.
 
 Nebo nám rovnou zavolejte  🙂
-
-
 
 ![Prodej auta z domova bez cesty do bazaru – přehledný postup výkupu vozidla, kontrola auta, dokumenty, platba a zkušenosti zákazníků](/blog/img/bannner-blog.png)
