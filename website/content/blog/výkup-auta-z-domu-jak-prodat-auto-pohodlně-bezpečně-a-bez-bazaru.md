@@ -1,16 +1,18 @@
 ---
 title: "Výkup auta z domu: jak prodat auto pohodlně, bezpečně a bez bazaru"
 author: Lukáš Sedláček
-description: Výkup auta z domu po celé ČR. Prodejte auto pohodlně, bezpečně a
-  bazaru. Jasný postup, férové jednání, peníze ihned a vše vyřešené při jedné
-  návštěvě.
-meta_description: Výkup auta z domu po celé ČR. Prodejte auto pohodlně, bezpečně
-  a bazaru. Jasný postup, férové jednání, peníze ihned a vše vyřešené při jedné
-  návštěvě.
+description: Jak probíhá výkup auta z domu ve skutečnosti? Ukazujeme reálné
+  příběhy našich zákazníků, skutečné ceny i situace, kdy jsme cenu dodrželi nebo
+  ji museli upravit.
+meta_description: Jak probíhá výkup auta z domu ve skutečnosti? Ukazujeme reálné
+  příběhy našich zákazníků, skutečné ceny i situace, kdy jsme cenu dodrželi nebo
+  ji museli upravit.
 twitter_image: /blog/img/chatgpt-image-2.-2.-2026-14_15_06.png
 date: 2026-05-06T10:49:05.501Z
 ---
 ![Výkup vozidel z domu po celé ČR – pohodlný a bezpečný prodej auta bez cesty do bazaru](/blog/img/skoda-fabia.png "Výkup vozidel z domu po celé ČR")
+
+Jak probíhá výkup auta z domu ve skutečnosti? Ukazujeme reálné příběhy našich zákazníků, skutečné ceny i situace, kdy jsme cenu dodrželi nebo ji museli upravit.
 
 Výkup auta z domu může znít jako jednoduchá služba: domluvíme se po telefonu, přijedeme, auto zkontrolujeme, zaplatíme a odjedeme. Ve skutečnosti je ale každý výkup trochu jiný.
 
