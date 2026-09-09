@@ -10,7 +10,7 @@ meta_description: Jak probíhá výkup auta z domu ve skutečnosti? Ukazujeme re
 twitter_image: /blog/img/chatgpt-image-2.-2.-2026-14_15_06.png
 date: 2026-05-06T10:49:05.501Z
 ---
-![Výkup auta z domu – Dobrý výkup přijede za zákazníkem po celé ČR](/blog/img/skoda-fabia.png "Výkup vozidel z domu po celé ČR")
+![Výkup auta z domu – Dobrý výkup přijede za zákazníkem po celé ČR](/blog/img/ceed.jpg "Výkup vozidel z domu po celé ČR")
 
 Jak probíhá výkup auta z domu ve skutečnosti? Ukazujeme reálné příběhy našich zákazníků, skutečné ceny i situace, kdy jsme cenu dodrželi nebo ji museli upravit.
 
