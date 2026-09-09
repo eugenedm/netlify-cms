@@ -26,6 +26,8 @@ Právě proto jsem se rozhodl místo obecného popisu ukázat několik skutečn�
 
 Pan Urban nám nabídl svůj **Renault Trafic z roku 2010 s nájezdem přibližně 196 000 km**. Důvod byl úplně obyčejný – pořizoval si nové auto a pro starší už neměl využití.
 
+![Renault Trafic 2010 při výkupu auta Dobrý výkup Dvůr Králové nad Labem](/blog/img/renault-trafic.png)
+
 Předem mi řekl, že se o Trafic dobře staral a že je na svůj věk v pěkném a udržovaném stavu.
 
 Při oceňování na dálku zákazníky vždy prosím o fotografie auta. A říkám jim jednu věc: pokud vidíte promáčklinu, korozi, škrábanec nebo něco poškozeného, klidně mi to vyfoťte. Nevadí mi, že auto nějakou vadu má. Mnohem důležitější pro mě je, abych o ní pokud možno věděl předem a mohl ji zahrnout do ceny.
@@ -76,6 +78,8 @@ Pro mě podobná recenze není jen hezká pochvala. Je to zpětná vazba, že zp
 
 Paní Dana prodávala **Škodu Rapid, benzín, rok 2016, s nájezdem pouhých 50 000 km**. Byla první majitelkou a s autem jezdila přibližně jednou týdně.
 
+![škoda Rapid při výkupu auta Dobrý výkup Ostrava](/blog/img/rapid-tsi.png)
+
 Končila v práci a odcházela do důchodu. V Ostravě už auto nepotřebovala, a proto se rozhodla ho prodat.
 
 Domluvili jsme se na ceně **200 000 Kč**.
@@ -113,6 +117,8 @@ Paní Dana v ní sama napsala, že vše proběhlo přesně podle předchozí dom
 Některé výkupy mají příběh, který bych si těžko vymyslel.
 
 Do **Brna-Chrlic** jsem přijel pro **Hyundai i30 1.6 16V z roku 2014**.
+
+![Hyundai i30 při výkupu auta Dobrý výkup Brno - Chrlice](/blog/img/hyundai-i30.png)
 
 Majitelka měla pěkné auto bez zásadních závad a s pravidelným servisem. Dohodli jsme cenu **130 000 Kč**, kterou jsem jí předem garantoval.
 
@@ -174,7 +180,9 @@ To by nebyla pravda.
 
 Existují situace, kdy se na místě objeví něco, o čem jsme při oceňování nemohli vědět. Rozdíl je v tom, jak se k takové situaci postavíme.
 
-Jedním z takových případů byla starší paní ve **Frýdku-Místku**, která prodávala **Škodu Fabia z roku 2010 s nájezdem přibližně 130 000 km**.
+![škoda Fabia při výkupu auta Dobrý výkup Frýdek - Místek](/blog/img/fabia.png)
+
+Jedním z takových případů byla starší paní ve **Frýdku-Místku**, která prodávala **Škodu Fabia z roku 2009 nájezdem přibližně 130 000 km**.
 
 Auto už prakticky nepotřebovala. Po městě používala MHD, platila zbytečně povinné ručení a přes zimu se už autem bála jezdit.
 
@@ -210,7 +218,7 @@ Později nám paní Jaroslava napsala:
 
 Tuto recenzi jsem ověřil přímo mezi zveřejněnými zkušenostmi zákazníků Dobrého výkupu.
 
-- - -
+![článek o skutečných výkupech přes Dobrý výkup](/blog/img/info-icon.png)
 
 # Co tyto čtyři skutečné výkupy ukazují
 
@@ -246,7 +254,7 @@ Rozdíl je v tom, že nechceme přijet s vysokou nabídkou a teprve na místě z
 
 To není způsob, jakým chci Dobrý výkup dělat.
 
-- - -
+![Prohlídka při výkupu auta Dobrý výkup](/blog/img/8.jpg)
 
 # Jak výkup auta z domu probíhá
 
@@ -260,7 +268,7 @@ Přijedeme k vám, auto krátce prohlédneme a podle potřeby s ním provedeme z
 
 Na našem webu uvádíme standardní dobu výkupu do přibližně 45 minut a možnost výjezdu za zákazníkem po celé ČR. Skutečné příklady výše ukazují, že v praxi to může být 35 minut, 40 minut nebo hodina – podle auta, situace a někdy i podle toho, jak dobrá je káva.
 
-- - -
+![Lukáš Sedláček zakladatel Dobrého výkupu popisuje skutečné výkupy](/blog/img/icoico80.jpg)
 
 # Výkup aut pro mě není jen o autech
 
