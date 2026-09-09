@@ -182,7 +182,7 @@ To by nebyla pravda.
 
 Existují situace, kdy se na místě objeví něco, o čem jsme při oceňování nemohli vědět. Rozdíl je v tom, jak se k takové situaci postavíme.
 
-![Škoda Fabia 2010 při výkupu Dobrým výkupem ve Frýdku-Místku](/blog/img/fabia.png)
+![Škoda Fabia 2009 při výkupu Dobrým výkupem ve Frýdku-Místku](/blog/img/fabia.png)
 
 Jedním z takových případů byla starší paní ve **Frýdku-Místku**, která prodávala **Škodu Fabia z roku 2009 nájezdem přibližně 130 000 km**.
 
