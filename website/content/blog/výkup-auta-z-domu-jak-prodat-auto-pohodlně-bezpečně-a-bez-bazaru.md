@@ -10,7 +10,7 @@ meta_description: Jak probíhá výkup auta z domu ve skutečnosti? Ukazujeme re
 twitter_image: /blog/img/chatgpt-image-2.-2.-2026-14_15_06.png
 date: 2026-05-06T10:49:05.501Z
 ---
-![Výkup vozidel z domu po celé ČR – pohodlný a bezpečný prodej auta bez cesty do bazaru](/blog/img/skoda-fabia.png "Výkup vozidel z domu po celé ČR")
+![Výkup auta z domu – Dobrý výkup přijede za zákazníkem po celé ČR](/blog/img/skoda-fabia.png "Výkup vozidel z domu po celé ČR")
 
 Jak probíhá výkup auta z domu ve skutečnosti? Ukazujeme reálné příběhy našich zákazníků, skutečné ceny i situace, kdy jsme cenu dodrželi nebo ji museli upravit.
 
@@ -22,13 +22,13 @@ Právě proto jsem se rozhodl místo obecného popisu ukázat několik skutečn�
 
 **Lukáš Sedláček, Dobrý výkup**
 
-![Lukáš Sedláček, zakladatel Dobrého výkupu.](/blog/img/icoico80.jpg)
+![Lukáš Sedláček – Dobrý výkup, osobní výkup ojetých aut](/blog/img/icoico80.jpg)
 
 ## Renault Trafic ve Dvoře Králové: i u staršího auta je někdy potřeba přimhouřit oči
 
 Pan Urban nám nabídl svůj **Renault Trafic z roku 2010 s nájezdem přibližně 196 000 km**. Důvod byl úplně obyčejný – pořizoval si nové auto a pro starší už neměl využití.
 
-![Renault Trafic 2010 při výkupu auta Dobrý výkup Dvůr Králové nad Labem](/blog/img/renault-trafic.png)
+![Renault Trafic 2010 při výkupu Dobrým výkupem ve Dvoře Králové nad Labem](/blog/img/renault-trafic.png)
 
 Předem mi řekl, že se o Trafic dobře staral a že je na svůj věk v pěkném a udržovaném stavu.
 
@@ -80,7 +80,7 @@ Pro mě podobná recenze není jen hezká pochvala. Je to zpětná vazba, že zp
 
 Paní Dana prodávala **Škodu Rapid, benzín, rok 2016, s nájezdem pouhých 50 000 km**. Byla první majitelkou a s autem jezdila přibližně jednou týdně.
 
-![škoda Rapid při výkupu auta Dobrý výkup Ostrava](/blog/img/rapid-tsi.png)
+![Škoda Rapid 2016 při výkupu Dobrým výkupem v Ostravě-Porubě](/blog/img/rapid-tsi.png)
 
 Končila v práci a odcházela do důchodu. V Ostravě už auto nepotřebovala, a proto se rozhodla ho prodat.
 
@@ -120,7 +120,7 @@ Některé výkupy mají příběh, který bych si těžko vymyslel.
 
 Do **Brna-Chrlic** jsem přijel pro **Hyundai i30 1.6 16V z roku 2014**.
 
-![Hyundai i30 při výkupu auta Dobrý výkup Brno - Chrlice](/blog/img/hyundai-i30.png)
+![Hyundai i30 2014 při výkupu Dobrým výkupem v Brně-Chrlicích](/blog/img/hyundai-i30.png)
 
 Majitelka měla pěkné auto bez zásadních závad a s pravidelným servisem. Dohodli jsme cenu **130 000 Kč**, kterou jsem jí předem garantoval.
 
@@ -182,7 +182,7 @@ To by nebyla pravda.
 
 Existují situace, kdy se na místě objeví něco, o čem jsme při oceňování nemohli vědět. Rozdíl je v tom, jak se k takové situaci postavíme.
 
-![škoda Fabia při výkupu auta Dobrý výkup Frýdek - Místek](/blog/img/fabia.png)
+![Škoda Fabia 2010 při výkupu Dobrým výkupem ve Frýdku-Místku](/blog/img/fabia.png)
 
 Jedním z takových případů byla starší paní ve **Frýdku-Místku**, která prodávala **Škodu Fabia z roku 2009 nájezdem přibližně 130 000 km**.
 
@@ -220,7 +220,7 @@ Později nám paní Jaroslava napsala:
 
 Tuto recenzi jsem ověřil přímo mezi zveřejněnými zkušenostmi zákazníků Dobrého výkupu.
 
-![článek o skutečných výkupech přes Dobrý výkup](/blog/img/info-icon.png)
+![Informace k výkupu auta z domu a průběhu výkupu Dobrý výkup](/blog/img/info-icon.png)
 
 # Co tyto čtyři skutečné výkupy ukazují
 
@@ -256,7 +256,7 @@ Rozdíl je v tom, že nechceme přijet s vysokou nabídkou a teprve na místě z
 
 To není způsob, jakým chci Dobrý výkup dělat.
 
-![Prohlídka při výkupu auta Dobrý výkup](/blog/img/8.jpg)
+![Lukáš Sedláček z Dobrého výkupu při osobní prohlídce ojetého auta před výkupem.](/blog/img/8.jpg)
 
 # Jak výkup auta z domu probíhá
 
@@ -270,7 +270,7 @@ Přijedeme k vám, auto krátce prohlédneme a podle potřeby s ním provedeme z
 
 Na našem webu uvádíme standardní dobu výkupu do přibližně 45 minut a možnost výjezdu za zákazníkem po celé ČR. Skutečné příklady výše ukazují, že v praxi to může být 35 minut, 40 minut nebo hodina – podle auta, situace a někdy i podle toho, jak dobrá je káva.
 
-![Lukáš Sedláček zakladatel Dobrého výkupu popisuje skutečné výkupy](/blog/img/icoico80.jpg)
+![Lukáš Sedláček z Dobrého výkupu – férový výkup auta přímo u zákazníka](/blog/img/icoico80.jpg)
 
 # Výkup aut pro mě není jen o autech
 
