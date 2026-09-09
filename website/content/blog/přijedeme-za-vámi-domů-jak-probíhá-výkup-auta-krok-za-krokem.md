@@ -84,7 +84,7 @@ Jeho úkolem není hledat způsob, jak vás dostat do nepohody. 
 
 Přijede:
 
-* ověřit že je vše jak bylo odpluveno a nic nechybí
+* ověřit že je vše jak bylo domluveno a nic nechybí
 * srozumitelně vysvětlit otázky, nebo co bude následovat
 * připravit, potvrdit a projít potřebné dokumenty
 * na místě vyplatit domluvenou cenu, hotově nebo převodem na účet
