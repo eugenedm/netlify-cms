@@ -51,7 +51,9 @@ Službu, ve které bude platit to, co si společně domluvíme. Kde si zákazní
 
 Věděl jsem, že to nebude nejjednodušší cesta k podnikání. Ale byla to cesta, kterou jsem chtěl jít.
 
-A tak vznikl Dobrý výkup.
+**A tak vznikl Dobrý výkup.**
+
+![Červené autíčko – maskot rodinné firmy Dobrý výkup](/blog/img/obrázek1.jpg)
 
 ## Nemusíte rozumět autům, abyste své auto dobře prodali
 
