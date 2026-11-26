@@ -169,6 +169,8 @@ Další zákaznice, Anna R. z Karviné, nám zase popsala, jak službu našla na
 
 Právě takovým lidem jsme od začátku chtěli pomáhat.
 
+![Dobrý výkup Recenze - výkup vozidel.](/blog/img/certificat-79x929.jpg "Ověřené recenze zákazníků na Dobrém výkupu")
+
 Na našem webu dnes najdete desítky [zákaznických recenzí a zkušeností s výkupem aut](https://www.dobryvykup.cz/#recenze).
 
 Každá z nich má pro nás svůj význam. Za každou stojí konkrétní člověk, jeho automobil, životní příběh a rozhodnutí obrátit se právě na nás.
