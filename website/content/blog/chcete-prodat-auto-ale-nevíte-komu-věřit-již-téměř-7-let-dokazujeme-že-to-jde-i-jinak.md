@@ -19,7 +19,7 @@ Již téměř 7 let pomáháme lidem s prodejem aut přímo u nich doma.
 
 Osobní zpověď Lukáše Sedláčka, zakladatele rodinné firmy Dobrý výkup. Příběh o poctivosti, důvěře, lidských setkáních a poděkování všem, kteří nám pomáhají růst.
 
-![](/blog/img/icoico80.jpg)
+![Lukáš Sedláček – zakladatel rodinné firmy Dobrý výkup](/blog/img/icoico80.jpg)
 
 Chcete prodat své auto, ale autům příliš nerozumíte, nebo chcete prodat auto rychle a jednoduše? Nevíte, komu ho nabídnout, jakou cenu za něj požadovat nebo na koho se obrátit, aby vám s celým prodejem pomohl?
 
@@ -33,7 +33,7 @@ Jsme rodinná firma, která se již téměř sedm let věnuje online výkupu oje
 
 Dnes bych vám ale chtěl vyprávět trochu jiný příběh. O tom, proč naše služba vznikla, proč ji děláme právě tímto způsobem a jak důležití jsou pro nás lidé, kteří se rozhodnou svěřit prodej svého auta právě nám.
 
-![](/blog/img/info-icon.png)
+![Recenze a fungování služby Dobrý výkup](/blog/img/info-icon.png)
 
 ## Proč jsem se rozhodl dělat výkup aut jinak
 
@@ -55,7 +55,7 @@ Věděl jsem, že to nebude nejjednodušší cesta k podnikání. Ale byla to ce
 
 **A tak vznikl Dobrý výkup.**
 
-![](/blog/img/obrázek1.jpg)
+![červené autíčko - maskot Dobrého výkupu](/blog/img/obrázek1.jpg)
 
 ## Nemusíte rozumět autům, abyste své auto dobře prodali
 
@@ -235,7 +235,7 @@ Možná zjistíte, že jste celou dobu hledali právě takovou službu, jakou js
 
 Nemusíte rozumět autům. Stačí najít někoho, komu můžete věřit.
 
-![](/blog/img/icoico80.jpg)
+![Lukáš Sedláček z Dobrého výkupu](/blog/img/icoico80.jpg)
 
 S úctou a poděkováním
 
