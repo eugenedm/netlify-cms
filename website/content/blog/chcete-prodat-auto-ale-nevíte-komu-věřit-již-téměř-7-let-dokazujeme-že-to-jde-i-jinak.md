@@ -29,7 +29,7 @@ Možná ani netušíte, že existuje služba, která vám s tím vším pomůže
 
 Jmenuji se Lukáš Sedláček a právě pro lidi, jako jste vy, jsem v roce 2020 založil Dobrý výkup.
 
-Jsme rodinná firma, která se již téměř sedm let věnuje online výkupu funkčních a pojízdných ojetých automobilů přímo u zákazníků doma. Pomáháme lidem s oceněním vozidla, jeho prodejem, potřebnými dokumenty i přepisem. Fungujeme sedm dní v týdnu a vše zpravidla zvládneme během jedné krátké osobní návštěvy kdekoliv v České republice.
+Jsme rodinná firma, která se již téměř sedm let věnuje online výkupu běžně ojetých vozidel přímo u zákazníků doma. Pomáháme lidem s oceněním vozidla, jeho prodejem, potřebnými dokumenty i přepisem. Fungujeme sedm dní v týdnu a vše zpravidla zvládneme během jedné krátké osobní návštěvy kdekoliv v České republice.
 
 Dnes bych vám ale chtěl vyprávět trochu jiný příběh. O tom, proč naše služba vznikla, proč ji děláme právě tímto způsobem a jak důležití jsou pro nás lidé, kteří se rozhodnou svěřit prodej svého auta právě nám.
 
@@ -78,8 +78,6 @@ Od toho jsme tady my.
 Vysvětlíme vám vše potřebné, pomůžeme vám s oceněním vozidla a předem se domluvíme na výkupní ceně. Přijedeme za vámi, automobil osobně prohlédneme, vyřídíme dokumenty a při uskutečnění výkupu vám ihned zaplatíme. Pomůžeme vám také s přepisem vozidla.
 
 Nemusíte nikam jezdit ani složitě zjišťovat, co všechno je potřeba zařídit.
-
-
 
 ## Rád vám poradím, i když vaše auto nakonec nekoupím
 
