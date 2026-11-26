@@ -33,6 +33,8 @@ Jsme rodinná firma, která se již téměř sedm let věnuje online výkupu fun
 
 Dnes bych vám ale chtěl vyprávět trochu jiný příběh. O tom, proč naše služba vznikla, proč ji děláme právě tímto způsobem a jak důležití jsou pro nás lidé, kteří se rozhodnou svěřit prodej svého auta právě nám.
 
+![](/blog/img/info-icon.png)
+
 ## Proč jsem se rozhodl dělat výkup aut jinak
 
 Než vznikl Dobrý výkup, pohyboval jsem se téměř dvacet let ve světě nových i ojetých automobilů.
@@ -76,6 +78,8 @@ Od toho jsme tady my.
 Vysvětlíme vám vše potřebné, pomůžeme vám s oceněním vozidla a předem se domluvíme na výkupní ceně. Přijedeme za vámi, automobil osobně prohlédneme, vyřídíme dokumenty a při uskutečnění výkupu vám ihned zaplatíme. Pomůžeme vám také s přepisem vozidla.
 
 Nemusíte nikam jezdit ani složitě zjišťovat, co všechno je potřeba zařídit.
+
+
 
 ## Rád vám poradím, i když vaše auto nakonec nekoupím
 
@@ -166,6 +170,8 @@ Když podobná slova čtu, uvědomuji si, že cesta, kterou jsme se rozhodli př
 Další zákaznice, Anna R. z Karviné, nám zase popsala, jak službu našla na internetu a po poradě se synem se rozhodla prodat svou Škodu Fabia právě nám. Ve své recenzi doporučuje Dobrý výkup především lidem, kteří jsou nerozhodní nebo nemají zkušenosti s prodejem auta.
 
 Právě takovým lidem jsme od začátku chtěli pomáhat.
+
+![](/blog/img/certificat-79x929.jpg)
 
 Na našem webu dnes najdete desítky [zákaznických recenzí a zkušeností s výkupem aut](https://www.dobryvykup.cz/#recenze).
 
